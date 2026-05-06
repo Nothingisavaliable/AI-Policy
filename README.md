@@ -17,7 +17,7 @@ How does the level of economic freedom influence the way artificial intelligence
 - **Hypothesis 2**: Countries with lower economic freedom are more likely to emphasize regulation, control, and risk mitigation in AI-related discourse.
 - **Hypothesis 3**:  Differences in AI regulatory rhetoric reflect broader national attitudes toward market freedom, government intervention, and technological governance.
 
-
+Country scope: TBD
 
 ---
 
