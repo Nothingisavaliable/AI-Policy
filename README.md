@@ -9,15 +9,9 @@
 
 ---
 
-## ❓ Research Question & 🎯 Hypothesis
+## ❓ Research Question
+How could the future of AI evolve? Much of this depends on if it is viewed as an opportunity or a danger. One perspective that has not been explored is the relationship between economic freedom and how AI is viewed and discussed. In more economically free countries, is AI innovation encouraged in glowing terms for the sake of the economy? On the other hand, in less economically free countries,  is more cautious terminology utilized to encourage confidence in a watchful government? Our research seeks to answer this question: __what relationship, if any, exists between economic freedom and AI regulatory rhetoric?__
 
-How does the level of economic freedom influence the way artificial intelligence is framed and discussed in national regulatory and policy discourse?
-
-- **Hypothesis 1**:  Countries with higher economic freedom tend to frame AI as an opportunity for innovation, economic growth, and technological competitiveness.
-- **Hypothesis 2**: Countries with lower economic freedom are more likely to emphasize regulation, control, and risk mitigation in AI-related discourse.
-- **Hypothesis 3**:  Differences in AI regulatory rhetoric reflect broader national attitudes toward market freedom, government intervention, and technological governance.
-
-Country scope: TBD
 
 ---
 
