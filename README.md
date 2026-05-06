@@ -3,8 +3,9 @@
 ## 👥 Team Members
 - Hayden Hubbard (@hatori27) - Role/Responsibility
 - Wu Cheng (@Nothingisavaliable) - Role/Responsibility
-
-*(Add more members as needed)*
+- Daria (@github handle)- Role/Responsibility
+- Sheena (@github handle) - Role/Responsibility
+- Stephen (@github handle) - Role/Responsibility
 
 ---
 
@@ -35,14 +36,33 @@ How does the level of economic freedom influence the way artificial intelligence
 
 ## 📄 Data Sources Details
 
-Describe:
-- What data you use  
-- Why you choose it  
-- Any preprocessing steps  
+- OECD AI policy data provides structured information about national AI strategies and regulatory approaches.
+- The Economic Freedom Index offers standardized measures of market openness and government intervention.
+- Freedom House and V-Dem help control for political systems, institutional quality, and civil liberties.
+- CAP provides legislative text and policy agenda information relevant to technology governance.
+
+---
+
+## ⚙️ Methodology
+
+To investigate the relationship between economic freedom and AI regulatory rhetoric, this project will:
+
+- Collect AI-related policy documents from the OECD AI Policy Observatory and obtain economic freedom indicators from the Economic Freedom of the World Index.
+
+- Use OCR and natural language processing (NLP) techniques to extract and analyze AI policy rhetoric within G7 countries’ official policy documents.
+
+- Identify recurring themes, sentiment, and regulatory framing regarding artificial intelligence.
+
+- Compare differences in rhetoric across countries with varying levels of economic freedom.
+
+- Analyze the relationship between Economic Freedom Index scores and AI policy rhetoric using:
+  - Qualitative analysis (written interpretation, thematic analysis, and mind maps)
+  - Quantitative analysis (correlation analysis and statistical comparison)
 
 ---
 
 ## 📁 Folder Structure
 AI-Policy/
+
 └── README.md
 
