@@ -3,9 +3,9 @@
 ## 👥 Team Members
 - Hayden Hubbard (@hatori27) - Role/Responsibility
 - Wu Cheng (@Nothingisavaliable) - Role/Responsibility
-- Daria (@github handle)- Role/Responsibility
-- Sheena (@github handle) - Role/Responsibility
-- Stephen (@github handle) - Role/Responsibility
+- Daria (@complicatic)- Role/Responsibility
+- Sheena (@sheenapham1) - Role/Responsibility
+- Stephen (@St-ep-hen) - Role/Responsibility
 
 ---
 
