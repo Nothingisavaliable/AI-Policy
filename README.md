@@ -161,11 +161,16 @@ Economic Freedom Orientation
 This framework explores whether AI ecosystem maturity influences regulatory rhetoric, and whether that rhetoric reflects broader economic and ideological preferences.
 
 ## 📁 Folder Structure
+
+```text
 AI-Policy/
-└──data
-    └──number
-    └──pdf
-└──notebooks
-    └──AI Level
-└── README.md
+├── data/
+│   ├── number/        # Numerical datasets and indicators
+│   └── pdf/           # National AI policy and strategy documents
+│
+├── notebooks/
+│   └── AI_Level/      # Analysis notebooks and visualizations
+│
+└── README.md          # Project overview and documentation
+```
 
