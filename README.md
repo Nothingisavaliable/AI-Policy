@@ -189,7 +189,23 @@ Heritage Foundation Economic Freedom scores for the same eight countries, used a
 - China sits noticeably below the G7, providing a natural contrast for testing whether economic freedom levels relate to AI regulatory framing.
 - The yearly trend chart shows how economic freedom scores change over time, providing temporal context for the cross-sectional comparison.
 
-These two visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy and economic freedom across the eight jurisdictions is large enough to test whether either dimension predicts the framing of national AI strategies.
+## National AI Strategy Text Framing — G7 + China
+
+Keyword-based text analysis of national AI strategy documents, comparing broad policy themes and the balance between innovation-oriented and restriction/risk-oriented framing.
+
+![Theme Mentions per 1,000 Words](outputs/theme_mentions_per_1000_words.png)
+
+![Framing Keyword Scores per 1,000 Words](outputs/framing_keyword_scores_per_1000_words.png)
+
+![Framing Keyword Frequency by Country](outputs/framing_keyword_frequency_by_country.png)
+
+**Key observations**:
+- Theme frequency varies substantially across countries, suggesting different policy emphases within national AI strategies.
+- Innovation-oriented framing appears more frequently than restriction/risk-oriented framing across all analyzed documents.
+- Italy and the United States show comparatively stronger restriction/risk-oriented keyword presence than France, China, and Germany.
+- The keyword heatmap shows which specific terms drive each country’s framing score.
+
+These visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy, economic freedom, and regulatory framing across the eight jurisdictions is large enough to test whether broader political-economic and AI ecosystem conditions predict the framing of national AI strategies.
 
 ---
 
