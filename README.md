@@ -228,12 +228,29 @@ AI-Policy/
 │   │   └── PUBLIC DATA_ 2026 AI INDEX REPORT/
 │   └── pdf/
 │       └── AI Policy/
+│           ├── CA_National_AI_Strategy.pdf
+│           ├── CA_National_AI_Strategy_ocr.pdf
 │           ├── CN_National_AI_Strategy.pdf
 │           ├── DE_National_AI_Strategy.pdf
+│           ├── EU_AI_Strategy.pdf
 │           ├── FR__National_AI_Strategy.pdf
 │           ├── IT_National_AI_Strategy.pdf
+│           ├── JP_National_AI_Strategy.pdf
+│           ├── JP_National_AI_Strategy_ocr.pdf
+│           ├── UK_National_AI_Strategy.pdf
+│           ├── UK_National_AI_Strategy_ocr.pdf
 │           ├── US_National_AI_Strategy.pdf
-│           └── _extracted/               # Extracted text and text-analysis outputs
+│           └── _extracted/
+│               ├── *.txt                 # Extracted strategy text by country/entity
+│               ├── document_stats.csv
+│               ├── theme_counts_raw.csv
+│               ├── theme_per_1000_words.csv
+│               ├── framing_keyword_counts.csv
+│               ├── framing_category_counts.csv
+│               ├── framing_scores_per_1000_words.csv
+│               ├── framing_share_of_mentions.csv
+│               ├── keyword_sentence_matches.csv
+│               └── similarity_matrix.csv
 │
 ├── notebooks/
 │   ├── AI Development/
@@ -249,7 +266,10 @@ AI-Policy/
 │   ├── stanford_AI_Vibrancy.png
 │   ├── stanford_AI_Vibrancy_component_radar.png
 │   ├── IEF_score.png
-│   └── IEF_score_by_year.png
+│   ├── IEF_score_by_year.png
+│   ├── theme_mentions_per_1000_words.png
+│   ├── framing_keyword_scores_per_1000_words.png
+│   └── framing_keyword_frequency_by_country.png
 │
 ├── README.md
 ├── README.pdf
