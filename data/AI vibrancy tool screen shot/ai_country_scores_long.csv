@@ -1,0 +1,57 @@
+Country,Dimension,Score,Total Score
+United States,R&D,9.56,77.85
+China,R&D,9.61,35.1
+United Kingdom,R&D,1.17,20.06
+Canada,R&D,0.82,15.46
+Germany,R&D,0.98,12.35
+France,R&D,0.7,16.62
+Japan,R&D,0.69,17.7
+Italy,R&D,0.41,13.18
+United States,Responsible AI,14.29,77.85
+China,Responsible AI,5.72,35.1
+United Kingdom,Responsible AI,1.43,20.06
+Canada,Responsible AI,1.17,15.46
+Germany,Responsible AI,1.71,12.35
+France,Responsible AI,0.53,16.62
+Japan,Responsible AI,0.77,17.7
+Italy,Responsible AI,0.49,13.18
+United States,Economy,14.29,77.85
+China,Economy,1.26,35.1
+United Kingdom,Economy,1.07,20.06
+Canada,Economy,0.53,15.46
+Germany,Economy,0.58,12.35
+France,Economy,0.56,16.62
+Japan,Economy,0.34,17.7
+Italy,Economy,0.15,13.18
+United States,Talent,7.72,77.85
+China,Talent,4.56,35.1
+United Kingdom,Talent,4.77,20.06
+Canada,Talent,6.4,15.46
+Germany,Talent,4.7,12.35
+France,Talent,3.35,16.62
+Japan,Talent,4.56,17.7
+Italy,Talent,3.47,13.18
+United States,Policy and Governance,9.71,77.85
+China,Policy and Governance,0.53,35.1
+United Kingdom,Policy and Governance,6.28,20.06
+Canada,Policy and Governance,1.18,15.46
+Germany,Policy and Governance,1.09,12.35
+France,Policy and Governance,3.53,16.62
+Japan,Policy and Governance,0.73,17.7
+Italy,Policy and Governance,3.4,13.18
+United States,Public Opinion,8.44,77.85
+China,Public Opinion,7.51,35.1
+United Kingdom,Public Opinion,2.86,20.06
+Canada,Public Opinion,2.31,15.46
+Germany,Public Opinion,0.61,12.35
+France,Public Opinion,2.52,16.62
+Japan,Public Opinion,5.59,17.7
+Italy,Public Opinion,3.58,13.18
+United States,Infrastructure,13.85,77.85
+China,Infrastructure,5.9,35.1
+United Kingdom,Infrastructure,2.48,20.06
+Canada,Infrastructure,3.04,15.46
+Germany,Infrastructure,2.69,12.35
+France,Infrastructure,5.42,16.62
+Japan,Infrastructure,5.02,17.7
+Italy,Infrastructure,1.67,13.18

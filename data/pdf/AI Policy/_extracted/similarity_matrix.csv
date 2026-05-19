@@ -1,5 +1,6 @@
-,Germany,France,Italy,United States
-Germany,1.0,0.298,0.454,0.42
-France,0.298,1.0,0.368,0.275
-Italy,0.454,0.368,1.0,0.368
-United States,0.42,0.275,0.368,1.0
+,China,Germany,France,Italy,United States
+China,1.0,0.29,0.235,0.35,0.278
+Germany,0.29,1.0,0.276,0.438,0.413
+France,0.235,0.276,1.0,0.342,0.253
+Italy,0.35,0.438,0.342,1.0,0.358
+United States,0.278,0.413,0.253,0.358,1.0

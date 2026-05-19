@@ -1,4 +1,5 @@
 Country,Pages,Characters,Words (>=3 chars),Unique words,Type-token ratio
+China,18,27582,3214,966,0.301
 Germany,31,101100,11608,2059,0.177
 France,30,42286,4870,1622,0.333
 Italy,38,127506,14917,2986,0.2
