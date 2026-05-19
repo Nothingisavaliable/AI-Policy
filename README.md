@@ -198,11 +198,44 @@ These two visualizations together provide the empirical anchor for the hypothese
 ```text
 AI-Policy/
 ├── data/
-│   ├── number/        # Numerical datasets and indicators
-│   └── pdf/           # National AI policy and strategy documents
+│   ├── AI vibrancy tool screen shot/
+│   │   ├── ai_country_scores.csv
+│   │   ├── ai_country_scores_long.csv
+│   │   └── *.png                         # Stanford AI Vibrancy source screenshots
+│   ├── Index of Economic Freedom/
+│   │   ├── G7+China All Data
+│   │   └── country-level IEF files
+│   ├── number/
+│   │   ├── ai_dev_index_g7_china.csv
+│   │   ├── g7_china_datasets.csv
+│   │   ├── ief_g7_china_panel.csv
+│   │   └── PUBLIC DATA_ 2026 AI INDEX REPORT/
+│   └── pdf/
+│       └── AI Policy/
+│           ├── CN_National_AI_Strategy.pdf
+│           ├── DE_National_AI_Strategy.pdf
+│           ├── FR__National_AI_Strategy.pdf
+│           ├── IT_National_AI_Strategy.pdf
+│           ├── US_National_AI_Strategy.pdf
+│           └── _extracted/               # Extracted text and text-analysis outputs
 │
 ├── notebooks/
-│   └── AI_Level/      # Analysis notebooks and visualizations
+│   ├── AI Development/
+│   │   ├── ai_vibrancy_tool.ipynb
+│   │   ├── ai_dev_index_v2.ipynb
+│   │   └── select_g7_china_data.ipynb
+│   ├── Economic Freedom/
+│   │   └── ief_g7_china_analysis.ipynb
+│   └── Text Analysis/
+│       └── national_ai_strategy_text_analysis.ipynb
 │
-└── README.md          # Project overview and documentation
+├── outputs/
+│   ├── stanford_AI_Vibrancy.png
+│   ├── stanford_AI_Vibrancy_component_radar.png
+│   ├── IEF_score.png
+│   └── IEF_score_by_year.png
+│
+├── README.md
+├── README.pdf
+└── LICENSE
 ```
