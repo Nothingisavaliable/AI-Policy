@@ -1,11 +1,11 @@
-,China,Germany,France,Italy,United States
-Innovation,102,110,30,96,60
-Investment,1,76,45,62,34
-Ethics,7,7,0,17,1
-Regulation,15,85,4,69,48
-Safety/Risk,13,27,4,51,19
-Talent/Skills,10,22,23,87,47
-Research,19,138,47,117,34
-Industry,28,19,10,36,34
-Privacy/Data,8,8,0,23,10
-National Sec.,4,1,8,5,34
+,Canada,China,Germany,European Union,France,Italy,Japan,United Kingdom,United States
+Innovation,17,102,110,235,30,96,37,54,60
+Investment,8,1,76,190,45,62,16,43,34
+Ethics,8,7,7,37,0,17,0,1,1
+Regulation,12,15,85,130,4,69,12,54,48
+Safety/Risk,25,13,27,58,4,51,24,23,19
+Talent/Skills,46,10,22,90,23,87,16,58,47
+Research,10,19,138,125,47,117,41,37,34
+Industry,5,28,19,83,10,36,69,28,34
+Privacy/Data,31,8,8,31,0,23,2,5,10
+National Sec.,4,4,1,1,8,5,8,4,34

@@ -1,4 +1,16 @@
 Country,Framing,Keyword,Count
+Canada,Innovation-oriented,opportunity,3
+Canada,Innovation-oriented,growth,2
+Canada,Innovation-oriented,competitiveness,1
+Canada,Innovation-oriented,innovation,5
+Canada,Innovation-oriented,investment,3
+Canada,Innovation-oriented,leadership,2
+Canada,Innovation-oriented,acceleration,0
+Canada,Restriction/risk-oriented,risk,16
+Canada,Restriction/risk-oriented,safeguard,2
+Canada,Restriction/risk-oriented,restriction,0
+Canada,Restriction/risk-oriented,compliance,3
+Canada,Restriction/risk-oriented,constraint,0
 China,Innovation-oriented,opportunity,3
 China,Innovation-oriented,growth,1
 China,Innovation-oriented,competitiveness,4
@@ -23,6 +35,18 @@ Germany,Restriction/risk-oriented,safeguard,0
 Germany,Restriction/risk-oriented,restriction,0
 Germany,Restriction/risk-oriented,compliance,4
 Germany,Restriction/risk-oriented,constraint,0
+European Union,Innovation-oriented,opportunity,10
+European Union,Innovation-oriented,growth,9
+European Union,Innovation-oriented,competitiveness,8
+European Union,Innovation-oriented,innovation,90
+European Union,Innovation-oriented,investment,34
+European Union,Innovation-oriented,leadership,16
+European Union,Innovation-oriented,acceleration,2
+European Union,Restriction/risk-oriented,risk,11
+European Union,Restriction/risk-oriented,safeguard,0
+European Union,Restriction/risk-oriented,restriction,0
+European Union,Restriction/risk-oriented,compliance,6
+European Union,Restriction/risk-oriented,constraint,0
 France,Innovation-oriented,opportunity,2
 France,Innovation-oriented,growth,6
 France,Innovation-oriented,competitiveness,1
@@ -47,6 +71,30 @@ Italy,Restriction/risk-oriented,safeguard,0
 Italy,Restriction/risk-oriented,restriction,0
 Italy,Restriction/risk-oriented,compliance,11
 Italy,Restriction/risk-oriented,constraint,0
+Japan,Innovation-oriented,opportunity,1
+Japan,Innovation-oriented,growth,4
+Japan,Innovation-oriented,competitiveness,2
+Japan,Innovation-oriented,innovation,16
+Japan,Innovation-oriented,investment,9
+Japan,Innovation-oriented,leadership,1
+Japan,Innovation-oriented,acceleration,0
+Japan,Restriction/risk-oriented,risk,4
+Japan,Restriction/risk-oriented,safeguard,0
+Japan,Restriction/risk-oriented,restriction,0
+Japan,Restriction/risk-oriented,compliance,1
+Japan,Restriction/risk-oriented,constraint,0
+United Kingdom,Innovation-oriented,opportunity,6
+United Kingdom,Innovation-oriented,growth,21
+United Kingdom,Innovation-oriented,competitiveness,1
+United Kingdom,Innovation-oriented,innovation,23
+United Kingdom,Innovation-oriented,investment,15
+United Kingdom,Innovation-oriented,leadership,4
+United Kingdom,Innovation-oriented,acceleration,1
+United Kingdom,Restriction/risk-oriented,risk,3
+United Kingdom,Restriction/risk-oriented,safeguard,0
+United Kingdom,Restriction/risk-oriented,restriction,0
+United Kingdom,Restriction/risk-oriented,compliance,1
+United Kingdom,Restriction/risk-oriented,constraint,0
 United States,Innovation-oriented,opportunity,4
 United States,Innovation-oriented,growth,1
 United States,Innovation-oriented,competitiveness,1
