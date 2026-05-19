@@ -1,4 +1,4 @@
-# AI-Policy
+# 🌐 AI-Policy
 
 ## 👥 Team Members
 - Hayden Hubbard (@hatori27) - Role/Responsibility
@@ -9,7 +9,7 @@
 
 ---
 
-## ❓ Research Question
+<!-- ## ❓ Research Question
 How could the future of AI evolve? Much of this depends on if it is viewed as an opportunity or a danger. One perspective that has not been explored is the relationship between economic freedom and how AI is viewed and discussed. In more economically free countries, is AI innovation encouraged in glowing terms for the sake of the economy? On the other hand, in less economically free countries,  is more cautious terminology utilized to encourage confidence in a watchful government? Our research seeks to answer this question: __what relationship, if any, exists between economic freedom and AI regulatory rhetoric?__
 
 
@@ -53,10 +53,119 @@ To investigate the relationship between economic freedom and AI regulatory rheto
   - Qualitative analysis (written interpretation, thematic analysis, and mind maps)
   - Quantitative analysis (correlation analysis and statistical comparison)
 
+--- -->
+
+
+
+## 📖 Background
+
+Existing research has examined AI governance through various lenses; however, the relationship between economic freedom and AI-related policy discourse remains underexplored. This research seeks to address that gap by investigating whether a country’s level of economic freedom shapes how governments frame the development and regulation of AI within national strategy documents.
+
+In particular, this study compares the G7 countries and China to analyze how different economic and political environments influence AI regulatory narratives, policy priorities, and governance orientations.
+
 ---
+
+# ❓ Research Question
+
+## Primary Research Question
+
+> How do variations in economic freedom across jurisdictions shape the dominant frames, justifications, and priorities embedded in national AI regulatory discourse for G7 countries, and how does this compare to China?
+
+---
+
+## Alternative Research Question
+
+> To what extent do economic freedom and AI vibrancy predict the dominant frames embedded in national AI regulatory discourse, and how do these relationships vary across G7 countries and China?
+
+---
+
+# 🧩 Hypotheses
+
+## 🟢 H1 — AI Vibrancy and Innovation-Oriented Rhetoric
+
+Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-enabling rhetoric in their national policy documents.
+
+### Rationale
+Countries with more developed AI ecosystems are expected to have stronger industry stakeholders and innovation-oriented policy agendas, encouraging governments to frame AI regulation in enabling rather than restrictive terms.
+
+---
+
+## 🟡 H2 — Economic Freedom and Positive Regulatory Framing
+
+Countries whose AI regulatory discourse is more positive and innovation-oriented will exhibit higher economic freedom scores.
+
+### Rationale
+Positive regulatory framing may reflect broader ideological commitments toward market liberalism and economic openness, which are captured by economic freedom indicators.
+
+---
+
+## 🔵 H3 — Regulatory Framing as a Mediating Mechanism
+
+The relationship between AI vibrancy and economic freedom is partially or fully mediated by the permissiveness of AI regulatory rhetoric.
+
+### Rationale
+Regulatory framing may function as an intermediate mechanism linking AI ecosystem maturity to broader economic ideology. In this view, AI vibrancy influences how governments discuss AI, while that discourse reflects and reinforces underlying economic values.
+
+---
+
+# 🛠️ Methodology
+
+## 1️⃣ Text Analysis
+
+National AI strategy and regulatory documents from G7 countries and China will be collected and analyzed using keyword-based text analysis.
+
+The analysis examines the frequency and distribution of framing-related terms within each document to estimate the relative emphasis placed on innovation-oriented versus restriction-oriented discourse.
+
+Each document receives framing scores based on keyword occurrence frequencies.
+
+---
+
+# 🏷️ Framing Categories and Keywords
+
+| Framing Type | Keywords |
+|---|---|
+| 🚀 Innovation-oriented | "opportunity", "growth", "competitiveness", "innovation", "investment", "leadership", "acceleration" |
+| ⚠️ Restriction / Risk-oriented | "risk", "safeguard", "restriction", "compliance", "constraint" |
+
+---
+
+# 📊 Correlation Analysis
+
+Correlation analysis will be conducted to examine relationships between:
+
+- 📈 Economic Freedom scores and regulatory framing scores
+- 🤖 Stanford AI Vibrancy scores and regulatory framing scores
+
+The analysis aims to identify whether countries with stronger economic freedom or AI capability exhibit systematically different AI governance narratives.
+
+---
+
+# 🎯 Expected Contribution
+
+This research contributes to the emerging literature on AI governance by connecting political-economic structure with regulatory discourse.
+
+Rather than treating AI policy solely as a technical or legal issue, this study examines how broader economic ideology may shape national narratives surrounding AI development and regulation.
+
+---
+
+# 🧠 Core Analytical Logic
+
+```text
+AI Vibrancy
+      ↓
+Regulatory Framing
+      ↓
+Economic Freedom Orientation
+```
+
+This framework explores whether AI ecosystem maturity influences regulatory rhetoric, and whether that rhetoric reflects broader economic and ideological preferences.
 
 ## 📁 Folder Structure
 AI-Policy/
-
+└──data
+    └──number
+    └──pdf
+└──notebooks
+    └──AI Level
 └── README.md
 
