@@ -160,6 +160,39 @@ Economic Freedom Orientation
 
 This framework explores whether AI ecosystem maturity influences regulatory rhetoric, and whether that rhetoric reflects broader economic and ideological preferences.
 
+# 📊 Preliminary Results
+
+## Stanford AI Vibrancy Tool — G7 + China
+
+Cross-country comparison of AI vibrancy scores (Total Score and 7 sub-dimensions: R&D, Responsible AI, Economy, Talent, Policy and Governance, Public Opinion, Infrastructure).
+
+![Stanford AI Vibrancy](outputs/stanford_AI_Vibrancy.png)
+
+![Stanford AI Vibrancy Component Radar](outputs/stanford_AI_Vibrancy_component_radar.png)
+
+**Key observations**:
+- The United States leads overall (Total Score ≈ 77.85), driven primarily by Responsible AI, Economy, and Infrastructure.
+- China ranks second (≈ 35.10) — its R&D score is essentially tied with the U.S., but it lags substantially in Responsible AI, Economy, and Policy & Governance.
+- The remaining G7 countries cluster between 12 and 21, with no single G7 member dominating.
+- The component radar chart highlights how each country’s AI vibrancy profile differs across R&D, Responsible AI, Economy, Talent, Policy and Governance, Public Opinion, and Infrastructure.
+
+## Index of Economic Freedom — G7 + China
+
+Heritage Foundation Economic Freedom scores for the same eight countries, used as the political-economic context for the framing analysis.
+
+![Index of Economic Freedom](outputs/IEF_score.png)
+
+![Index of Economic Freedom by Year](outputs/IEF_score_by_year.png)
+
+**Key observations**:
+- G7 economies generally cluster in the "Mostly Free" / "Moderately Free" range.
+- China sits noticeably below the G7, providing a natural contrast for testing whether economic freedom levels relate to AI regulatory framing.
+- The yearly trend chart shows how economic freedom scores change over time, providing temporal context for the cross-sectional comparison.
+
+These two visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy and economic freedom across the eight jurisdictions is large enough to test whether either dimension predicts the framing of national AI strategies.
+
+---
+
 ## 📁 Folder Structure
 
 ```text
@@ -173,4 +206,3 @@ AI-Policy/
 │
 └── README.md          # Project overview and documentation
 ```
-
