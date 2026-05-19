@@ -1,10 +1,10 @@
-Country,Pages,Characters,Words (>=3 chars),Unique words,Type-token ratio
-Canada,27,54816,6602,1571,0.238
-China,18,27582,3214,966,0.301
-Germany,31,101100,11608,2059,0.177
-European Union,66,229358,26479,2997,0.113
-France,30,42286,4870,1622,0.333
-Italy,38,127506,14917,2986,0.2
-Japan,17,43336,4821,1149,0.238
-United Kingdom,28,61665,7349,1840,0.25
-United States,28,68711,7756,1905,0.246
+Country,Source files,Pages,Characters,Words/CJK chars,Unique tokens,Type-token ratio
+Canada,CA_National_AI_Strategy_ocr.pdf,27,54816,6602,1571,0.238
+China,CN_National_AI_Strategy.pdf; 国务院关于深入实施“人工智能+”行动的意见.pdf,21,33058,7684,1559,0.203
+Germany,DE_National_AI_Strategy.pdf,31,101100,11608,2059,0.177
+European Union,EU_AI_Strategy.pdf,66,229358,26479,2997,0.113
+France,FR__National_AI_Strategy.pdf,30,42286,4870,1622,0.333
+Italy,IT_National_AI_Strategy.pdf,38,127506,14917,2986,0.2
+Japan,JP_National_AI_Strategy_ocr.pdf,17,43336,4821,1149,0.238
+United Kingdom,UK_National_AI_Strategy_ocr.pdf,28,61665,7349,1840,0.25
+United States,US_National_AI_Strategy.pdf,28,68715,7756,1905,0.246

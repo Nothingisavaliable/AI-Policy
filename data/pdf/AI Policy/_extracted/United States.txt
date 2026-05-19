@@ -6,7 +6,7 @@ JULY 2025
 AMERICA’S AI ACTION PLAN
 “Today, a new frontier of scientific discovery lies before us,
 defined by transformative technologies such as artificial
-intelligence… Breakthroughs in these fields have the potential
+intelligence... Breakthroughs in these fields have the potential
 to reshape the global balance of power, spark entirely new
 industries, and revolutionize the way we live and work. As our
 global competitors race to exploit these technologies, it is a
@@ -82,7 +82,7 @@ comprehensively than our competitors in the development and distribution of new 
 technology across every field, and dismantle unnecessary regulatory barriers that hinder the
 private sector in doing so. As Vice President Vance remarked at the Paris AI Action Summit in
 February, restricting AI development with onerous regulation “would not only unfairly benefit
-incumbents… it would mean paralyzing one of the most promising technologies we have seen
+incumbents... it would mean paralyzing one of the most promising technologies we have seen
 in generations.”2 That is why President Trump rescinded the Biden Administration’s
 dangerous actions on day one.
 We need to build and maintain vast AI infrastructure and the energy to power it. To do that, we

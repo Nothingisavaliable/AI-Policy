@@ -1,0 +1,10 @@
+Country,Source files,Translation file,Units,CJK-heavy units,Status
+Canada,CA_National_AI_Strategy_ocr.pdf,,79,0,skipped_no_cjk
+China,CN_National_AI_Strategy.pdf; 国务院关于深入实施“人工智能+”行动的意见.pdf,China.txt,155,115,cached
+Germany,DE_National_AI_Strategy.pdf,,145,0,skipped_no_cjk
+European Union,EU_AI_Strategy.pdf,,328,0,skipped_no_cjk
+France,FR__National_AI_Strategy.pdf,,61,0,skipped_no_cjk
+Italy,IT_National_AI_Strategy.pdf,,184,0,skipped_no_cjk
+Japan,JP_National_AI_Strategy_ocr.pdf,,62,0,skipped_no_cjk
+United Kingdom,UK_National_AI_Strategy_ocr.pdf,,89,0,skipped_no_cjk
+United States,US_National_AI_Strategy.pdf,,99,0,skipped_no_cjk

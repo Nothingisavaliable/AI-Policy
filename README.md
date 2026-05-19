@@ -112,11 +112,13 @@ Regulatory framing may function as an intermediate mechanism linking AI ecosyste
 
 ## 1️⃣ Text Analysis
 
-National AI strategy and regulatory documents from G7 countries and China will be collected and analyzed using keyword-based text analysis.
+National AI strategy and regulatory documents from G7 countries, China, and the European Union will be collected and analyzed using keyword-based text analysis.
 
 The analysis examines the frequency and distribution of framing-related terms within each document to estimate the relative emphasis placed on innovation-oriented versus restriction-oriented discourse.
 
-Each document receives framing scores based on keyword occurrence frequencies.
+China is treated as one country-level case and combines both the national AI strategy document and the newer State Council “AI+” action policy. Each country/entity receives framing scores based on keyword occurrence frequencies.
+
+For robustness and inspection, Chinese-heavy text is translated into English with `facebook/nllb-200-distilled-600M`. English source documents are not translated or duplicated; they are marked as skipped in `translation_stats.csv`.
 
 ---
 
@@ -124,8 +126,8 @@ Each document receives framing scores based on keyword occurrence frequencies.
 
 | Framing Type | Keywords |
 |---|---|
-| 🚀 Innovation-oriented | "opportunity", "growth", "competitiveness", "innovation", "investment", "leadership", "acceleration" |
-| ⚠️ Restriction / Risk-oriented | "risk", "safeguard", "restriction", "compliance", "constraint" |
+| 🚀 Innovation-oriented | "opportunity", "growth", "competitiveness", "innovation", "investment", "leadership", "acceleration"; Chinese equivalents such as "创新", "投资", "加速" |
+| ⚠️ Restriction / Risk-oriented | "risk", "safeguard", "restriction", "compliance", "constraint"; Chinese equivalents such as "风险", "合规", "限制" |
 
 ---
 
@@ -191,7 +193,7 @@ Heritage Foundation Economic Freedom scores for the same eight countries, used a
 
 ## National AI Strategy Text Framing — G7 + China
 
-Keyword-based text analysis of national AI strategy documents, comparing broad policy themes and the balance between innovation-oriented and restriction/risk-oriented framing.
+Keyword-based text analysis of national AI strategy documents, comparing broad policy themes and the balance between innovation-oriented and restriction/risk-oriented framing. China aggregates both Chinese policy PDFs listed in `document_sources.csv`.
 
 ![Theme Mentions per 1,000 Words](outputs/theme_mentions_per_1000_words.png)
 
@@ -202,10 +204,10 @@ Keyword-based text analysis of national AI strategy documents, comparing broad p
 **Key observations**:
 - Theme frequency varies substantially across countries, suggesting different policy emphases within national AI strategies.
 - Innovation-oriented framing appears more frequently than restriction/risk-oriented framing across all analyzed documents.
-- Italy and the United States show comparatively stronger restriction/risk-oriented keyword presence than France, China, and Germany.
+- Canada, Italy, and the United States show comparatively stronger restriction/risk-oriented keyword presence than France, China, Germany, and the European Union.
 - The keyword heatmap shows which specific terms drive each country’s framing score.
 
-These visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy, economic freedom, and regulatory framing across the eight jurisdictions is large enough to test whether broader political-economic and AI ecosystem conditions predict the framing of national AI strategies.
+These visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy, economic freedom, and regulatory framing across the analyzed jurisdictions is large enough to test whether broader political-economic and AI ecosystem conditions predict the framing of national AI strategies.
 
 ---
 
@@ -240,17 +242,22 @@ AI-Policy/
 │           ├── UK_National_AI_Strategy.pdf
 │           ├── UK_National_AI_Strategy_ocr.pdf
 │           ├── US_National_AI_Strategy.pdf
-│           └── _extracted/
-│               ├── *.txt                 # Extracted strategy text by country/entity
-│               ├── document_stats.csv
-│               ├── theme_counts_raw.csv
-│               ├── theme_per_1000_words.csv
-│               ├── framing_keyword_counts.csv
-│               ├── framing_category_counts.csv
-│               ├── framing_scores_per_1000_words.csv
-│               ├── framing_share_of_mentions.csv
-│               ├── keyword_sentence_matches.csv
-│               └── similarity_matrix.csv
+│           ├── 国务院关于深入实施“人工智能+”行动的意见.pdf
+│           ├── _extracted/
+│           │   ├── *.txt                 # Extracted strategy text by country/entity
+│           │   ├── document_sources.csv
+│           │   ├── document_stats.csv
+│           │   ├── theme_counts_raw.csv
+│           │   ├── theme_per_1000_words.csv
+│           │   ├── framing_keyword_counts.csv
+│           │   ├── framing_category_counts.csv
+│           │   ├── framing_scores_per_1000_words.csv
+│           │   ├── framing_share_of_mentions.csv
+│           │   ├── keyword_sentence_matches.csv
+│           │   └── similarity_matrix.csv
+│           └── _translated_nllb/
+│               ├── China.txt             # NLLB English translation for Chinese-heavy policy text
+│               └── translation_stats.csv
 │
 ├── notebooks/
 │   ├── AI Development/
@@ -260,6 +267,7 @@ AI-Policy/
 │   ├── Economic Freedom/
 │   │   └── ief_g7_china_analysis.ipynb
 │   └── Text Analysis/
+│       ├── national_ai_strategy_nllb_translation.ipynb
 │       └── national_ai_strategy_text_analysis.ipynb
 │
 ├── outputs/

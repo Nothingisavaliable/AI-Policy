@@ -2174,7 +2174,7 @@ public service delivery.
 213 For details, see Connecting Europe eTranslation platform.
 47
 or social-security institutions214. The Commission has also engaged in AI-related actions, for
-instance in ISA²215, including a pilot to tackle the use of machine learning for document
+instance in ISA2215, including a pilot to tackle the use of machine learning for document
 review/classification in administrations216. Other initiatives included, for example, analysis of
 the use of AI in the justice field217 and the organisation of practical AI webinars on the use of
 AI applications in that area218.
@@ -2205,8 +2205,8 @@ With the support of the Member States, the Commission will:
 public administrations at local level, through the reinforcement of European capacity for
 214 In March 2020, the web portal was also made available to SMEs; there are already almost as many SMEs among
 the users as public administrations.
-215 See European Commission ISA² webpage – Bringing new technologies in the public sector – AI related actions
-in ISA² programme (Interoperability solutions for public administrations, businesses and citizens) (2018).
+215 See European Commission ISA2 webpage – Bringing new technologies in the public sector – AI related actions
+in ISA2 programme (Interoperability solutions for public administrations, businesses and citizens) (2018).
 216 See European Commission, Innovative public services action information webpage (2018).
 217 European Commission, Study on the use of innovative technologies in the justice field, September 2020.
 218 The webinars are organised pursuant to the 2 December 2020 Communication on the digitalisation of justice in

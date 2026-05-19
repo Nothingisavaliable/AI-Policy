@@ -1,0 +1,761 @@
+No.17
+Department of International Cooperation Ministry of Science and Technology(MOST), P.R.China
+(cid:52)(cid:70)(cid:81)(cid:85)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:15)(cid:18)(cid:22)(cid:1)(cid:19)(cid:17)(cid:18)(cid:24)
+Next Generation Artifi cial Intelligence Development Plan
+Issued by State Council
+China’s Strengths Creates Innovation Miracles
+SSppoonnssoorr:: DDeeppaarrttmmeenntt ooff IInntteerrnnaattiioonnaall CCooooppeerraattiioonn,,MMiinniissttrryy ooff SScciieennccee aanndd
+TTeecchhnnoollooggyy((MMOOSSTT)),, PP..RR..CChhiinnaa
+OOrrggaanniizzeerr:: CChhiinnaa AAssssoocciiaattiioonn ffoorr IInntteerrnnaattiioonnaall SScciieennccee aanndd TTeecchhnnoollooggyy CCooooppeerraa
+
+ttiioonn
+ccaaiissttcc@@112266..ccoomm
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+Over 60 years of progress has witnessed booming of new theories and new technologies including
+mobile Internet, big data, super computing, sensor network and brain science. Driven both by the new
+theories and technologies and strong demand for socioeconomic development, artifi cial intelligence (AI) has
+developed rapidly. A set of new features such as deep learning, cross-border integration, human-computer
+cooperation, group intelligence sharing and free manoeuvre have emerged. The general advancement of
+AI-related disciplines, theoretical modeling, technological innovation 
+
+and software and hardware update
+is triggering a chain of breakthroughs, boosting transformation from digitization and Internetization to
+intelligentization in all aspects of social and economic sphere. In light of new circumstances and demands,
+we need to take proactive approaches to meet changes, seize the historical opportunity of AI development
+and take stock of the current situation and make proactive plans to serve socioeconomic development
+and national security and to lead leapfrog advancement of national competitiveness. To this end, the State
+Council has issued Next Generation Artificial Intelligence Development Plan. This is a major event in the
+history of science and technology (S
+
+&T) advancement in China and the fi rst systemic and strategic plan in
+AI sphere. It mainly plans for the overall thinking, strategic goals, main tasks and supporting measures for AI
+development before 2030.
+Next Generation Artifi cial Intelligence
+Development Plan
+Introduction
+Artificial intelligence (AI) has become new focus of
+international economy, new engine of economic development and
+new opportunity of social development. To seize the major strategic
+opportunity brought by AI development, build up our AI fi rst mover
+advantage and speed up building innovation-driven and globally
+advanced science and technology country, we formulated this plan
+according to deployment requirements of th
+
+e Central Government
+and the State Council.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+As a core driving force for next round of industrial transformation, artifi cial intelligence will further release
+the huge energy accumulated over the previous technological and industrial transformation, create new
+engine for restructuring production, distribution, exchanges and consumption, build up new demand for
+intelligentization in both macro and micro sense, create new technology, products, industries, dynamics and
+models, trigger major transformation of economic structure, deeply alter human life and thinking and realize
+advancement of social productivity.
+Art
+
+ificial intelligence (AI) brings new opportunities for social development. China is now at a critical
+juncture of building a relatively well-off society in an all-round way while it is facing severe challenges
+like aging population and resource and environment restraint. AI boasts broad applications in education,
+medical care, provision for the aged, environmental protection, urban operation and judicial service, which
+will markedly improve targeted public service and people’s livelihood. AI technology is able to accurately
+perceive, predict and offer early warning for major circumstances in infrastructure and social security, timely
+seize group cognition and psychological changes so that pr
+
+oactive measures are taken to improve social
+management capacity, which plays an irreplaceable role in stabilizing the society.
+Basic principles
+Lead by Science Systemic Open Source
+Drive by Market
+and Technology Layout and Openness
+China boasts sound foundation for developing AI. The Chinese government has planned for major
+national R&D projects including AI projects. It has issued a three-year implementation plan for Internet+
+AI, putting forward a series of measures for technology R&D, application and industrial development. After
+years of efforts, we have made major progress in AI area, ranking the second in the number of published
+technology papers and patents and making important break
+
+throughs in the core technology of some areas.
+We lead the world in voice and visual recognition, have capacity for rapid development in adaptive self-
+learning, intuitive awareness, comprehensive reasoning, hybrid intelligence and group intelligence and have
+entered practical application of Chinese information processing, intelligence monitoring, biometric recognition,
+industrial robots, service robots and unmanned driving. AI innovation and entrepreneurship are growing
+rapidly with a group of leading businesses gaining wide international awareness and recognition. Growing
+technological capacity, massive data resource, huge application demand and open market environment have
+created a uniqu
+
+e advantage for China to develop AI.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+Strategic Goals
+Step 1 By 2020 overall AI technology and application reach
+globally advanced level. AI industry becomes new economic
+growth point. AI technological application becomes new
+approach to improving people’s livelihood to support our
+goal in becoming an innovation-driven country and building a
+moderately prosperous society in all respects.
+Step 2 By 2025 AI basic theory makes breakthroughs. AI
+technology and application reach globally advanced level.
+AI becomes a major driving force for industrial upgrade and
+economic restructuring. Building an intelligence society
+
+
+makes progress.
+Step 3 By 2030 AI theory, technology and application
+reach globally advanced level. China becomes global AI
+innovation center. Intelligence economy and society make
+marked progress, laying a solid foundation for becoming an
+innovation-driven and economically powerful country.
+Uncertainty in AI development brings new challenges. AI is a revolutionary and widely influential
+technology which may bring about issues like changing employment structure, impacting law and social
+ethnics, infringing personal privacy and challenging international relations. It will deeply infl uence government
+management, economic security, social stability and global governance. While robustly develo
+
+ping AI, we
+must highlight the potential safety risks, enhance early prevention and guidance, reduce risks to a maximum
+degree and ensure the safe, reliable and manageable development of AI.
+Major Task
+Set up a system Stick to Three in One
+Open and coordinated AI science R&D, product application and
+and technology innovation system industrial cultivation
+Seize double nature Enhance Four Supports
+Highly integrate technical nature Support technology, economy, social
+and social nature development and national security
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+We must take into account the overall situation of national development, grasp global AI developme
+
+nt
+trend, find the breaking point and priority, enhance basic capacity for technological innovation, expand
+the depth and scope for application of major areas and improve intelligence level of social and economic
+development and national defense application.
+1. Set up open and coordinated AI science and
+technology innovation system
+Set up basic theory system of next generation AI
+(1) big data intelligence theory
+(2) cross-media perceptual computing theory
+(3) hybrid augmented intelligence theory
+(4) group intelligence basic theory
+(5) coordinated control and decision-making theory
+(6) advanced machine learning theory
+(7) brain-like intelligence computing theory
+(8) quantum intelligence compu
+
+ting theory
+Set up next generation key AI generic technology system
+(1) knowledge computing engine and knowledge service technology
+(2) cross-media analytic reasoning technology
+(3) key group intelligence technology
+(4) new structure and new technology of hybrid augmented intelligence
+(5) autonomous man-less system technology
+(6) virtual reality intelligence modeling technology
+(7) intelligence computing chip and system
+(8) natural language processing technology
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+Coordinate the set-up of AI innovation platform
+(1) basic platform for AI open source software and hardware
+(2) group intelligence service platform
+(3) 
+
+hybrid augmented intelligence support platform
+(4) independent man-less system support platform
+(5) AI basic data and safety assessment platform
+Accelerate the cultivation of high-level AI talents
+(1) cultivate high-level AI innovation talents and team
+(2) Make more efforts to bring in high-level AI talents
+(3) Set up AI discipline
+2. Cultivate high-end and highly effi cient
+intelligent economy
+Vigorously develop AI emerging industry
+Intelligent software and hardware, intelligent robot, intelligent
+launch vehicle, virtual reality and augmented reality, intelligent terminal,
+Internet of Things basic device.
+Accelerate industrial intelligent upgrading
+Intelligent manufacturing, intelligent agr
+
+iculture, intelligent logistics,
+intelligent fi nance, intelligent business, intelligent house.
+Vigorously develop AI enterprise
+Promote large-scale intelligent upgrading of business, promote
+AI application factory and cultivate speedily leading businesses of AI
+industry.
+Set up AI innovation highland
+Carry out demonstration for AI application, build national AI
+industrial park and national maker space for AI.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+3. Build safe and convenient intelligent society
+Develop convenient and effi cient intelligent service
+Intelligent education, intelligent medical care, intelligent health and aged care.
+Promote intelligent
+
+ social governance
+Intelligent business, intelligent court, intelligent city, intelligent transportation,
+intelligent environmental protection.
+Use AI to improve capacity to protect public security
+Promote mutual trust and sharing in society
+4. Enhance AI civil-military integration
+Deploy next generation AI basic theory and key generic
+technology R&D oriented toward civil-military sharing, set
+up regular communication and coordination mechanism like
+higher education and research institutions, companies and
+military institutes.
+5. Build safe and effi cient AI infrastructure system
+Upgrade network infrastructure, coordinate and use big
+data infrastructure, build effi cient computing infrastruc
+
+ture
+and distributed and effi cient energy Internet.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+6. Make forward-looking plans for major science and
+technology programs of next generation AI
+“1+N”AI program group with major S&T
+programs of next generation AI as the core and
+supported by existing R&D.
+refers to major S&T programs of next
+generation AI
+refers to major national special S&T
+programs, S&T innovation 2030 and National
+Key R&D program
+“1” refers to major technology projects of next generation AI. It focuses on basic theory and forward-
+thinking planning of key generic technology, including research on theories related to big data intelligence,
+c
+
+ross-media perceptual computing, hybrid augmented intelligence, group intelligence, coordinated control
+and decision-making. And it focuses on studying knowledge computing engine and knowledge service
+technology, cross-media analytic reasoning technology, key group intelligence technology, new structure and
+new technology of hybrid augmented intelligence, autonomous control technology, basic theory and generic
+technology of open-sourced AI sharing. We continuously predict and analyze AI development and study the
+socioeconomic infl uence and solutions provided by strengthening AI.
+“N” refers to AI R&D projects deployed by related national plans. Its focus is to enhance its link with
+major tec
+
+hnology project of next generation AI and to coordinate theory research, technology breakthrough
+and product research application of AI. In terms of its link with major national special projects of technology,
+it supports software and hardware of AI development in the special projects in core electronic devices, high-
+end universal chips, basic software and integrated circuit equipment. It enhances its mutual support with
+other “technology innovation 2030--major projects”, speeds up research on brain science and brain-like
+computing, quantum information and quantum computing, intelligent manufacturing and robots and big data,
+providing support for technological breakthroughs in AI. National 
+
+key R&D Projects continue to promote major
+special projects like high-performance computing and provide more support for related technological R&D
+and application of AI. National Natural Science Foundation of China (NSFC) provides continuous support for
+cutting-edge interdisciplinary research and free exploration. In the deployment of major projects like deep
+underwater space station and health security and national key R&D plan for major special projects, we will
+enhance application demonstration of AI technology. Other AI related basic theory and generic technology
+research fi ndings supported by various technology plans should be shared openly.
+Next Generation Artificial Intelligence Deve
+
+lopment Plan
+Issued by State Council
+Resource distribution
+Fully capitalize on existing resources like capital and
+base, holistically allocate domestic and international innovation
+resource, prioritize the set-up of AI innovation base, give
+play to the guiding role played by fiscal revenue and policy
+incentives and dominant role played by market to distribute
+resource, build a new pattern supported by fi scal, fi nancial and
+social capital.
+Supporting measures
+1. Formulate laws and regulations and ethical norms
+related to AI development.
+2. Improve major policies for AI development.
+3. Set up AI technology standard and intellectual
+property system.
+4. Set up AI safety regulation and assessme
+
+nt
+system.
+5. Enhance AI labor force training.
+6. Carry out extensive activities to
+popularize AI.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+1. Formulate laws and regulations and ethical norms related to promoting AI
+development.
+We need to carry out research on legal issues of AI application-related civil and criminal liability
+confi rmation, privacy and intellectual property protection and safe use of information, set up traceability and
+accountability system and identify AI legal entity and related rights, obligations and responsibilities. We will
+carry out AI behavior science and ethics research, set up multilevel assessment structure for ethics and
+
+
+morals and ethic framework for human-machine coordination, formulate moral standard and behavior code
+for AI product research designers, enhance assessment for potential AI risks and benefits and build up
+emergency solutions for complicated AI scenarios, participate in AI global governance, strengthen research
+into major international common problems like robot alienation and safety regulation, further international
+cooperation in AI laws and regulations and international rules and jointly meet global challenges.
+2. Improve major policies for AI development.
+We need to put in place fi nancial and tax preferential policies for small and medium sized and start-up
+enterprises, support AI busin
+
+ess development by policies like tax breaks for hi-tech business and weighted
+deduction for R&D, improve data sharing and protection policies, carry out pilot program for public statistics
+sharing, support general public and business to fully capitalize on the commercial value of public data,
+promote innovative AI application, improve policy system that is adjusted to AI-related education, medical
+care, insurance and social assistance and effectively handle social issues brought by AI.
+3. Set up AI technology standard and intellectual property system.
+We need to enhance research into AI standard framework, stick to principles of safety, usability,
+interoperability and traceability, progressi
+
+vely set up and improve AI generics, connectivity, industrial
+application, network safety and privacy protection standards, encourage AI business to participate in or
+formulate international standards, lead overseas AI products and service application with technological
+standard, enhance IPR protection in AI area, set up AI public patent pool and promote the use and
+dissemination of AI.
+4. Set up AI safety regulation and assessment system.
+We need to enhance research and assessment of AI infl uence on national security and confi dentiality,
+improve safety prevention and protection system featuring human, technology, product and management,
+build up warning mechanism for AI safety monitoring,
+
+ enhance research into prediction, assessment and
+trace of AI technology development, stick to problem-oriented approach and grasp technological and
+industrial development trend, pay attention to risk assessment and prevention, strengthen forward-thinking
+prevention and guidance, set up open and transparent AI monitoring system, carry out two-level monitoring
+structure with accountability and monitoring for application, promote AI industrial and business discipline,
+enhance management and punish data abuse, privacy infringement and unethical behavior.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+5. Enhance AI labor force training.
+We need to speed up resea
+
+rch into employment structure and mode change brought by AI and new type
+of employment and work skills required, set up lifelong learning and employment training system demanded
+by intelligence economy and society, support higher education institutions, vocational schools and social
+training institutions to carry out AI skills training, dramatically improve employees’ skill set to meet demands
+of highly-skilled and high quality work brought by AI.
+6. Carry out extensive activities to popularize AI.
+We need to support various forms of activities to popularize AI, encourage science and technology
+workers to popularize AI, improve general public’s awareness and application of AI, carry out AI e
+
+ducation
+programs, set up AI-related courses in elementary and middle schools, disseminate progressively
+programming education, encourage social force to participate in developing and disseminating educational
+programming software, open AI R&D platform, production facilities or exhibitions to the general public,
+encourage AI competition, encourage various forms of creation to popularize AI and encourage scientists to
+take part in popularizing AI.
+Organization and implementation
+1.Organization and leadership
+According to the deployment of the Central Government and
+the State Council and coordinated by Steering Group for National
+Science and Technology System Reform and Innovation System
+Build
+
+ing, we examine and deliberate on major tasks, policies, issues
+and work arrangement, promote AI-related laws and regulations,
+guide, coordinate and supervise related departments to make
+related plans. Supported by Inter-ministerial Joint Conference on
+National Science and Technology Program (special program and
+fund etc.) Management, Ministry of Science and Technology (MOST)
+and related departments will carry out major science and technology
+programs of next generation AI, enhance its link with other plans
+and tasks, set up AI Plan Promotion Office in MOST to facilitate
+the implementation, set up AI Strategy Consultancy Committee to
+study forward-looking and strategic issues and assess majo
+
+r AI
+policies, facilitate AI think tank building, support various think tanks
+to study major AI issues and provide strong intellectual support for AI
+development.
+Next Generation Artificial Intelligence Development Plan
+Issued by State Council
+2.Guarantee of implementation
+We need to disintegrate plans and tasks, clarify responsible
+departments and work schedule, formulate annual and periodical
+implementation plan and enhance dynamic adjustment of plans and
+programs.
+3.Pilot Demonstration
+We need to disintegrate plans and tasks, clarify responsible
+departments and work schedule, formulate annual and periodical
+implementation plan and enhance dynamic adjustment of plans and
+programs.
+4.Public
+
+ Opinion Guidance
+We need to fully capitalize on various traditional and emerging
+media, timely publicize AI progress and achievement, make sound
+AI development a social consensus, mobilize social initiative to
+participate in and support AI development and timely guide public
+opinion to meet social, ethical and legal challenges brought by AI
+development.
+(Source: website of the State Council, July 20, 2017)
+China’s Strengths Creates Innovation Miracles
+The previous 5 years has witnessed the Chinese
+people making great endeavors under the leadership
+of the Communist Party of China for STI miracles. All
+this was achieved by China’s strengths.
+For the past 5 years, China has achieved all-around
+
+ scientific
+and technological breakthroughs, standing on the summit of cutting-
+edge technologies. For the past 5 years, China has transformed from
+relying on resource and labor force dividend to “Lead by Innovation”
+mode, becoming increasingly important in global innovation pattern.
+China’s Stregnths: “5 Golden Years”
+Creates Innovation Miracles
+China, the largest developing country in the world, places great
+emphasis on science and technology innovation, sounding the horn of
+building a global science and technology power.
+Over the past year alone, “transcript” of innovation in China is
+great enough for national pride and global applause:
+The first independently-manufactured aircraft carrie
+
+r
+makes its debut
+New type 10,000-ton destroyer enters the water
+First self-developed bullet train Fuxing makes its debut
+Quantum Space Satellite Mozi shines in outer space
+Extracted combustible ice for 60 days, setting two
+world records of longest extract time and largest gas
+volume.
+China’s Strengths Creates Innovation Miracles
+2017 World Competitiveness Yearbook
+Report shows: published by Swiss-based International
+Institute for Management Development
+In ranking of the most competitive global economies, Chinese
+mainland has elevated to No.18 and ranked the 2nd in global Economic
+Performance.
+The past 5 years has witnessed historical leap in China’s dream
+to “Overtake the World” and become 
+
+a powerhouse:
+Mileage of high-speed trains in China exceeded 20,000
+km, the longest in the world.
+China has made increasing breakthroughs in cutting-
+edge areas with S&T achievement that caught the world’s
+attention.
+The number of Fortune Global 500 Chinese companies
+has been increasing. China’s international competitiveness
+has ranked among the top of all developing countries.
+Report shows:
+Global Innovation Index 2017 Report
+China has climbed from No.25 last year to No.22 this year and
+was the only medium income country that entered top 25.
+China power: independent innovation reshapes
+world science and technology pattern
+How far is 380,000 km? On 14th December 2013, Yutu lunar
+rover left i
+
+ts footprint on the moon with Chinese fl ag.
+From high-speed rail From space flight
+to super computing to aviation
+Core technology cannot be bought. Only by innovation can we
+master our own fate.
+China’s Strengths Creates Innovation Miracles
+Why is China’s innovation rise possible?
+Talents breed the soil for innovation and are our inexhaustible rich ore.
+170 million
+81 million science workers highly educated or skilled talents
+Sustainable input is like flowing water, irrigating prosperous
+China’s Innovation Era.
+In 2016 the national technical contract transaction volume
+increased by 15.97%
+year on year, exceedin g o n e t r i l l i o n y u a n for the fi rst time.
+national technical contract
+
+ transaction volume
+The national R&D expenditure reached 1 , 5 4 4 b i l l i o n y u a n ,
+accounting for 2 . 1 % of GDP, among which 7 8 % came from
+businesses.
+National Science Foundation (NSF) says
+“China is undoubtedly the 2nd largest R&D country in the world.
+China’s R&D expenditure is approaching that of the whole EU.”
+China’s Strengths Creates Innovation Miracles
+Good policy is like sunshine. Furthered S&T reform solves
+innovation formula.
+To consolidate national core competitiveness, important
+plans like National Guideline for Innovation-Driven
+Development Strategy and National Science and Technology
+Innovation Plan for 13th Five-Year Plan Period have been
+issued to enhance S&T suppl
+
+y, consolidate its foundation,
+boost strategy orientation, deepen innovation reform and
+clarify positioning of S&T innovation.
+Streamline administration and increase innovation and
+business, carry out distribution policy that is knowledge-
+and value-oriented to mobilize mass innovation and
+entrepreneurship.
+Innovation Confi dence: look forward to reaching
+innovation summit
+In 2018, Beidou Navigation Satellite System will
+cover major countries along the Belt and Road.
+China, boasting splendid S&T history, is producing
+more intellectual achievements for the world.
+China’s Strengths Creates Innovation Miracles
+Climb to science and technology summit with steadfast steps of
+Chinese characteristic
+
+s.
+Asymmetrical overtaking
+Quantum communication and quantum computer, brain science
+and brain-like research, deep underwater space station, space
+ground integration...
+On the journey to build a global science and technology
+power, China will create a tiered systematic pattern with major S&T
+programs for 2030 and major national S&T special projects already
+started in 2006.
+Innovation creates China Heart
+We will continue to carry out the special project of core
+electronic component, high-end common chip and basic software,
+set up Aero Engine Corporation of China (AECC), mobilize our
+strengths to make breakthroughs in integrated circuit, engine
+and gas turbine to get the “Pearl of Industrial C
+
+rown” as soon as
+possible.
+Further reform, consolidate foundation and highlight environment
+About 90% of modern technology innovation findings stem
+from basic research. China lags behind in basic research, so core
+technology are controlled by others. We need to make more efforts
+into basic research and make more innovations and create fl exible
+innovation environment.
+China’s Strengths Creates Innovation Miracles
+Launch the
+first Mars
+probe
+Launch Chang’e 4 China deploys important
+and carry out world’s programs like quantum
+first exploration on communication and
+far side of the Moon. quantum computer.
+Innovation is “fl owing water”,
+making China’s seed of advanced ideas into towering trees.
+
+
+Innovation is “perpetual motion machine”
+advancing our development boldly.
+Growing from a poor country to a rich and strong one, China is
+now emerging as an innovative country. The gate for the rejuvenation
+of the Chinese nation is already open.
+(Source: Xinhua Net, August 18 2017)
+
+--- Source: State Council Opinion on the in-depth implementation of the AI+Action on AI.pdf ---
+
+2026/5/19 19:11 State Council Resolutions on the Deep Implementation of the AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of the Deep Implementation of Artificial Implementation of AI+Action in China State Council Resolutions on the Deep Implementation of Artificial Implementation of Artificial Implementation of Artificial Intelligence in China State Council Resolutions on State Council Resolutions on the State Council Resolutions on State Council Resolutions on the Deep Implementation of State Council Resolutions on State Council Resolutions on State Council Resolutions on State Council Resolutions on the Deep Implementation of State Council Resolutions on State Council Resolutions on State Council Resolutions on the Deep Implementation of State Council Resolutions on State Council on the Deep Implementation of State Council on the Deep Implementation of State Council on the Deep Implementation of State Council on the Deep Implementation of State Council on the Deep Implementation of State Council on
+
+A. The overall demand is to be guided by the Chinese socialist ideology of Xi Jinping's new era, fully accurately and comprehensively implement new development concepts, adhere to human-centered development ideas, fully exploit our country's advantages in terms of resource abundance, industrial system completeness, wide range of application scenarios, strengthen forward planning, system layout, distribution policies, open sharing, security control, focus on technology, industry, consumption, livelihood, governance, global cooperation, deepen the implementation of artificial intelligence + development actions, flow of new infrastructure, new technology systems, new industrial ecosystems, new industrial positions, etc., accelerate the development of new productive capacities, enable all people to share the results of artificial intelligence development, and more modern Chinese construction.
+
+By 2027, AI will be the first to achieve a broad and deep integration with the six key areas, with an application penetration rate of over 70% for new generation of smart devices, smart bodies, smart economy core industry regulations, rapid growth of models, a significant increase in the role of AI in public governance, and the continuous improvement of the open collaboration system.
+
+By 2030, China's comprehensive empowerment of high-quality exhibitions, the penetration of applications such as the new generation of smart devices and smart bodies exceeds 90%, and the smart economy will become an important driver of economic development in China, promoting technological inclusion and sharing of results.
+
+By 2035, China is fully entering a new phase of smart economic and social development to provide strong support for the fundamental realization of socialist modernization.
+
+2) Accelerate the implementation of key actions (i) increase artificial intelligence + increase scientific technology (i) accelerate the process of scientific discovery.
+
+Accelerating the exploration of new scientific paradigms driven by AI, accelerating the process of major scientific discoveries from zero to one tonne.
+
+Accelerate the application of scientific models, advance the intelligence upgrading of basic scientific research platforms and major technological infrastructure, create high-quality scientific data sets that are openly shared, and improve the level of complex scientific data processing across models.
+
+Strengthening the role of AI in cross-disciplinary attraction and promoting the development of multidisciplinary integration.
+
+2. Driving innovation and efficiency in the technology R&D model.
+
+Promoting AI-driven technology R&D, engineering implementation, product landing integration and co-development, accelerating groundbreaking and transition from 1 to N-level technologies, and promoting the efficient transformation of innovation outcomes.
+
+Supporting intelligent R&D tools and platforms to promote applications, enhancing technological collaboration and innovation in areas such as artificial intelligence and bio-manufacturing, quantum technology, 6G, supporting new research outcomes in application scenarios and driving technological breakthroughs with new application needs.
+
+3. Innovative methods of research in philosophy and social sciences.
+
+Promoting the transition of philosophical and social science research approaches to human-machine collaboration models, exploring new forms of philosophical and social science research organization to adapt to the era of artificial intelligence, and expanding the field of research and observation.
+
+In-depth study of the deep impact and mechanisms of AI on human cognitive judgment, ethical norms, and exploration of the formation of a system of good-for-good theories to promote AI for the betterment of humanity.
+
+(b) The development of artificial intelligence + the development of the silicon industry.
+
+Conditional enterprises are encouraged to integrate AI into strategic planning, organizational architecture, business processes, and so on, to promote the development of industry-wide intelligence, facilitate the transformation and upgrading of traditional industries, and open new avenues for strategic emerging industries and future industrial development.
+
+Strengthen the development of intelligent native technology, products and service systems, accelerate the development of an underlying architecture and operational logic based on artificial intelligence, explore completely new business models, and generate intelligent native industries.
+
+2. Promote the intelligent development of all elements of industry.
+
+Promoting the smart connection of all industrial elements and accelerating the application of AI in design, mid-testing, production, services and operations.
+
+The focus is on improving the skills and qualifications of all members of the AI community and promoting the formation of more reusable expertise in all sectors.
+
+Accelerate industrial software innovation breakthroughs and develop smart manufacturing equipment.
+
+Promote industrial supply chain intelligence collaboration and strengthen adaptive supply and demand matching.
+
+Promoting AI-driven production process optimization methods.
+
+Deepening the integration of AI and industrial Internet applications, enhancing the ability of the entire industrial sector to make intelligent perceptions and decisions.
+
+3. Accelerate the digital transformation and upgrading of agriculture.
+
+Accelerating AI-driven breeding system innovation and supporting intelligent applications in agriculture and other fields.
+
+Strongly develop intelligent equipment such as intelligent agricultural machines, agriculture, drones, agricultural robots, improve the intelligent perception, decision-making, control, operation and other capabilities of agricultural production and processing tools, strengthen the platforming of agricultural machinery and intelligent chemical pipelines.
+
+Strengthening the application of AI in agricultural production management, risk prevention and other areas, helping farmers to improve their production capacity and level of operation.
+
+Http://www.mee.gov.cn/zcwj/gwywj/202508/t20250827_1126207.shtml 1/3 2026/5/19 19:11 State Department's opinion on the deepening of the implementation of AI + AI Action 4.
+
+Accelerating the development of the service industry from digital empowered Internet services to new types of services driven by intelligence, expanding the scope of business and driving the modern service industry to new development towards intelligence.
+
+Exploring a new model of unmanned service combined with man-made services.
+
+In the fields of software, information, finance, business, law, transport, logistics, commerce, and more, it promotes the widespread use of a new generation of smart phones and devices.
+
+(c) Enhance the demand for artificial intelligence+enhanced consumption 1. Expand new scenarios for service consumption.
+
+Promoting a broader, more content-rich smart services industry, accelerating the development of smart native applications such as efficient models, companion models, and supporting the opening up of new entries in services such as smart assistants.
+
+Strengthen the construction of smart consumption infrastructure, improve the quality of life services such as entertainment, e-commerce, household, real estate, travel, pensions, care, and expand the experience of consumption, personal consumption, cognitive and emotional consumption.
+
+2. To foster a new business model of product consumption.
+
+Promoting smart terminal connectivity, fostering an ecosystem of smart products, vigorously developing smart grid connectivity, smart phones and computers, smart machines, people, smart homes, smart wear, and the next generation of smart terminals, creating an integrated, all-encompassing environment for smart interaction.
+
+Accelerate technological integration and product innovation, such as AI and the microcosm, low vacuum lines, additive manufacturing, brain-machine interfaces, and explore new forms of intelligent products.
+
+(iv) Enhance AI + Sustainable Well-being 1. Create smarter ways of working.
+
+Actively play the role of AI in creating new jobs and empowering traditional jobs, explore new types of organizational architecture and management models in collaboration with humans and machines, develop innovative forms of work such as intelligent agents, and promote job applications in labor shortages and high environmental risks.
+
+Strong support for training in AI skills, stimulating AI innovation, entrepreneurship and re-employment.
+
+Strengthening the risk assessment of employment by the application of AI, steering innovation resources in the direction of creating great employment potential and reducing the impact on employment.
+
+2. Promote more effective learning methods.
+
+Integrating AI into all the elements of education teaching, all the processes, innovative intelligent classmates, intelligent teachers, etc. new models of collaborative education, driving parents from knowledge-learning to focused capacity-building to transformation, accelerating the mass delivery of materials, improving the quality of education and promoting education equity.
+
+Building an intelligent scenario interaction learning model that promotes more flexible, resource-rich, and autonomous learning.
+
+Encouraging and supporting all students to actively learn new knowledge and technologies related to AI.
+
+3. Create a better quality of life.
+
+Explore the promotion of high-quality residential health assistants available to the public, and systematically promote the application of AI in assisted clinical care, health management, and healthcare services, significantly improving the capacity and efficiency of grassroots healthcare services.
+
+To promote AI's greater role in the growth of cultural production, enhance cultural communication, promote cultural exchanges, use AI to assist in the creation of more cultural content with Chinese cultural elements and symbols, and grow the cultural industry.
+
+Fully implementing the important role of AI in woven relationships, spiritual comfort, companionship, nursing care, promoting full-blown fitness and more, expanding the application of AI to clean homes and feed their entire lifecycle, and actively building a warmer and smarter society.
+
+(V) Developing AI + Developing Governance 1. Creating a new vision of human and social governance.
+
+Promoting the smart transformation and upgrading of municipal infrastructure, exploring urban planning, construction and governance for the development of a new generation of smart terminals, and improving the level of smart operation of cities.
+
+Accelerating the expansion of AI products and services to rural areas and promoting urban and rural smart access.
+
+Deep social experimentation with AI.
+
+Security and stability in order to promote the application of AI in the field of government, creating a new model of government services that accurately identify needs, actively plan services, and are managed entirely intelligently.
+
+Accelerate the application of AI in all types of public procurement and bidding activities, and improve the level of smart transaction services and regulation.
+
+2. Creating a new multi-governmental framework for security governance.
+
+Promote the construction of a multidisciplinary public security governance system for natural, digital, and intelligent robots, enhance the application of AI in all aspects of security, production regulation, disaster prevention, disaster relief, public safety prevention, and social security management, enhance the level of monitoring, regulatory enforcement, command decision-making, on-site rescue, and social mobilization, and enhance the ability to use AI to maintain and shape national security.
+
+Accelerate the promotion of AI empowering governance in cyberspace, strengthening information accuracy recognition, attitude initiative, research, risk management and other capabilities in real time.
+
+3. Drawing a new picture of the beautiful ecological governance of China.
+
+Improve the dynamic perception of space and sea integration and the level of domestic space intelligence planning, strengthen the resource elements and optimize the allocation.
+
+Improving AI-driven monitoring, prediction, simulation, and problem-solving capabilities around the multifaceted ecosystems of the atmosphere, water, oceans, soil, and biology, and building national carbon markets, and driving accurate governance models to build intelligent collaboration.
+
+6. Promote AI + Global Cooperation 1. Promote inclusive sharing of AI.
+
+To use AI as an international public product for the benefit of humanity, to build an open ecosystem of equality, mutual trust, diversity, and a win-win capacity for AI.
+
+Deepening high-level openness in the field of AI, promoting open access to AI technologies, strengthening international cooperation in areas such as computing, data, and human resources, helping Southern countries to strengthen human and artificial intelligence capacity building worldwide, helping countries to participate equally in the process of development of AI, and bridging global intelligence gaps.
+
+2. Co-create a global governance system for AI.
+
+Support the United Nations' leading role in the global governance of AI, explore governance frameworks that shape the broad participation of countries, and jointly address global challenges.
+
+deepening exchanges with international organizations and professional bodies, and strengthening the coordination of governance rules and technical standards;
+
+Jointly research and actively address the risks posed by the use of AI to ensure the development of safe, reliable and controllable AI.
+
+Third: Strengthening the basic support capabilities https://www.mee.gov.cn/zcwj/gwywj/202508/t20250827_1126207.shtml 2/3 2026/5/19 19:11
+
+Strengthen the basic theoretical research of AI and support multi-path technology exploration and model infrastructure innovation.
+
+Accelerate the study of more efficient model training and reasoning methods and actively promote the collaborative development of theoretical innovation, technological innovation and engineering innovation.
+
+Explore new forms of model application, enhance complex task processing capabilities, and optimize interaction experience.
+
+Establish a sound system of assessment of model capabilities to promote the effective improvement of model capabilities.
+
+8. Strengthen innovation in data supply.
+
+Application-oriented, continuous strengthening of the construction of high-quality AI data sets.
+
+Improve the data ownership and copyright system adapted to the development of artificial intelligence, and promote the lawful opening of the copyright content of public financial funding projects.
+
+Encourage exploration of ways to compensate for data costs and profit sharing based on value contributions, and enhance data supply incentives.
+
+Supporting the development of technologies such as data marking, data synthesis, and fostering a growing data processing and data services industry.
+
+9. Strengthening the unification of intelligent computing.
+
+It supports AI chips in pursuit of innovation and enabling software ecosystems to grow and accelerate technological breakthroughs and engineering landings in ultra-large AI clusters.
+
+Optimize the country's smart computing resource layout, improve the national integrated computing network, fully play the role of the hub of the country's computing system, increase the number, computing, electricity, network and other resource collaboration.
+
+Strengthening the connectivity of smart computing, interconnecting and matching supply and demand, innovating the operating models of smart computing infrastructure, encouraging the development of standardized, scalable computing cloud services, and promoting the availability of smart computing for universal ease of use, economic efficiency, and green security.
+
+10. Optimize the application development environment.
+
+Layout builds a national test base for AI applications and builds an industry application sharing platform.
+
+Promoting the intelligent transformation of software and information services enterprises, restructuring product formats and service models.
+
+Developing AI application service providers, developing AI service providers, and building AI application service chains.
+
+Building guidelines for the use of AI in situations, open assessment and incentive policies, and improving the system of trial-and-error management.
+
+Strengthening the protection, transformation and collaborative application of intellectual property.
+
+Accelerate the development of AI standards in the field and promote cross-sectoral, cross-sectoral, and international standards connectivity.
+
+(XI) Promote open source ecological prosperity.
+
+Supporting the construction of an AI open source community, promoting open-source gathering of models, tools and datasets, and promoting high-quality open-source projects.
+
+Establish a mechanism to evaluate and incentivize open source contributions of sound people and artificial intelligence, encouraging universities to incorporate open source contributions into student credentials and teacher achievement recognition.
+
+Supporting new models of open source applications to explore inclusive and efficient applications for businesses, universities and research institutions.
+
+Accelerate the construction of a global open source technology system and community ecosystem, and develop open source projects and development tools with international impact.
+
+(Twelve) Strengthening the development of talented teams.
+
+Promote all-sectional education and all-social awareness of AI, improve the professional layout of disciplines, increase the capacity to develop high-level talent, build super-conventional leadership skills, develop new models, strengthen teacher resource building, promote product integration, cross-disciplinary training and international cooperation.
+
+Improving a diversified assessment system that meets the professional characteristics and job characteristics of AI talent, better playing the role of leading talent, giving young talent more space to exhibit and encouraging active exploration of AI's niche.
+
+It is only used to support corporate regulation in the form of medium-term incentives such as good stocks, rights and options.
+
+(iii) Strengthening policy and regulatory safeguards.
+
+There is a system of capital investments in the field of artificial intelligence, such as audit evaluation and risk regulation.
+
+Increase financial and financial support in the field of artificial intelligence, development of growth capital, patient capital, strategic capital, improvement of risk sharing and withdrawal mechanisms, full use of fiscal funds, government procurement and other policy roles.
+
+Improving AI laws, regulations, ethical guidelines, etc., and promoting legislation related to the development of AI health.
+
+Optimize security assessment and record management systems related to AI.
+
+14. Improve the level of security capability.
+
+Promoting the development of security capabilities for model algorithms, data resources, infrastructure, and application systems, preventing the risks of black boxes, hallucinations, and algorithmic discrimination, enhancing forward-looking assessment and monitoring deployments, and promoting compliance, transparency, and trustworthiness in AI applications.
+
+Establish sound AI technology monitoring, hazard warning, emergency response systems, strengthen government guidance, industry self-discipline, adhere to inclusive prudence, classification classifications, and accelerate the formation of dynamic, agile, multi-cooperative AI governance patterns.
+
+Fourth, the organization implements and insists on implementing the leadership of the party through the entire process of AI + AI action.
+
+The National Development and Reform Commission (NDRC) should strengthen coordination and promote the formation of cooperation.
+
+It is important that the various sectors of the region work closely together in order to ensure the effective implementation of landfills in a timely manner.
+
+In order to strengthen demonstrative leadership, in a timely manner summarize the practice of dissemination of experience.
+
+Strengthening public awareness, widespread mobilisation of social consensus, and creating a good atmosphere of community participation.
+
+State Council on 21 August 2025 [printed] Printed content only https://www.mee.gov.cn/zcwj/gwywj/202508/t20250827_1126207.shtml 3/3
