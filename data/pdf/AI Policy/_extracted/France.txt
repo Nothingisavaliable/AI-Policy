@@ -1,0 +1,677 @@
+MAKE FRANCE
+AN AI POWERHOUSE
+FEBRUARY 10TH AND 11TH, 2025
+Table of contents
+Editorial by the President of the Republic 2
+The strategy implemented since 2018 has made France a leader in AI 3
+France, a leader in AI .............................................................................................3
+France is home to leading companies and a globally recognized R&D hub ...............4
+France offers AI solutions tailored to all economic sectors .......................................6
+France is developing AI technologies tailored to each modality ................................6
+France has an AI ecosystem covering the entire value chain ....................................7
+Since 2018, more than €2.5 billion has been invested in research and technology ...9
+Its attractiveness is built on several pillars 11
+A reputation for talents & formation ....................................................................11
+Strengthening public computing infrastructures ...................................................15
+Support for innovation through France 2030 ........................................................16
+The French territory has many advantages for hosting dedicated AI infrastructure 18
+A decarbonized, abundant, and stable electricity supply ........................................18
+An ever-expanding high-voltage grid .....................................................................20
+Suitable sites for data center projects ...................................................................20
+Ready to use low carbon AI-sites through all of France ..........................................21
+Streamlined procedures ......................................................................................22
+Editorial by the President
+of the Republic
+A STRONG POLITICAL VISION
+FOR THE DEVELOPMENT
+OF ARTIFICIAL INTELLIGENCE
+IN FRANCE
+France has everything it needs to secure its place in
+the AI revolution. Talents, in abundance: great scien-
+tists, researchers, entrepreneurs, students. Decarbonized
+energy, abundant and provided consistently. Funding and
+the AI summit will be an opportunity to highlight historic
+levels of public and private investments, driven by French,
+European, and international players. Finally, data, which
+we have to secure and broaden access to.
+At the heart of Europe, at the heart of the AI revolution,
+France is a crossroads for all those who want to create and
+innovate. In this regard, France aims to host and reinforce
+its talents, corporates, as well as cutting-edge infrastructures for the development and use
+of AI, to serve its innovation ecosystem, from startups to industry and research laboratories.
+And if we succeed to position ourselves at the heart of hosting major global infrastructures,
+France will reduce the sector’s global footprint, thanks to our low-carbon energy mix.
+This is our ambition: to celebrate our pride, enable success, and bring the progress of tomor-
+row. To leave our French imprint on the coming century, and to develop a strong project
+for the deployment of AI at the European level, by supporting the emergence of the best
+researchers and future international champions.
+This ambition must be reflected in all our research and training centers. To massively train
+all French people in this field. To strengthen our research centers, retain, and attract the best
+researchers.
+This ambition will also be reflected concretely across all our territories. To achieve this, we
+have notably worked on identifying sites to help actors develop their projects in France. We
+can already announce 35 suitable sites, some of which could host projects up to 1GW. The
+progress driven by AI is already here. Let us deploy it across all our territories. Let us bring
+it into the lives of everyone. With confidence and ambition
+.
+2
+The strategy implemented
+since 2018 has made France
+a leader in AI
+Building on an ambitious national strategy initiated and driven by the President of the
+Republic since 2017, France is now positioned among the global leaders in artificial
+intelligence.
+FRANCE, A LEADER IN AI
+France is experiencing rapid growth in the field of artificial intelligence (AI). Thanks to sus-
+tained innovation dynamics, world’s top-level talents, record fundraising, and the establish-
+ment of major international players, the French AI ecosystem is developing and structuring
+itself at an unprecedented pace.
+→ In 2023, France ranks 3RD in the Stanford Global AI Vibrancy
+Ranking for research, training, and AI infrastructure
+→ In 2025, France has more than 1,000 AI startups, including gems
+like Mistral AI, H Company, Poolside, as well as applications such as
+Alan, Pigment, Doctolib, and more
+→ France has moved from 13TH place in 2023 to 5TH place in 2024
+in the Global AI Index
+→ France is the third country in the world in terms of the number
+of AI researchers
+→ It is now recognized as the leading hub for generative AI
+in Europe
+3
+FRANCE IS HOME TO LEADING COMPANIES
+AND A GLOBALLY RECOGNIZED R&D HUB
+FRENCH COMPANIES ARE COMPETING WITH THE LARGEST
+GLOBAL PLAYERS
+France is the R&D base or decision-making center for Europe of several global AI players,
+such as Mistral AI (valued at €6 billion), Hugging Face (€4.3 billion), and Dataiku (€3.5
+billion).
++ de 1,000 1sT European €1.9 bn
+IA startups country for raised in AI
+in 2025 foreign investment in 2024
+projects in AI
+The structuring of French investment funds, coupled with the attractiveness of France for
+foreign investments, enables world-class AI companies to grow. The fundraising of our start-
+ups proves it.
+A DYNAMIC AND ROBUST ECOSYSTEM
+Since 2021, the number of AI-focused startups in France has doubled, now exceed-
+ing 1,000 companies. In 2024, these startups raised €1.9 billion. With 30% of
+national venture capital investments dedicated to AI, France leads ahead of the
+United States (28%), the United Kingdom (25%), and China (17%).
+Remarkable fundraising for companies among the biggest global successes, such
+as Mistral AI (€1.2 billion), Poolside (€526 million), H (€250 million), Photoroom
+(€62 million), Aqemia (€60 million), Bioptimus (€40 million), Flex.AI (€35 million),
+and DUST (€16 million).
+16 French unicorns have a value proposition related to AI, confirming the country's
+excellence in this field.
+French startups are becoming more attractive and benefiting from more exit oppor-
+tunities. In 2024, several major transactions marked the ecosystem. Preligens was
+acquired by Safran and Datakalab by Apple. Finally, LightOn went public in Paris,
+showcasing the maturity and dynamism of the sector.
+4
+Large French companies have also embraced AI: Thales has structured its organ-
+ization around the Cortex initiative, while CMA-CGM, Iliad, and Schmidt Futures
+co-founded the private lab Kyutai.
+France has been the top destination in Europe for foreign investment projects in AI
+for over five years, according to the EY barometer.
+France is the main host country for the AI research and decision-making centers for
+Europe of global tech giants, such as Alphabet (Google), DeepMind, Meta, OpenAI,
+as well as Cisco, Criteo, Fujitsu, HPE, IBM, Intel, Microsoft, Samsung, SAP, and Uber.
+France is home to some of the largest computing centers in Europe, both public,
+such as Jean Zay-GENCI, and private, with players like Scaleway, Outscale, and OVH.
+France has more than 4,000 AI researchers within its research organizations, spread
+across 9 centers of excellence (“AI Clusters”) and its major laboratories.
+Each year, more than 40,000 students and professionals are trained in AI, with the
+goal of reaching 100,000 trained annually.
+5
+FRANCE OFFERS AI SOLUTIONS TAILORED
+TO ALL ECONOMIC SECTORS
+FRANCE IS DEVELOPING AI TECHNOLOGIES
+TAILORED TO EACH MODALITY
+6
+FRANCE HAS AN AI ECOSYSTEM COVERING
+THE ENTIRE VALUE CHAIN
+7
+A POLICY FOCUSED ON INNOVATION AND ATTRACTIVENESS
+8
+SINCE 2018, MORE THAN €2.5 BILLION HAS BEEN
+INVESTED IN RESEARCH AND TECHNOLOGY
+The first phase of the €1.5 billion National AI Strategy (2018-2022) has helped to struc-
+ture a strong research ecosystem.
+PHASE 1 → Creation of 4 institutes 180 research chairs
+3 IA
+€1.5 bn
+300 doctoral programs
+→ Construction of the
+to structure
+Jean Zay supercomputer
+> 40,000 students trained
+research
+→ Creation of the Health in AI per year
+Data Hub
+Since 2022, the second phase, supported by €1 billion via the France 2030 investment
+plan, aims to make this technology a transformative lever for production and innovation.
+PHASE 2 → Creation of 9 excellence From 40,000 to 100,000
+training hubs: students trained in AI
+€1 bn
+“AI Clusters” per year
+to accelerate
+→ Expansion of the
+€400 m in direct aid for
+innovation
+Jean Zay supercomputer
+public and private R&D
+With phase 3, the State supports the deployment of strategic infrastructures and pro-
+motes a broader adoption of AI within society, businesses, and public services.
+PHASE 3 → C ontinuation of investments in research and training
+Accelerated → Acceleration of AI deployment in businesses
+and public services
+the spread
+→ Implementation of “AI Cafés” to foster democratic
+debate on AI
+→ Creation of the first European institute for
+AI evaluation and security (INESIA)
+9
+HELPING THE PUBLIC UNDERSTAND AND EMBRACE AI
+In May 2024, the President of the Republic tasked the National Digital Council (CNNum)
+with creating a national initiative for democratic debate and educational outreach on artifi-
+cial intelligence, known as “AI Cafés”.
+The AI Cafés aim to:
+→ Foster a better understanding of AI’s opportunities and challenges
+→ Share and develop open educational resources
+→ Empower individuals to take an active role in AI adoption
+Since the announcement, the CNNum has gathered a broad coalition of stakeholders to
+support and drive this initiative collectively. The project is designed as a permanent collab-
+orative effort, including:
+→ A database of accessible and free AI training programs
+→ The development of dedicated educational modules
+→ A structured network of facilitators to support AI Café events
+The goal is to raise awareness among two million French citizens — including stu-
+dents, employees, job seekers, and the general public—by the end of 2027, lever-
+aging the expertise of Digital Advisors (Conseillers numériques).
+BUILDING TRUSTED AI
+As AI becomes increasingly central to sensitive sectors, it requires high standards of relia-
+bility and security.
+France is equipping itself with the first European institute dedicated to AI evaluation and
+security, positioning itself as a key player in the field. This initiative will contribute to analyz-
+ing systemic risks associated with AI, supporting national regulators, and actively developing
+tools, metrics, and evaluation protocols for AI models.
+10
+National Institute for AI Evaluation and Security (INESIA)
+Launched in January 2025, the National Institute for AI Evaluation and Security
+(INESIA) focuses on three key areas:
+→ Analysis of systemic risks related to national security
+→ Support for AI regulation implementation
+→ Evaluation of AI models in terms of performance and operational safety
+This initiative allows France to join the global network of "safety institutes,"
+which includes Canada, South Korea, the United States, Japan, Kenya, the United
+Kingdom, Singapore, and the AI Office of the European Commission.
+Its attractiveness is built
+on several pillars
+A REPUTATION FOR TALENTS & FORMATION
+FRANCE: A GLOBAL HUB FOR AI TALENTS
+The excellence of its schools and universities enables France to train some of the world's top
+engineers, often behind cutting-edge AI technologies. Companies rely on the scientific and
+engineering expertise of talent educated in France, which enjoys an international reputation.
+2nD in the EU 7TH position
+in terms worldwide in terms
+of publications of publications in
+at AI scientific AI-related scientific
+conferences conferences
+11
+Investment in training is a cornerstone of our strategy. As part of France 2030, the AI
+training component aims to support the development of AI in France through a skilled and
+large workforce.
+The country also stands out for its unique open-source ecosystem, bringing together
+emblematic projects such as Mistral AI, Hugging Face, Probabl, and scikit-learn, among
+the world’s leading open-source AI algorithm libraries.
+Focus on excellence training hubs in AI: the “AI Clusters”
+The 3IA institutes network, launched in 2019, has facilitated the
+creation of high-quality public-private partnerships, with over
+40 chairs and 300 doctoral contracts funded.
+With a budget of €360 million, the AI Clusters program aims to amplify this
+dynamic by strengthening our training and research, while structuring schools
+and businesses in a unique setting. It creates 9 training and excellence hubs
+in artificial intelligence, the AI clusters. The goal for 2030 is to train 100,000
+people, including 20,000 in continuing education, and to position at least one
+institution of excellence among the top international ranks.
+12
+Focus on the “Skills and Future Professions” Program
+In order to achieve the training objectives of the national strategy for
+artificial intelligence, the training projects supported by the 'Skills and
+Future Professions' program must aim to generalize AI training across the
+entire country, at all levels of qualifications, in initial education, through
+apprenticeships, and in continuing education, with a focus on AI as a core
+profession, double competence, or disciplinary expertise.
+A WELCOMING ENVIRONMENT FOR RESEARCHERS
+France offers a suitable legal framework and several attractive schemes that facilitate the
+arrival of international talents to the country, including:
+The “Talent Passport” is a long-stay visa (VLS) designed to welcome highly skilled
+professionals, including foreign scientists and researchers.
+The “French Tech Visa” allows international talents to settle in France, specifically
+targeting those working in the sector of technological and innovative startups.
+More than 300 'junior professor chairs' are offered each year to young research-
+ers, allowing them to quickly access permanent positions such as university profes-
+sors or research directors. Over 45% of the awardees come from abroad.
+Bilateral programs exist to facilitate the arrival of young researchers in France
+(e.g., the Graduate Research Opportunities Worldwide (GROW) Program of the
+National Science Foundation, the PhD-Track program of the Franco-German
+University, and various Hubert Curien (PHC) programs from the French Ministry for
+Europe and Foreign Affairs).
+At the European level, the ERC programs and the Marie Skłodowska-Curie schol-
+arships facilitate and encourage mobility within Europe, and a European directive
+harmonizes the procedure for welcoming foreign scientists within the EU.
+13
+INTERNATIONAL EXCELLENCE AGREEMENTS BETWEEN SCHOOLS
+AND UNIVERSITIES SPECIALIZING IN AI
+Our engineering schools and universities, with our world-class researchers and strong exper-
+tise in mathematics, are highly sought after globally, and international agreements in AI are
+materializing.
+In this regard, on February 5th, 2025, the French engineering school Ecole Polytechnique
+signed a protocol agreement with the United Arab Emirates Mohamed bin Zayed University
+for Artificial Intelligence (MBZUIA). This partnership will focus on a collaborative research
+and training program in AI, including the development and advancement of AI methods,
+tools, and training, particularly for foundational models.
+Focus on the Talent Passport
+The Talent Passport, a specific long-stay visa (VLS) for welcoming foreign
+scientists, allows them to stay and work in France, exempting the
+employer from requesting a work permit.
+The conditions for accessing this visa are as follows:
+→ Hold a degree equivalent to at least a Master's;
+→ Be assigned a research or higher education teaching mission that
+specifies the nature and duration of the work entrusted to the scientist or
+doctoral student;
+→ Have a hosting agreement.
+The spouse and minor children of the holder of a 'Talent Passport – Researcher'
+VLS can benefit from the simplified 'accompanying family' procedure and
+join France without the need for a family reunification process.
+Higher education and research institutions are exempt from the nationality
+requirement generally required to access public sector jobs.
+They can thus hire scientists (researchers and teacher-researchers) who
+are non-EU nationals, subject to the application of provisions related to the
+protection of the nation's scientific and technical heritage.
+14
+FRANCE 2030 SERVING AI TALENT TRAINING AND RETENTION
+TO CULTIVATE OUR BEST COMPETITIVE ADVANTAGE
+France has successfully consolidated its expertise in key AI research areas such as machine
+learning, natural language processing, and computer vision, and more recently, in key con-
+cepts such as AI system evaluation and model optimization.
+The national research ecosystem is particularly robust and attractive. With the AI Clusters,
+the training ecosystems across the country form a natural bridge between research excel-
+lence and the expansion of AI talent
+The funding of new AI excellence chairs will allow for the continuation of a genuine
+attractiveness policy, strengthening the university network, schools, and training
+programs, while bringing back French talents.
+A ChooseFranceforResearch unit will be launched to support talented researchers
+wishing to establish themselves in France.
+STRENGTHENING PUBLIC COMPUTING
+INFRASTRUCTURES
+France continues to strengthen its strategic autonomy with three major supercomputers:
+Jean Zay, Adastra, and Alice Recoque.
+Jean Zay The most powerful supercomputer in France. Operated
+by CNRS/IDRIS since 2019, it has undergone successive
+expansions, increasing its cumulative power to 125.9
+Petaflop/s with over 1,400 H100 GPUs. Since 2018, the
+Jean Zay supercomputer has supported more than 1,200
+AI projects, including the BigScience project coordinated by
+HuggingFace, involving over 1,000 European researchers.
+Adastra Performance and energy efficiency. Installed at CINES in
+2022, the new Adastra2 extension, acquired by GENCI in
+2024, deploys technology similar to the two most powerful
+supercomputers in the world. Adastra2 stands out for its
+energy efficiency, ranking 3RD on the global Green500, with a
+performance of 69.1 Gflop/s per Watt.
+Alice Recoque Future French exascale supercomputer. As part of the
+EuroHPC program, France is investing in an exaflop-class
+supercomputer, which will be hosted at TGCC (CEA). Alice
+Recoque will be the second European exascale supercompu-
+ter. Its computing power will reach the equivalent of 25,000
+NVIDIA H100 GPUs.
+15
+EuroHPC AI Factories: Towards a European Network for AI
+In the summer of 2024, EuroHPC expanded its scope by opening its computing
+infrastructures to the specific needs of AI, with the AI Factories initiative. This
+program aims to create a network of AI-focused hubs, which will serve as one-
+stop shops for startups, SMEs, and researchers. These hubs will offer easier
+access to supercomputers, along with technical support and dedicated training.
+In this context, Genci and Inria are leading the French candidacy for AI Factories,
+based on the Jean Zay, Adastra, and Alice Recoque infrastructures. This project
+strengthens France's position in the global competition for high-performance
+computing.
+SUPPORT FOR INNOVATION
+THROUGH FRANCE 2030
+FRANCE 2030 FOR STRENGTHENING OUR COMPUTING
+INFRASTRUCTURES AND CRITICAL LINKS IN THE AI
+VALUE CHAIN
+Public supercomputers are a major asset in providing an alternative to the American cloud
+giants. France continues its efforts and facilitates access modalities.
+To bring IaaS/PaaS cloud service providers closer to AI software developers, we will
+fund French cloud providers developing AI offerings to help them scale up.
+We will continue to invest in the development of French and European public and
+private computing infrastructures.
+We will rely on the European AI Factories initiative to develop the service and
+expertise offerings around our supercomputers for research and businesses.
+The market for chips and graphics processing units (GPUs) for AI is characterized by its
+almost monopolistic nature. However, France can capitalize on breakthrough opportunities,
+linked to advancements in the research world, such as middleware or energy optimization
+of microelectronic chips.
+We will support breakthrough innovation in the chip and middleware sector.
+16
+FRANCE 2030 SERVING R&D AT THE TECHNOLOGICAL FRONTIER
+Excellence in research and innovation is key to positioning France among the leaders in AI.
+By relying on the Digital program agencies (INRIA) and Components (CEA), we are focusing
+our efforts on a limited number of strategic scientific and technological fields.
+The goal is to foster French AI pioneers by supporting a few large-scale projects that enable
+the development of high-impact technologies and their adoption.
+A selection of highly ambitious R&D projects will be supported to overcome the
+scientific and technological barriers that prevent the adoption of AI in the most
+critical sectors (healthcare, industry, etc.).
+AI research in healthcare is crucial for our country. In order to pursue a true sci-
+entific ambition around AI in healthcare, a revamped governance model will bring
+together all stakeholders around an AI Health Campus project.
+17
+The French territory has many
+advantages for hosting dedicated
+AI infrastructure
+France benefits from several assets that make its territory attractive for the establishment of
+dedicated AI infrastructure: a plentiful supply of decarbonized energy, a strategic geograph-
+ical position, and land specifically suited for data center projects.
+A DECARBONIZED, ABUNDANT, AND STABLE
+ELECTRICITY SUPPLY
+A HYPERCONNECTED TERRITORY LINKED TO EUROPE
+AND THE WORLD
+→ Mainland France is directly connected by submarine cables to North America, UK,
+Africa and Asia
+→ Two-thirds of sub-sea cables landing in the EU are landing in France
+→ Neighbor to the other 6 biggest data center host countries in Europe
+→ Paris is 10-40 ms away (at light speed) from all EU capitals
+→ 90% of the territory is covered by the fiber-optic network
+Illustration of the submarine cable networks connected to France
+18
+AN ENERGY INFRASTRUCTURE SUITED FOR DATA CENTERS
+→ France has the most excess power in the EU: +89 TWh net electricity export balance
+reached in 2024
+→ The production is expected to keep growing by 2 % p.a.
+→ 95% of the electricity produced is already low-carbon
+→ Only 21,3 g CO2-eq/ kWh (2024), against an average of 292 g in the EU (2023)
+Electric mix – source : RTE
+COMPETITIVE AND STABLE ELECTRICITY PRICES
+The main electricity supplier (EDF) aims for an average selling price for existing nuclear
+electricity of around 70 €/MWh (supply price excluding taxes and network fees) over the
+next 15 years, with competitive medium-term market (4-5 years) products and, for eligible
+projects, long-term partnership contracts (10-15 years) for nuclear production.
+Government incentives for electricity-intensive users:
+→ a tax rebate of €10.5 /MWh for large DC subject to conditions, especially regarding
+environmental performance
+→ a discount of €5.7 /MWh off the network fee (« TURPE ») for projects with high volt-
+age & baseload profile
+19
+AN EVER-EXPANDING HIGH-VOLTAGE GRID
+→ A steady grid: At the heart of continental Europe, the French grid is hosting more
+than 150 GW of installed generation capacity and some of the most powerful industrial
+premises in Europe, such as ITER, CERN’s LHC or the new EPR
+→ A highly reliable grid: The high voltage grid has a 99,9995% availability. Outages
+longer than 3mn occurs less than one every 10 years (3 to 4 years for shorter outages)
+→ A developing grid, with a single grid operator responsible for connecting users and
+fostering new investments:
+- A development plan, whose main goals are to speed up connections for consumers
+and generators, solve foreseeable bottlenecks and cope with climate change
+- 5 GW of data center capacity already under connection process
+SUITABLE SITES FOR DATA CENTER PROJECTS
+35 sites 1,200 ha Up to 1 GW €10/m2 up to
+€100/m2
+35 SUITABLE SITES FOR HOSTING DATA CENTERS
+We have identified at least 35 zones in Mainland France that could be suitable to datacenter
+projects depending on their characteristics (power, land surface, availability), for a total sur-
+face area of over 1,200 Ha:
+All of them are well located for connection to the high voltage grid. 15 will eventu-
+ally be in a capacity to reach 750MW
+For a short-list, the Government and RTE are considering setting up a fast-track
+process to connect projects requiring up to 1GW power capacity to the grid by
+2028/2029.
+Surface areas range from 18 to 150+ ha
+At least 16 of them are available immediately and 9 others by 2028
+20
+4 sites owned by EDF located close to high-voltage power stations could welcome
+DC projects, allowing for almost immediate grid connection.
+12 are among the “France 2030 turnkey sites” and thus will be delivered with
+land-related permitting procedures already carried out
+At least 15 are brownfield sites for redevelopment
+A dedicated taskforce will support your strategic projects to alleviate any difficulty.
+Point of contact: franceforAI@businessfrance.fr / datacenters.dge@finances.gouv.fr
+READY TO USE LOW CARBON AI-SITES
+THROUGH ALL OF FRANCE
+21
+STREAMLINED PROCEDURES
+Procedures already accelerated by the recent Green Industry Law:
+→ It has reduced the optimal authorization procedure time from 9 to 6
+months.
+→ It has created the status of “Major National Interest Project” (PINM) for
+large industrial projects (excluding data centers for now). This status allows
+for the acceleration of local urban planning rule adjustments (if necessary),
+the securing of exemptions for species protection (if necessary), and
+guarantees a fast connection to the electrical grid.
+A new bill on 'simplifying business life' to go further on data centers:
+→ A new proposed law on "simplifying business operations" is expected to
+soon extend the possibility of obtaining PINM status to large data center
+projects, thereby accelerating procedures.
+→ The scope of the National Public Debate Commission (CNDP) will be
+revised to exclude data center projects.
+→ Finally, legal procedures against data center projects will be streamlined,
+with the removal of the double degree of jurisdiction. This is expected to
+save between 9 and 18 months.
+22
+More than €109 billion in
+investments for infrastructure
+projects in France
+THE INFRASTRUCTURE PROJECTS OF OUR
+COMPANIES AND FOREIGN COMPANIES ON OUR
+TERRITORY MAKE FRANCE A STRATEGIC PLAYER
+IN TERMS OF COMPUTING POWER.
+→ The two Presidents announced their cooperation within the framework of a Joint
+Framework Agreement between France and the United Arab Emirates. This agree-
+ment includes investments up to €50 billion from a consortium of Franco-Emirati cham-
+pions, aimed at creating a 1 GW campus dedicated to artificial intelligence in France. An
+announcement regarding the first phase of investment will be made at the Choose France
+2025 Summit.
+→ AMAZON (USA): Amazon announced at the Choose France Summit in May 2024
+that we will invest more than €1.2bn and create more than 3000 permanent jobs in
+France. This investment includes increased Amazon Web Services cloud infrastructure,
+to support France’s flourishing generative AI opportunity. Our investment is part of a €6
+billion investment plan to expand cloud infrastructure in France through to 2031. This is
+anticipated to contribute €16.8 billion to France’s GDP while supporting an average of
+5,271 full-time jobs annually in the local supply chain.
+→ APOLLO (USA): Apollo, a leading global provider of long-duration capital solutions
+at scale, to provide capital to power next-gen infrastructure in France
+Advancing leading-edge AI capabilities will require substantial investments in infrastruc-
+ture, with over $1 trillion of investment expected globally by 2030. Apollo has significant
+experience providing scaled, long-duration capital solutions and since 2022 has invested
+approximately $25 billion in next-generation infrastructure assets around the world. Apollo
+is working diligently on several projects and is prepared to finance Energy Projects with
+up to €5.0 billion of long-term capital and believes its capital base can assist France’s AI
+competitiveness while meeting the growing need for energy to power economic growth.
+→ BROOKFIELD (USA): Brookfield Asset Management has announced plans to invest
+€20 billion in AI infrastructure in France.
+Up to €15 billion of datacenter investment will be led by Brookfield’s portfolio company,
+Data4, one of Europe’s largest datacenter developers, headquartered in Paris. Data4 has
+existing plans for over 500 MW of datacenter capacity located across several regions in
+France, with an ambition to treble that by 2030 as part of today’s announcement.
+A further €5 billion of investment is planned in associated AI infrastructure, including
+potentially data transfer, chip storage and energy, from future investments made by
+Brookfield in France.
+23
+→ DIGITAL REALTY (USA): since the start of La Courneuve Digital Park in 2020 (fully
+completed in 2025), Digital Realty is investing and will invest significantly in data centers
+throughout Paris and Marseille regions, with 13 new datacenters and a total investment
+value over €5 billion. The Company is currently planning to potentially invest up to another
+€1 billion in datacenters in Paris, increasing the total portfolio in France to more than 25
+datacenters assembled since 1999.
+These six hybrids, six hyperscale and one colocation datacenters account for 666 MW of
+grid connections. These facilities support 2,220 jobs (direct and indirect).
+→ ECLAIRION (France): Eclairion deploys complementary capabilities across the ter-
+ritory with its new site.
+After the delivery to its Bruyères-le-Châtel (Ile de France) site of the first platform exclu-
+sively dedicated to hosting supercomputers for AI and scientific computing, with a final
+power of 100MW, Eclairion announces a new investment phase for the start of con-
+struction on a second site. In Bessé-sur-Braye (Pays de la Loire), with greater power, this
+new platform will integrate the feedback already acquired, further optimizing the offer
+offered to end users. Eclairion is developing a new generation of data centers combining
+cutting-edge technologies, energy optimization, and reduction of environmental impact.
+→ EQUINIX (USA): Equinix, the world’s digital infrastructure company, has always con-
+sidered France a critical market for IT innovation, connectivity and low carbon abundant
+electricity and is committed to providing the infrastructure needed to drive France’s AI
+leadership. Equinix is making significant investments in France, with additional invest-
+ments of more than €630 million planned and the roll-out of its €750M investment plan
+announced in 2022, with 10 data centers operating in Paris and 1 in Bordeaux. Equinix
+is also stepping up its support for France's energy transition by signing seven 20-year
+Power Purchase Agreements (PPAs) adding over 100 MW of capacity in France. Equinix,
+with the French government’s strong support, is committed to bold expansion and long-
+term investment in the market
+→ EVROC (Sweden): evroc, the European cloud company, will build its first AI factory in
+Mougins, France, creating a 96 MW hyperscale datacenter with a designed capacity for
+up to 50,000 GPUs. The project, expected to be completed in 2025, could see invest-
+ments up to EUR 4 billion at full capacity. Moreover, evroc plans to secure two additional
+100+ MW sites in France. The company’s AI-first approach, from infrastructure design to
+sustainability measures, will strengthen Europe’s AI capabilities while maintaining strict
+EU data sovereignty. evroc will also expand its Sophia Antipolis oRice with a dedicated
+AI team.
+→ FLUIDSTACK (United Kingdom): Fluidstack announces a partnership with the French
+Ministry of Economy to deploy the world's largest AI supercomputer in France, with a
+capacity reaching 1 GW. Supported by an initial €10 billion investment, this project aims
+to position France as a global leader in AI by leveraging nuclear power, a 100% car-
+bon-free energy source. Scheduled for launch in 2026, this supercomputer will accelerate
+innovation, strengthen France’s digital sovereignty, and create thousands of skilled jobs
+across the region.
+24
+ILIAD (France): the Iliad group renews its ambitious AI strategy and boosts its invest-
+ment to over €3 billions, through a variety of initiatives:
+- a strategic alliance with InfraVia to build hundreds MW of data center capacity for
+Opcore (our datacenter subsidiary);
+- the increase in Scaleway's computing capacity to over 5,000 GPUs, as well as the
+development of all inference solutions on the sovereign cloud;
+- the intensification of Kyutai research, Europe's 1st private-initiative laboratory ded-
+icated to open AI research, with the open-source release of a new live translation
+model;
+- a unique partnership with Mistral to offer all Free Mobile subscribers the new Pro
+version of Le Chat Mistral, a premium AI assistant.
+→ TELEHOUSE (Japan): a global leader in high-connectivity data centres and subsid-
+iary of KDDI Group, has signed a Memorandum of Understanding (MOU) with French
+company APL Data Center, a specialist in datacenter engineering and construction. The
+MOU outlines plans for the design and construction of eco-friendly spaces capable of
+hosting up to 25,000 GPUs dedicated to inference processing, located in Region Sud and
+Île-de-France. The investment amounts to €400 million. The group aims to bring these
+specialised data centres into operation by 2026.
+→ MISTRAL (France): Mistral AI continues its development by launching the largest
+supercomputer in Europe.
+As a pioneer in generative artificial intelligence, Mistral AI is introducing its first AI cluster
+in Essonne, France. Equipped with the latest generation of chips, this will be the largest
+AI cluster in Europe. This scalable datacenter will support Mistral AI's growth and its
+research and development activities. With this cutting-edge infrastructure which will be
+up and running by summer 2025, Mistral AI strengthens its technological independence,
+furthering its ambition to democratize artificial intelligence with high-performance, opti-
+mized, innovative, and open-source models, products, and solutions.
+→ PROLOGIS (United States) announces an investment of over €3.5 billion to support
+the growth of artificial intelligence in France.
+Prologis is the global leader in logistics real estate. As such, it owns premium sites in the
+world’s major data center markets.
+Prologis is strengthening its commitment to digital infrastructure with a projected 400MW
+project in the Île-de-France region, incorporating heat reuse into public infrastructure
+and greenhouses, fostering a technological and sustainable ecosystem. This project is
+part of a broader plan with 435MW already secured in Europe, including 184MW in
+France, and an additional 400MW to be secured by Q3 2025. The project will create
+200 direct jobs and 700 indirect jobs, with project delivery scheduled for 2030.
+25
+→ SESTERCE (France): the French company Sesterce is launching a major investment
+plan for the deployment of AI infrastructure in France. In the first phase of the project,
+Sesterce would deploy a datacenter in Drôme to provide its training and inference ser-
+vices and host computing capacity, for an investment of 400 million euros. The ambition
+is to continue in the Grand Est region with the target of having 600 MW by 2028.
+These announcements complement those from the last Choose France Summit in May
+2024, which recorded over 56 investment projects in France, totaling more than €15
+billion, with €7 billion dedicated to AI, among.
+→ Accenture has announced the opening of two generative AI centers in Paris and
+Sophia Antipolis, benefiting large enterprises and academic excellence hubs (Institut
+Polytechnique de Paris, Sciences Po, ESSEC, Inria);
+→ Microsoft has announced a €4 billion investment, the largest to date in France, to
+support growth in the new AI-driven economy.
+Our AI ecosystem is launching new products and services, while companies integrate
+AI technology at all levels. Here are some examples:
+Mistral AI accelerates its growth:
+→ Launch of Le Chat Pro: The application integrates powerful new features and can
+now be used for complex multilingual reasoning tasks, such as text comprehen-
+sion, transformation, and code generation. Le Chat Pro Mobile will be offered free
+for one year to Free Mobile subscribers, enhancing access to cutting-edge tools for
+optimal use.
+→ Partnership with Dassault Systèmes: Dassault Systèmes and Mistral AI launch
+LLMaaS by OUTSCALE, a solution that combines a sovereign and secure cloud
+infrastructure with Mistral AI’s high-performance and sustainable LLM models.
+LLMaaS provides industries with a generative AI platform, ensuring intellectual
+property protection while leveraging Mistral AI’s precision, responsiveness, and
+sustainable performance.
+→ Partnership with France Travail: The launch of ChatFT introduces a chatbot con-
+nected to internal legal documentation, providing users with quick and efficient access
+to essential information. This reduces search time for employees and citizens while
+improving efficiency and satisfaction. Additionally, the new MatchFT tool automat-
+ically suggests relevant events to users to accelerate their return to employment,
+such as training sessions, workshops, o conferences, by analyzing conversations and
+matching them with appropriate opportunities.
+26
+→ Partnership with Veolia: Mistral AI is integrated into the Veolia Secure GPT plat-
+form (+LLM Mistral), allowing Veolia’s clients to query real-time data on plant oper-
+ations. For example, a municipal water manager can access operational information
+and retrieve sensor data from the system.
+→ Partnership with Stellantis: A personalized and reliable AI assistant is seam-
+lessly integrated into Stellantis’ vehicle architecture and onboard hardware, com-
+bining Edge and Cloud models. It can interact with vehicle data and third-party
+applications.
+→ Launch of Le Chat Universités: This initiative serves as a think tank, bringing
+together key players to deploy AI in French universities. Members include Ed
+Tech and universities such as Rennes, Haute-Alsace, Paris-Est Créteil, Bordeaux
+Montaigne, Nîmes, Montpellier, and the National Conservatory of Arts and Crafts.
+The goal is to equip students, teachers, researchers, and administrative staff with
+Le Chat Université for educational and research purposes.
+Helsing signs multiple strategic partnerships:
+→ Partnership with Mistral AI: This strategic partnership places Mistral AI at the fore-
+front of AI integration in the defense sector. Building on Helsing’s expertise in defense
+applications, such as developing the HX-2 strike drone and enhancing the Eurofighter’s
+electronic warfare capabilities, this collaboration paves the way for the next generation
+of defense technologies. Mistral AI enhances Helsing’s capabilities with advanced AI
+solutions, focusing on the development of Vision-Language-Action models to optimize
+future robotic platforms. These models will enable seamless communication between
+autonomous systems and human operators, increasing operational efficiency in com-
+plex scenarios. This partnership marks a major breakthrough for European defense
+technologies, combining AI innovation with real-world applications.
+→ Partnership with Loft Orbital: Loft Orbital and Helsing form a strategic partner-
+ship in space and defense, aimed at developing next-generation AI-powered ISR
+(Intelligence, Surveillance, and Reconnaissance) satellites. They are launching a mul-
+ti-sensor AI-driven ISR constellation that will boost military operational speeds tenfold
+by 2026. Ten low Earth orbit (LEO) satellites equipped with various cameras and RF
+sensors will utilize Helsing’s AI-powered onboard processing to identify and classify
+military assets in real-time worldwide, complementing sovereign defense capabilities.
+With high responsiveness, short revisit times, and low latency, this system enables
+tactical use of space-based intelligence. An automated AI-supported ground segment
+will provide high-value services and continuous updates, ushering in a new era for
+European space defense.
+27
+Among the 600+ use cases recorded as part of the "AI for Efficiency" call for expres-
+sions of interest, aimed at selecting the best artificial intelligence projects to be pre-
+sented at the AI Action Summit, many illustrate high-quality partnerships and carry
+strong potential for the future.
+→ Renault is completely rethinking its production chain around AI. Tools developed
+in-house allow the company to plan movements and optimize the loading of its truck
+fleet, an innovation that saves several million euros annually and significantly reduces
+its carbon footprint. The automaker also uses AI, in partnership with Dessia, to generate
+innovative industrial designs to improve product quality, reduce design time by 80%, and
+decrease resource usage by a factor of 3.
+→ SNCF is putting all of its data to work to enhance the traveller experience. The
+company has systematized the collection of data from its rolling stock and uses artificial
+intelligence for early detection of failures. This leads to a significant reduction in mal-
+functions and limits less effective routine checks. SNCF is also developing chatbots with
+real-time access to the latest news, capable of effectively interacting with users in case of
+traffic disruptions.
+→ The media outlet Brut has fully integrated AI into its content production process.
+AI does not replace human work but enhances its performance and quality. Brut uses
+generative AI to automate some redundant writing tasks, extract information from various
+data sources, and synthesize it. Its AI solution, developed in collaboration with its editorial
+team, AI experts, and the start-up GladIA, allows the company to focus on the quality of
+published articles and the reliability of the information.
+28
