@@ -1,0 +1,22 @@
+Dataset,Variable,count,mean,median,stdev,min,max
+IEF,Overall Score,256,68.48,70.3,8.49,48.0,81.2
+IEF,Property Rights,256,77.09,85.95,20.04,20.0,96.2
+IEF,Government Integrity,256,70.47,76.0,17.9,22.0,95.1
+IEF,Judicial Effectiveness,80,76.22,76.8,14.36,37.4,97.9
+IEF,Tax Burden,256,61.41,62.35,10.62,33.2,80.0
+IEF,Government Spending,256,43.14,43.95,22.77,0.0,95.9
+IEF,Fiscal Health,80,48.77,54.55,30.69,0.0,92.9
+IEF,Business Freedom,256,79.47,83.5,11.59,43.1,100.0
+IEF,Labor Freedom,176,67.27,68.05,14.97,39.9,98.5
+IEF,Monetary Freedom,256,81.03,81.5,5.96,61.5,94.3
+IEF,Trade Freedom,256,79.42,80.8,9.94,20.0,88.8
+IEF,Investment Freedom,256,66.19,70.0,18.3,20.0,90.0
+IEF,Financial Freedom,256,63.12,70.0,17.72,20.0,90.0
+AI Vibrancy,Total Score,8,26.04,17.16,22.12,12.35,77.85
+AI Vibrancy,R&D,8,2.99,0.9,4.08,0.41,9.61
+AI Vibrancy,Responsible AI,8,3.26,1.3,4.77,0.49,14.29
+AI Vibrancy,Economy,8,2.35,0.57,4.84,0.15,14.29
+AI Vibrancy,Talent,8,4.94,4.63,1.46,3.35,7.72
+AI Vibrancy,Policy and Governance,8,3.31,2.29,3.24,0.53,9.71
+AI Vibrancy,Public Opinion,8,4.18,3.22,2.73,0.61,8.44
+AI Vibrancy,Infrastructure,8,5.01,4.03,3.89,1.67,13.85
