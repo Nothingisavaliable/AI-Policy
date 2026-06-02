@@ -20,7 +20,7 @@ How could the future of AI evolve? Much of this depends on if it is viewed as an
 
 | Source | Description | URL |
 |---|---|---|
-| OECD (Organisation for Economic Co-operation and Development) | National AI policy data, AI governance frameworks, and international policy indicators | [OECD AI Policy Observatory](https://oecd.ai/en/dashboards/national) |
+| Google Drive source folder | National AI strategy PDF documents used for text analysis | [AI Policy PDFs](https://drive.google.com/drive/folders/1CCiBmppafwtXLRVTpnryIY8Y9PLvxwvG) |
 | The Heritage Foundation | Economic Freedom Index scores and rankings across countries | [Economic Freedom Index](https://economicfreedom.heritage.org/pages/all-country-scores) |
 | Freedom House | Global indicators of political rights and civil liberties | [Freedom in the World](https://freedomhouse.org/report/freedom-world) |
 | V-Dem Institute | Democracy and institutional quality metrics | [V-Dem Dataset](https://www.v-dem.net/data/the-v-dem-dataset/) |
@@ -30,8 +30,8 @@ How could the future of AI evolve? Much of this depends on if it is viewed as an
 
 ## 📄 Data Sources Details
 
-- OECD AI policy data provides structured information about national AI strategies and regulatory approaches.
-- The Economic Freedom Index offers standardized measures of market openness and government intervention.
+- The Google Drive source folder provides the national AI strategy PDFs used for text extraction and framing analysis.
+- The Heritage Foundation Index of Economic Freedom offers standardized measures of market openness and government intervention.
 - Freedom House and V-Dem help control for political systems, institutional quality, and civil liberties.
 - CAP provides legislative text and policy agenda information relevant to technology governance.
 
@@ -41,7 +41,7 @@ How could the future of AI evolve? Much of this depends on if it is viewed as an
 
 To investigate the relationship between economic freedom and AI regulatory rhetoric, this project will:
 
-- Collect AI-related policy documents from the OECD AI Policy Observatory and obtain economic freedom indicators from the Economic Freedom of the World Index.
+- Collect AI-related policy documents from the Google Drive source folder and obtain economic freedom indicators from the Heritage Foundation Index of Economic Freedom.
 
 - Use OCR and natural language processing (NLP) techniques to extract and analyze AI policy rhetoric within G7 countries’ official policy documents.
 
@@ -112,33 +112,25 @@ Regulatory framing may function as an intermediate mechanism linking AI ecosyste
 
 ## 1️⃣ Text Analysis
 
-National AI strategy and regulatory documents from G7 countries, China, and the European Union will be collected and analyzed using keyword-based text analysis.
+National AI strategy and regulatory documents from G7 countries, China, and the European Union will be collected and analyzed using Qwen sentence-level framing.
 
-The analysis examines the frequency and distribution of framing-related terms within each document to estimate the relative emphasis placed on innovation-oriented versus restriction-oriented discourse.
+The analysis estimates the relative emphasis placed on AI-friendly versus AI-cautious discourse. AI-friendly framing includes language about innovation, adoption, investment, productivity, competitiveness, regulatory flexibility, and reduced regulatory burdens. AI-cautious framing includes language about risk, safety, oversight, compliance, accountability, privacy, fairness, rights protection, and precaution.
 
-China is treated as one country-level case and combines both the national AI strategy document and the newer State Council “AI+” action policy. Each country/entity receives framing scores based on keyword occurrence frequencies.
+China is treated as one country-level case and combines both the national AI strategy document and the newer State Council “AI+” action policy. Each country/entity receives confidence-weighted framing scores normalized per 1,000 words.
 
 For consistency, framing analysis uses an English analysis corpus. Chinese-heavy text is translated into English with `facebook/nllb-200-distilled-600M`; English source documents are used directly.
 
 ---
 
-# 🏷️ Framing Categories and Keywords
-
-| Framing Type | Keywords |
-|---|---|
-| 🚀 Innovation-oriented | "opportunity", "growth", "competitiveness", "innovation", "investment", "leadership", "acceleration", "adoption", "productivity", "development" |
-| ⚠️ Restriction / Risk-oriented | "risk", "safety", "safeguard", "restriction", "compliance", "constraint", "oversight", "accountability", "transparency", "harm" |
-
----
-
 # 📊 Correlation Analysis
 
-Correlation analysis will be conducted to examine relationships between:
+Correlation analysis is conducted in `notebooks/Correlation Study/correlation_study.ipynb` to examine relationships between:
 
 - 📈 Economic Freedom scores and regulatory framing scores
 - 🤖 Stanford AI Vibrancy scores and regulatory framing scores
+- 🧩 Combined AI Vibrancy + Economic Freedom predictors and the innovation-to-risk framing ratio
 
-The analysis aims to identify whether countries with stronger economic freedom or AI capability exhibit systematically different AI governance narratives.
+The core dependent variable is the **Innovation-to-Risk Framing Ratio**, calculated as the ratio of Qwen-classified AI-friendly framing to Qwen-classified AI-cautious framing. The notebook uses the Qwen framing output by default and stores a merged cross-country dataset, correlation table, regression models, mediation diagnostic, and visual summaries in `outputs/`.
 
 ---
 
@@ -228,23 +220,33 @@ To address the feedback, the project now explicitly reports standard descriptive
 
 The CSV versions are saved in `outputs/descriptive_statistics_ief.csv`, `outputs/descriptive_statistics_ai_vibrancy.csv`, and `outputs/descriptive_statistics_key_numeric_variables.csv`.
 
-## National AI Strategy Text Framing — G7 + China
+## Qwen AI-Friendly vs. AI-Cautious Framing
 
-Keyword-based text analysis of national AI strategy documents, comparing broad policy themes and the balance between innovation-oriented and restriction/risk-oriented framing. Framing scores use an English analysis corpus: cached NLLB translations are used where available, and English source documents are used directly. China aggregates both Chinese policy PDFs listed in `document_sources.csv`.
+The Qwen sentence-level classifier labels each policy sentence as AI-friendly, AI-cautious, mixed, or neutral. AI-friendly sentences emphasize innovation, adoption, investment, productivity, competitiveness, regulatory flexibility, or faster deployment. AI-cautious sentences emphasize risk, safety, oversight, compliance, accountability, privacy, fairness, rights protection, or precaution. Mixed sentences contribute half of their confidence score to each side, and neutral sentences contribute zero.
 
-![Theme Mentions per 1,000 Words](outputs/theme_mentions_per_1000_words.png)
+![Qwen AI-Friendly vs Cautious](outputs/qwen_ai_friendly_vs_cautious.svg)
 
-![Framing Keyword Scores per 1,000 Words](outputs/framing_keyword_scores_per_1000_words.png)
+![Qwen Net AI-Friendly Framing](outputs/qwen_net_ai_friendly_framing.svg)
 
-![Framing Keyword Frequency by Country](outputs/framing_keyword_frequency_by_country.png)
-
-**Key observations**:
-- Theme frequency varies substantially across countries, suggesting different policy emphases within national AI strategies.
-- Innovation-oriented framing appears more frequently than restriction/risk-oriented framing across all analyzed documents.
-- Canada, Italy, and the United States show comparatively stronger restriction/risk-oriented keyword presence than France, China, Germany, and the European Union.
-- The keyword heatmap shows which specific terms drive each country’s framing score.
+Outputs are saved in `outputs/qwen_ai_framing_summary.csv`, `outputs/qwen_ai_framing_sentence_labels.csv`, `outputs/qwen_g7_china_framing_table.csv`, and `outputs/qwen_ai_framing_overview.md`.
 
 These visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy, economic freedom, and regulatory framing across the analyzed jurisdictions is large enough to test whether broader political-economic and AI ecosystem conditions predict the framing of national AI strategies.
+
+## Correlation Study — Vibrancy, Economic Freedom, and Framing
+
+The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index of Economic Freedom scores, and the Qwen framing results for the same G7 + China country set. The main framing variable is the log innovation-to-risk ratio, derived from Qwen AI-friendly framing per 1,000 words divided by Qwen AI-cautious framing per 1,000 words.
+
+![Correlation Study Scatter](outputs/correlation_study_scatter_qwen.png)
+
+![Correlation Study Matrix](outputs/correlation_study_matrix_qwen.png)
+
+**Initial exploratory results**:
+- H1 shows a weak negative relationship between AI Vibrancy and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.229`, `p = 0.5853`).
+- H2 shows a negative relationship between IEF score and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.461`, `p = 0.2504`), so the current G7 + China sample does not support the expected positive direction.
+- The combined model using AI Vibrancy and IEF explains more variation than AI Vibrancy alone (`R2 = 0.265` versus `R2 = 0.052`), but with only eight countries the results should be treated as exploratory rather than confirmatory.
+- The mediation diagnostic is included as a mechanism check, not a formal causal test, because the sample size is too small for strong inference.
+
+Key outputs are saved in `outputs/correlation_study_dataset_qwen.csv`, `outputs/correlation_study_correlations_qwen.csv`, `outputs/correlation_study_regression_models_qwen.csv`, and `outputs/correlation_study_mediation_qwen.csv`.
 
 ---
 
@@ -301,20 +303,28 @@ AI-Policy/
 │   │   ├── ai_vibrancy_tool.ipynb
 │   │   ├── ai_dev_index_v2.ipynb
 │   │   └── select_g7_china_data.ipynb
+│   ├── Correlation Study/
+│   │   └── correlation_study.ipynb
 │   ├── Economic Freedom/
 │   │   └── ief_g7_china_analysis.ipynb
 │   └── Text Analysis/
 │       ├── national_ai_strategy_nllb_translation.ipynb
-│       └── national_ai_strategy_text_analysis.ipynb
+│       ├── national_ai_strategy_text_analysis.ipynb
+│       └── qwen_ai_framing.ipynb
 │
 ├── outputs/
 │   ├── stanford_AI_Vibrancy.png
 │   ├── stanford_AI_Vibrancy_component_radar.png
 │   ├── IEF_score.png
 │   ├── IEF_score_by_year.png
-│   ├── theme_mentions_per_1000_words.png
-│   ├── framing_keyword_scores_per_1000_words.png
-│   └── framing_keyword_frequency_by_country.png
+│   ├── qwen_ai_framing_summary.csv
+│   ├── qwen_ai_framing_sentence_labels.csv
+│   ├── correlation_study_dataset_qwen.csv
+│   ├── correlation_study_correlations_qwen.csv
+│   ├── correlation_study_regression_models_qwen.csv
+│   ├── correlation_study_mediation_qwen.csv
+│   ├── correlation_study_scatter_qwen.png
+│   └── correlation_study_matrix_qwen.png
 │
 ├── README.md
 ├── README.pdf

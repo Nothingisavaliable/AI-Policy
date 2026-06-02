@@ -1,0 +1,9 @@
+Country,Sources,Word count,AI-friendly sentence count,AI-cautious sentence count,AI-friendly score,AI-cautious score,AI-friendly per 1000 words,AI-cautious per 1000 words,Net AI-friendly framing,Net AI-cautious framing,AI-friendly share
+China,China_analysis_english.txt,6906,72,21,168.8,34.6,24.44,5.01,19.43,-19.43,0.83
+United Kingdom,UK_National_AI_Strategy_ocr.pdf,9118,100,31,161.8,45.6,17.75,5.0,12.74,-12.74,0.78
+Germany,DE_National_AI_Strategy.pdf,14518,106,54,241.9,98.5,16.66,6.78,9.88,-9.88,0.711
+France,FR__National_AI_Strategy.pdf; FR_National_AI_Strategy_2.pdf,45114,302,89,561.0,134.5,12.44,2.98,9.45,-9.45,0.807
+Italy,IT_National_AI_Strategy.pdf,18220,121,64,244.7,107.3,13.43,5.89,7.54,-7.54,0.695
+United States,US_National_AI_Strategy.pdf,9440,72,47,136.2,75.3,14.43,7.98,6.45,-6.45,0.644
+Japan,JP_National_AI_Strategy_ocr.pdf,5943,31,31,55.8,48.9,9.39,8.23,1.16,-1.16,0.533
+Canada,CA_National_AI_Strategy_ocr.pdf,8053,30,52,50.8,85.5,6.31,10.62,-4.31,4.31,0.373

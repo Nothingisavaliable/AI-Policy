@@ -1,0 +1,69 @@
+Country,Category,AI-friendly score,AI-cautious score,AI-friendly per 1000 words,AI-cautious per 1000 words
+United States,open ecosystem and market access,6.0,0.0,0.64,0.0
+United States,deregulatory or flexible governance,25.2,0.0,2.67,0.0
+United States,investment and competitiveness,39.0,0.0,4.13,0.0
+United States,rights and protection emphasis,0.0,11.0,0.0,1.17
+United States,risk and harm emphasis,0.0,32.0,0.0,3.39
+United States,innovation and adoption promotion,66.0,0.0,6.99,0.0
+United States,regulation as necessary,0.0,15.0,0.0,1.59
+United States,restrictive governance,0.0,15.4,0.0,1.63
+United States,mandatory accountability,0.0,1.9,0.0,0.2
+China,investment and competitiveness,26.0,0.0,3.76,0.0
+China,innovation and adoption promotion,124.0,0.0,17.96,0.0
+China,open ecosystem and market access,16.8,0.0,2.43,0.0
+China,rights and protection emphasis,0.0,4.4,0.0,0.64
+China,risk and harm emphasis,0.0,28.0,0.0,4.05
+China,restrictive governance,0.0,2.2,0.0,0.32
+China,deregulatory or flexible governance,2.0,0.0,0.29,0.0
+United Kingdom,investment and competitiveness,92.0,0.0,10.09,0.0
+United Kingdom,risk and harm emphasis,0.0,29.0,0.0,3.18
+United Kingdom,deregulatory or flexible governance,22.2,0.0,2.43,0.0
+United Kingdom,open ecosystem and market access,15.6,0.0,1.71,0.0
+United Kingdom,regulation as necessary,0.0,10.0,0.0,1.1
+United Kingdom,innovation and adoption promotion,32.0,0.0,3.51,0.0
+United Kingdom,rights and protection emphasis,0.0,4.4,0.0,0.48
+United Kingdom,restrictive governance,0.0,2.2,0.0,0.24
+France,investment and competitiveness,252.0,0.0,5.59,0.0
+France,open ecosystem and market access,42.0,0.0,0.93,0.0
+France,innovation and adoption promotion,262.0,0.0,5.81,0.0
+France,risk and harm emphasis,0.0,47.0,0.0,1.04
+France,rights and protection emphasis,0.0,49.5,0.0,1.1
+France,regulation as necessary,0.0,17.5,0.0,0.39
+France,precautionary framing,0.0,3.2,0.0,0.07
+France,deregulatory or flexible governance,5.0,0.0,0.11,0.0
+France,restrictive governance,0.0,15.4,0.0,0.34
+France,mandatory accountability,0.0,1.9,0.0,0.04
+Germany,investment and competitiveness,87.0,0.0,5.99,0.0
+Germany,innovation and adoption promotion,106.0,0.0,7.3,0.0
+Germany,risk and harm emphasis,0.0,39.0,0.0,2.69
+Germany,rights and protection emphasis,0.0,40.7,0.0,2.8
+Germany,open ecosystem and market access,18.0,0.0,1.24,0.0
+Germany,deregulatory or flexible governance,30.9,0.0,2.13,0.0
+Germany,regulation as necessary,0.0,12.5,0.0,0.86
+Germany,restrictive governance,0.0,4.4,0.0,0.3
+Germany,mandatory accountability,0.0,1.9,0.0,0.13
+Italy,risk and harm emphasis,0.0,54.0,0.0,2.96
+Italy,open ecosystem and market access,46.8,0.0,2.57,0.0
+Italy,investment and competitiveness,78.0,0.0,4.28,0.0
+Italy,innovation and adoption promotion,110.0,0.0,6.04,0.0
+Italy,rights and protection emphasis,0.0,25.3,0.0,1.39
+Italy,regulation as necessary,0.0,12.5,0.0,0.69
+Italy,precautionary framing,0.0,4.8,0.0,0.26
+Italy,restrictive governance,0.0,8.8,0.0,0.48
+Italy,deregulatory or flexible governance,9.9,0.0,0.54,0.0
+Italy,mandatory accountability,0.0,1.9,0.0,0.1
+Japan,rights and protection emphasis,0.0,20.9,0.0,3.52
+Japan,investment and competitiveness,23.0,0.0,3.87,0.0
+Japan,risk and harm emphasis,0.0,28.0,0.0,4.71
+Japan,innovation and adoption promotion,14.0,0.0,2.36,0.0
+Japan,deregulatory or flexible governance,5.6,0.0,0.94,0.0
+Japan,open ecosystem and market access,13.2,0.0,2.22,0.0
+Canada,rights and protection emphasis,0.0,38.5,0.0,4.78
+Canada,investment and competitiveness,16.0,0.0,1.99,0.0
+Canada,open ecosystem and market access,4.8,0.0,0.6,0.0
+Canada,risk and harm emphasis,0.0,36.0,0.0,4.47
+Canada,innovation and adoption promotion,28.0,0.0,3.48,0.0
+Canada,regulation as necessary,0.0,7.5,0.0,0.93
+Canada,precautionary framing,0.0,1.6,0.0,0.2
+Canada,mandatory accountability,0.0,1.9,0.0,0.24
+Canada,deregulatory or flexible governance,2.0,0.0,0.25,0.0

@@ -1,0 +1,1 @@
+Data Source:https://hai.stanford.edu/ai-index/2026-ai-index-report

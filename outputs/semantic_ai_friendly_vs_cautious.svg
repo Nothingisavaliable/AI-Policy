@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="476" viewBox="0 0 1100 476">
+<style>text{font-family:Arial,sans-serif;font-size:13px}.title{font-size:20px;font-weight:700}.axis{stroke:#777;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.label{font-weight:600}</style>
+<text class="title" x="550.0" y="32" text-anchor="middle">Semantic AI Framing: Friendly vs Cautious Mentions per 1,000 Words</text>
+<line class="axis" x1="230.0" y1="50" x2="230.0" y2="431"/>
+<text class="label" x="218" y="92" text-anchor="end">China</text>
+<rect x="230.0" y="74" width="810.0" height="15" fill="#2ca02c"/>
+<text x="1045.0" y="86" text-anchor="start">24.44</text>
+<rect x="230.0" y="92" width="166.0" height="15" fill="#d62728"/>
+<text x="401.0" y="104" text-anchor="start">5.01</text>
+<text class="label" x="218" y="134" text-anchor="end">United Kingdom</text>
+<rect x="230.0" y="116" width="588.3" height="15" fill="#2ca02c"/>
+<text x="823.3" y="128" text-anchor="start">17.75</text>
+<rect x="230.0" y="134" width="165.7" height="15" fill="#d62728"/>
+<text x="400.7" y="146" text-anchor="start">5.00</text>
+<text class="label" x="218" y="176" text-anchor="end">Germany</text>
+<rect x="230.0" y="158" width="552.2" height="15" fill="#2ca02c"/>
+<text x="787.2" y="170" text-anchor="start">16.66</text>
+<rect x="230.0" y="176" width="224.7" height="15" fill="#d62728"/>
+<text x="459.7" y="188" text-anchor="start">6.78</text>
+<text class="label" x="218" y="218" text-anchor="end">France</text>
+<rect x="230.0" y="200" width="412.3" height="15" fill="#2ca02c"/>
+<text x="647.3" y="212" text-anchor="start">12.44</text>
+<rect x="230.0" y="218" width="98.8" height="15" fill="#d62728"/>
+<text x="333.8" y="230" text-anchor="start">2.98</text>
+<text class="label" x="218" y="260" text-anchor="end">Italy</text>
+<rect x="230.0" y="242" width="445.1" height="15" fill="#2ca02c"/>
+<text x="680.1" y="254" text-anchor="start">13.43</text>
+<rect x="230.0" y="260" width="195.2" height="15" fill="#d62728"/>
+<text x="430.2" y="272" text-anchor="start">5.89</text>
+<text class="label" x="218" y="302" text-anchor="end">United States</text>
+<rect x="230.0" y="284" width="478.2" height="15" fill="#2ca02c"/>
+<text x="713.2" y="296" text-anchor="start">14.43</text>
+<rect x="230.0" y="302" width="264.5" height="15" fill="#d62728"/>
+<text x="499.5" y="314" text-anchor="start">7.98</text>
+<text class="label" x="218" y="344" text-anchor="end">Japan</text>
+<rect x="230.0" y="326" width="311.2" height="15" fill="#2ca02c"/>
+<text x="546.2" y="338" text-anchor="start">9.39</text>
+<rect x="230.0" y="344" width="272.8" height="15" fill="#d62728"/>
+<text x="507.8" y="356" text-anchor="start">8.23</text>
+<text class="label" x="218" y="386" text-anchor="end">Canada</text>
+<rect x="230.0" y="368" width="209.1" height="15" fill="#2ca02c"/>
+<text x="444.1" y="380" text-anchor="start">6.31</text>
+<rect x="230.0" y="386" width="352.0" height="15" fill="#d62728"/>
+<text x="587.0" y="398" text-anchor="start">10.62</text>
+<rect x="230" y="439" width="14" height="14" fill="#2ca02c"/>
+<text x="250" y="451">AI-friendly per 1000 words</text>
+<rect x="480" y="439" width="14" height="14" fill="#d62728"/>
+<text x="500" y="451">AI-cautious per 1000 words</text>
+</svg>

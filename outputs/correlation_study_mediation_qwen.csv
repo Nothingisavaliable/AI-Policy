@@ -1,0 +1,2 @@
+N,a: Framing ~ Vibrancy,b: IEF ~ Framing | Vibrancy,c total: IEF ~ Vibrancy,c': IEF ~ Vibrancy | Framing,Indirect effect a*b,Bootstrap 95% CI low,Bootstrap 95% CI high,Mediated share
+8,-0.0064,-6.7924,-0.0006,-0.0441,0.0435,-0.9943,0.3216,-77.6328
