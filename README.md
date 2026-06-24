@@ -1,21 +1,21 @@
-# 🌐 AI-Policy
+# AI-Policy
 
-## 👥 Team Members
-- Hayden Hubbard (@hatori27) - Role/Responsibility
-- Wu Cheng (@Nothingisavaliable) - Role/Responsibility
-- Daria (@complicatic)- Role/Responsibility
-- Sheena (@sheenapham1) - Role/Responsibility
-- Stephen (@St-ep-hen) - Role/Responsibility
+## Team Members
+- Hayden Hubbard (@hatori27)
+- Wu Cheng (@Nothingisavaliable)
+- Daria (@complicatic)
+- Sheena (@sheenapham1)
+- Stephen (@St-ep-hen)
 
 ---
 
-<!-- ## ❓ Research Question
+<!-- ## Research Question
 How could the future of AI evolve? Much of this depends on if it is viewed as an opportunity or a danger. One perspective that has not been explored is the relationship between economic freedom and how AI is viewed and discussed. In more economically free countries, is AI innovation encouraged in glowing terms for the sake of the economy? On the other hand, in less economically free countries,  is more cautious terminology utilized to encourage confidence in a watchful government? Our research seeks to answer this question: __what relationship, if any, exists between economic freedom and AI regulatory rhetoric?__
 
 
 ---
 
-## 🔗 Data Sources
+## Data Sources
 
 
 | Source | Description | URL |
@@ -28,7 +28,7 @@ How could the future of AI evolve? Much of this depends on if it is viewed as an
 
 ---
 
-## 📄 Data Sources Details
+## Data Sources Details
 
 - The Google Drive source folder provides the national AI strategy PDFs used for text extraction and framing analysis.
 - The Heritage Foundation Index of Economic Freedom offers standardized measures of market openness and government intervention.
@@ -37,7 +37,7 @@ How could the future of AI evolve? Much of this depends on if it is viewed as an
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 To investigate the relationship between economic freedom and AI regulatory rhetoric, this project will:
 
@@ -57,7 +57,7 @@ To investigate the relationship between economic freedom and AI regulatory rheto
 
 
 
-## 📖 Background
+## Background
 
 Existing research has examined AI governance through various lenses; however, the relationship between economic freedom and AI-related policy discourse remains underexplored. This research seeks to address that gap by investigating whether a country’s level of economic freedom shapes how governments frame the development and regulation of AI within national strategy documents.
 
@@ -65,7 +65,7 @@ In particular, this study compares the G7 countries and China to analyze how dif
 
 ---
 
-# ❓ Research Question
+# Research Question
 
 ## Primary Research Question
 
@@ -79,9 +79,9 @@ In particular, this study compares the G7 countries and China to analyze how dif
 
 ---
 
-# 🧩 Hypotheses
+# Hypotheses
 
-## 🟢 H1 — AI Vibrancy and Innovation-Oriented Rhetoric
+## H1 — AI Vibrancy and Innovation-Oriented Rhetoric
 
 Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-enabling rhetoric in their national policy documents.
 
@@ -90,7 +90,16 @@ Countries with more developed AI ecosystems are expected to have stronger indust
 
 ---
 
-## 🟡 H2 — Economic Freedom and Positive Regulatory Framing
+## H2 — AI Vibrancy and Risk-Oriented Rhetoric
+
+Countries with lower Stanford AI Vibrancy scores will exhibit more risk-enabling rhetoric in their national policy documents.
+
+### Rationale
+Countries with less developed AI ecosystems are expected to have weaker industry stakeholders and risk-oriented policy agendas, encouraging governments to frame AI regulation in restrictive rather than enabling terms.
+
+---
+
+## H3 — Economic Freedom and Positive Regulatory Framing
 
 Countries whose AI regulatory discourse is more positive and innovation-oriented will exhibit higher economic freedom scores.
 
@@ -99,18 +108,18 @@ Positive regulatory framing may reflect broader ideological commitments toward m
 
 ---
 
-## 🔵 H3 — Regulatory Framing as a Mediating Mechanism
+## H4 — Economic Freedom and Negative Regulatory Framing
 
-The relationship between AI vibrancy and economic freedom is partially or fully mediated by the permissiveness of AI regulatory rhetoric.
+Countries whose AI regulatory discourse is more negative and risk-oriented will exhibit lower economic freedom scores.
 
 ### Rationale
-Regulatory framing may function as an intermediate mechanism linking AI ecosystem maturity to broader economic ideology. In this view, AI vibrancy influences how governments discuss AI, while that discourse reflects and reinforces underlying economic values.
+Negative regulatory framing may reflect broader ideological commitments away from market liberalism and economic openness, which are captured by economic freedom indicators.
 
 ---
 
-# 🛠️ Methodology
+# Methodology
 
-## 1️⃣ Text Analysis
+## Text Analysis
 
 National AI strategy and regulatory documents from G7 countries, China, and the European Union will be collected and analyzed using Qwen sentence-level framing.
 
@@ -122,7 +131,7 @@ For consistency, framing analysis uses an English analysis corpus. Chinese-heavy
 
 ---
 
-# 📊 Correlation Analysis
+# Correlation Analysis
 
 Correlation analysis is conducted in `notebooks/Correlation Study/correlation_study.ipynb` to examine relationships between:
 
@@ -134,7 +143,7 @@ The core dependent variable is the **Innovation-to-Risk Framing Ratio**, calcula
 
 ---
 
-# 🎯 Expected Contribution
+# Expected Contribution
 
 This research contributes to the emerging literature on AI governance by connecting political-economic structure with regulatory discourse.
 
@@ -142,7 +151,7 @@ Rather than treating AI policy solely as a technical or legal issue, this study 
 
 ---
 
-# 🧠 Core Analytical Logic
+# Core Analytical Logic
 
 ```text
 AI Vibrancy
@@ -154,7 +163,7 @@ Economic Freedom Orientation
 
 This framework explores whether AI ecosystem maturity influences regulatory rhetoric, and whether that rhetoric reflects broader economic and ideological preferences.
 
-# 📊 Preliminary Results
+# Preliminary Results
 
 ## Stanford AI Vibrancy Tool — G7 + China
 
@@ -240,7 +249,7 @@ The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index 
 
 ![Correlation Study Matrix](outputs/correlation_study_matrix_qwen.png)
 
-**Initial exploratory results**:
+**Initial exploratory results (TO BE CHANGED)**:
 - H1 shows a weak negative relationship between AI Vibrancy and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.229`, `p = 0.5853`).
 - H2 shows a negative relationship between IEF score and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.461`, `p = 0.2504`), so the current G7 + China sample does not support the expected positive direction.
 - The combined model using AI Vibrancy and IEF explains more variation than AI Vibrancy alone (`R2 = 0.265` versus `R2 = 0.052`), but with only eight countries the results should be treated as exploratory rather than confirmatory.
@@ -250,7 +259,7 @@ Key outputs are saved in `outputs/correlation_study_dataset_qwen.csv`, `outputs/
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 AI-Policy/
