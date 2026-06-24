@@ -69,13 +69,7 @@ In particular, this study compares the G7 countries and China to analyze how dif
 
 ## Primary Research Question
 
-> How do variations in economic freedom across jurisdictions shape the dominant frames, justifications, and priorities embedded in national AI regulatory discourse for G7 countries, and how does this compare to China?
-
----
-
-## Alternative Research Question
-
-> To what extent do economic freedom and AI vibrancy predict the dominant frames embedded in national AI regulatory discourse, and how do these relationships vary across G7 countries and China?
+> How do variations in economic freedom and AI vibrancy  shape the dominant framing embedded in national discourse, and how do these relationships vary across G7 countries and  China?
 
 ---
 
