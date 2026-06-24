@@ -67,8 +67,6 @@ In particular, this study compares the G7 countries and China to analyze how dif
 
 # Research Question
 
-## Primary Research Question
-
 > How do variations in economic freedom and AI vibrancy  shape the dominant framing embedded in national discourse, and how do these relationships vary across G7 countries and  China?
 
 ---
@@ -129,9 +127,9 @@ For consistency, framing analysis uses an English analysis corpus. Chinese-heavy
 
 Correlation analysis is conducted in `notebooks/Correlation Study/correlation_study.ipynb` to examine relationships between:
 
-- 📈 Economic Freedom scores and regulatory framing scores
-- 🤖 Stanford AI Vibrancy scores and regulatory framing scores
-- 🧩 Combined AI Vibrancy + Economic Freedom predictors and the innovation-to-risk framing ratio
+- Economic Freedom scores and regulatory framing scores
+- Stanford AI Vibrancy scores and regulatory framing scores
+- Combined AI Vibrancy + Economic Freedom predictors and the innovation-to-risk framing ratio
 
 The core dependent variable is the **Innovation-to-Risk Framing Ratio**, calculated as the ratio of Qwen-classified AI-friendly framing to Qwen-classified AI-cautious framing. The notebook uses the Qwen framing output by default and stores a merged cross-country dataset, correlation table, regression models, mediation diagnostic, and visual summaries in `outputs/`.
 
@@ -243,7 +241,7 @@ The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index 
 
 ![Correlation Study Matrix](outputs/correlation_study_matrix_qwen.png)
 
-**Initial exploratory results (TO BE CHANGED)**:
+**Initial exploratory results (TO BE CHANGED ACCORDING TO THE NEW HYPOTHESES)**:
 - H1 shows a weak negative relationship between AI Vibrancy and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.229`, `p = 0.5853`).
 - H2 shows a negative relationship between IEF score and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.461`, `p = 0.2504`), so the current G7 + China sample does not support the expected positive direction.
 - The combined model using AI Vibrancy and IEF explains more variation than AI Vibrancy alone (`R2 = 0.265` versus `R2 = 0.052`), but with only eight countries the results should be treated as exploratory rather than confirmatory.
