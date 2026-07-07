@@ -117,7 +117,7 @@ AI vibrancy is measured using the Stanford AI Index country-level AI Vibrancy sc
 
 ## Economic Freedom
 
-Economic freedom is measured using the Heritage Foundation Index of Economic Freedom panel. The correlation study uses the latest available year in the local panel, currently **2026**, and uses `Overall Score` as `IEF Overall Score`.
+Economic freedom is measured using the Heritage Foundation Index of Economic Freedom panel. The correlation study uses the latest available year, currently **2026**, and uses `Overall Score` as `IEF Overall Score`.
 
 ## Text Analysis
 
