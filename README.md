@@ -268,7 +268,7 @@ Representative corrected label examples:
 | European Union | Mixed | "ecosystem of trust... ecosystem of excellence..." |
 | France | Neutral | "Members include Ed Tech and universities..." |
 
-The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean framing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
+The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean fram三ing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
 
 ![DeepSeek Corrected Country Framing Summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
 
