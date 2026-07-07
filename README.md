@@ -282,7 +282,11 @@ The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index 
 
 ![Correlation Study Scatter](outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png)
 
+![Outlier-Excluded Correlation Study Scatter](outputs/correlation_study_scatter_outlier_excluded_deepseek_corrected_daria_stephen_no_unsure_full.png)
+
 ![Correlation Study Matrix](outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png)
+
+![Outlier Sensitivity Check](outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png)
 
 **Current exploratory results using corrected DeepSeek framing**:
 - H1 expects AI Vibrancy to be positively associated with `Innovation Share`, but the current Pearson correlation is near zero and slightly negative (`r = -0.030`, `p = 0.9429`). Directional support is not observed.
