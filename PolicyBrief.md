@@ -92,6 +92,8 @@ This project combines three types of evidence: country-level AI ecosystem indica
 1. **The corrected framing model identifies meaningful variation across countries, but most countries are more innovation-oriented than risk-oriented.**  
    Across the full corrected framing run, the model labeled **3,730 sentences** across 9 countries/entities. China, France, and the United Kingdom have the highest mean framing scores, indicating strongly innovation-oriented policy language. Canada and the United States have the lowest mean framing scores among the analyzed cases, reflecting a more balanced or risk-conscious discourse.
 
+   ![Corrected DeepSeek framing summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
+
    | Country/entity | Total sentences | Innovation-oriented | Risk-oriented | Mean framing score | Innovation-to-risk ratio |
    |---|---:|---:|---:|---:|---:|
    | China | 241 | 167 | 23 | 0.598 | 7.128 |
@@ -102,6 +104,12 @@ This project combines three types of evidence: country-level AI ecosystem indica
    | Italy | 440 | 190 | 60 | 0.295 | 3.149 |
    | United States | 381 | 167 | 101 | 0.173 | 1.650 |
    | Canada | 306 | 105 | 78 | 0.088 | 1.344 |
+
+   The correlation figures below summarize the G7 + China hypothesis tests and pairwise relationships among the merged quantitative variables.
+
+   ![Correlation study scatter plots](outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png)
+
+   ![Correlation study matrix](outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png)
 
 2. **AI Vibrancy does not predict more innovation-oriented rhetoric in this sample.**  
    H1 expected countries with higher AI Vibrancy scores to show more innovation-oriented language. The observed Pearson correlation between AI Vibrancy and Innovation Share is almost zero and slightly negative (`r = -0.030`, `p = 0.9429`). This means the current G7 + China sample does **not** support H1.
