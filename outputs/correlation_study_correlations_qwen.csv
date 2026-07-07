@@ -1,4 +1,0 @@
-Hypothesis,X,Y,N,Pearson r,Pearson p,Spearman rho,Spearman p
-H1,AI Vibrancy Score,Log Innovation to Risk Ratio,8,-0.229,0.5853,0.214,0.6103
-H2,IEF Overall Score,Log Innovation to Risk Ratio,8,-0.461,0.2504,-0.548,0.16
-H3 total relationship,AI Vibrancy Score,IEF Overall Score,8,-0.001,0.9973,-0.071,0.8665

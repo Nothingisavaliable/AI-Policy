@@ -1,8 +1,0 @@
-Model,Outcome,Term,Coefficient,Std. Error,t,p,N,R2,Adj. R2
-H1: Framing ratio ~ AI vibrancy,Log Innovation to Risk Ratio,Intercept,0.7243,0.4261,1.7,0.1401,8,0.003,-0.164
-H1: Framing ratio ~ AI vibrancy,Log Innovation to Risk Ratio,AI Vibrancy Score,0.0016,0.0128,0.127,0.9028,8,0.003,-0.164
-H2: Framing ratio ~ IEF,Log Innovation to Risk Ratio,Intercept,4.4553,1.6258,2.74,0.0337,8,0.465,0.376
-H2: Framing ratio ~ IEF,Log Innovation to Risk Ratio,IEF Overall Score,-0.055,0.024,-2.285,0.0624,8,0.465,0.376
-H3 combined: Framing ratio ~ AI vibrancy + IEF,Log Innovation to Risk Ratio,Intercept,4.4133,1.797,2.456,0.0575,8,0.468,0.255
-H3 combined: Framing ratio ~ AI vibrancy + IEF,Log Innovation to Risk Ratio,AI Vibrancy Score,0.0016,0.0103,0.156,0.882,8,0.468,0.255
-H3 combined: Framing ratio ~ AI vibrancy + IEF,Log Innovation to Risk Ratio,IEF Overall Score,-0.0549,0.0263,-2.091,0.0908,8,0.468,0.255

@@ -1,0 +1,16 @@
+Model,Outcome,Term,Coefficient,Std. Error,t,p,N,R2,Adj. R2
+H1: Innovation share ~ AI vibrancy,Innovation Share,Intercept,0.5227,0.0725,7.211,0.0004,8,0.001,-0.166
+H1: Innovation share ~ AI vibrancy,Innovation Share,AI Vibrancy Score,-0.0002,0.0022,-0.075,0.9429,8,0.001,-0.166
+H2: Risk share ~ AI vibrancy,Risk Share,Intercept,0.1077,0.0497,2.167,0.0734,8,0.166,0.026
+H2: Risk share ~ AI vibrancy,Risk Share,AI Vibrancy Score,0.0016,0.0015,1.091,0.3172,8,0.166,0.026
+H3: Innovation share ~ IEF,Innovation Share,Intercept,1.1516,0.274,4.203,0.0057,8,0.474,0.387
+H3: Innovation share ~ IEF,Innovation Share,IEF Overall Score,-0.0094,0.0041,-2.327,0.0589,8,0.474,0.387
+H4: IEF ~ risk share,IEF Overall Score,Intercept,59.3198,5.7638,10.292,0.0,8,0.285,0.166
+H4: IEF ~ risk share,IEF Overall Score,Risk Share,52.0074,33.6204,1.547,0.1728,8,0.285,0.166
+Robustness: Log ratio ~ AI vibrancy,Log Innovation to Risk Ratio,Intercept,1.7216,0.5688,3.027,0.0232,8,0.07,-0.086
+Robustness: Log ratio ~ AI vibrancy,Log Innovation to Risk Ratio,AI Vibrancy Score,-0.0115,0.0171,-0.67,0.528,8,0.07,-0.086
+Robustness: Log ratio ~ IEF,Log Innovation to Risk Ratio,Intercept,4.9933,2.6994,1.85,0.1138,8,0.228,0.1
+Robustness: Log ratio ~ IEF,Log Innovation to Risk Ratio,IEF Overall Score,-0.0532,0.0399,-1.332,0.2312,8,0.228,0.1
+Combined: Log ratio ~ AI vibrancy + IEF,Log Innovation to Risk Ratio,Intercept,5.2952,2.8522,1.857,0.1225,8,0.298,0.017
+Combined: Log ratio ~ AI vibrancy + IEF,Log Innovation to Risk Ratio,AI Vibrancy Score,-0.0115,0.0163,-0.706,0.5119,8,0.298,0.017
+Combined: Log ratio ~ AI vibrancy + IEF,Log Innovation to Risk Ratio,IEF Overall Score,-0.0532,0.0417,-1.276,0.258,8,0.298,0.017

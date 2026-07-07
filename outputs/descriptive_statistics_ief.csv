@@ -1,14 +1,14 @@
 Variable,count,mean,median,stdev,min,max
-Overall Score,256,68.48,70.3,8.49,48.0,81.2
-Property Rights,256,77.09,85.95,20.04,20.0,96.2
-Government Integrity,256,70.47,76.0,17.9,22.0,95.1
-Judicial Effectiveness,80,76.22,76.8,14.36,37.4,97.9
-Tax Burden,256,61.41,62.35,10.62,33.2,80.0
-Government Spending,256,43.14,43.95,22.77,0.0,95.9
-Fiscal Health,80,48.77,54.55,30.69,0.0,92.9
-Business Freedom,256,79.47,83.5,11.59,43.1,100.0
-Labor Freedom,176,67.27,68.05,14.97,39.9,98.5
-Monetary Freedom,256,81.03,81.5,5.96,61.5,94.3
-Trade Freedom,256,79.42,80.8,9.94,20.0,88.8
-Investment Freedom,256,66.19,70.0,18.3,20.0,90.0
-Financial Freedom,256,63.12,70.0,17.72,20.0,90.0
+Overall Score,256.0,68.48,70.3,8.49,48.0,81.2
+Property Rights,256.0,77.09,85.95,20.04,20.0,96.2
+Government Integrity,256.0,70.47,76.0,17.9,22.0,95.1
+Judicial Effectiveness,80.0,76.22,76.8,14.36,37.4,97.9
+Tax Burden,256.0,61.41,62.35,10.62,33.2,80.0
+Government Spending,256.0,43.14,43.95,22.77,0.0,95.9
+Fiscal Health,80.0,48.77,54.55,30.69,0.0,92.9
+Business Freedom,256.0,79.47,83.5,11.59,43.1,100.0
+Labor Freedom,176.0,67.27,68.05,14.97,39.9,98.5
+Monetary Freedom,256.0,81.03,81.5,5.96,61.5,94.3
+Trade Freedom,256.0,79.42,80.8,9.94,20.0,88.8
+Investment Freedom,256.0,66.19,70.0,18.3,20.0,90.0
+Financial Freedom,256.0,63.12,70.0,17.72,20.0,90.0

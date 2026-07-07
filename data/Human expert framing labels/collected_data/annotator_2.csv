@@ -1,0 +1,41 @@
+annotator,annotator_name,item_id,country,sentence,gold_label
+2,"Daria",S01,Canada,"Its generative Al tool, AgPal Chat, helps users find relevant funding and resources faster, supporting the sustainable growth and competitiveness of the sector.",Innovation-oriented
+2,"Daria",S02,China,"China’s R&D expenditure is approaching that of the whole EU.” China’s Strengths Creates Innovation Miracles Good policy is like sunshine.",Mixed
+2,"Daria",S03,France,"for the adoption of AI by businesses), contractual relationships with private partners (e.g.",Unsure
+2,"Daria",S04,Germany,"The Federal Government will therefore further expand its funding of applied research, development and testing of complex autonomous driving scenarios.",Neutral
+2,"Daria",S05,Italy,"In this sense, at least two sets of problems arise, upon which the space and competitiveness of Artificial Intelligence systems developed in Italy will depend.",Unsure
+2,"Daria",S06,Japan,"In the field of Al, where basic research and social implementation are closely connected, the lack of progress in implementation has become a major bottleneck for Al development in Japan.",Innovation-oriented
+2,"Daria",S07,United Kingdom,"oxinote 3) Setting a short-term target to train tens of thousands of Al professionals by 2030 will help bridge the estimated gap between supply and demand.",Innovation-oriented
+2,"Daria",S08,United States,"And they are essential for academic research, which often relies on access to the weights and training data of a model to perform scientifically rigorous experiments.",Unsure
+2,"Daria",S09,Canada,"Canadian Sovereign AI Compute Strategy Invests in public and commercial computing infrastructure to support the Canadian AI ecosystem and safeguard Canadian data and intellectual property.",Innovation-oriented
+2,"Daria",S10,China,"Innovation is “fl owing water”, making China’s seed of advanced ideas into towering trees.",Innovation-oriented
+2,"Daria",S11,Canada,"Respondents suggested regular ethical audits to ensure compliance with the guidelines and prevent harmful biases.",Risk-oriented
+2,"Daria",S12,China,"Improve the level of security capability.",Risk-oriented
+2,"Daria",S13,France,"Tailor-made treatment should be reserved for public procurement involving the processing of sensitive data.",Risk-oriented
+2,"Daria",S14,Germany,"It is also working to ensure that all stakeholders in the field of AI honour their individual responsibility to respect human rights.",Risk-oriented
+2,"Daria",S15,Italy,"In particular, the Committee will take care to highlight the risks inherent to specific initiatives, guiding project choices towards approaches that ensure the safety and reliability of the solutions.",Risk-oriented
+2,"Daria",S16,Japan,"[Reposted] [Cabinet Office] (ii) Regarding the location and scope of civil liability when accidents or damages occur in Al utilization, consider appropriate framework.",Unsure
+2,"Daria",S17,United Kingdom,"Strategically shape what data is collected, rather than just making data available that already exists.",Neutral
+2,"Daria",S18,United States,"Align Protection Measures Globally America must impose strong export controls on sensitive technologies.",Unsure
+2,"Daria",S19,Canada,"Some law or policy is silent on areas needed to govern AI, while others may introduce unintended bias in data collection or obstruct AI adoption unnecessarily and unintentionally.",Mixed
+2,"Daria",S20,China,"Improving AI laws, regulations, ethical guidelines, etc., and promoting legislation related to the development of AI health.",Mixed
+2,"Daria",S21,Canada,"While the adoption of Al for its innovative applications is becoming the emerging norm worldwide, we must ensure its responsible use by assessing and mitigating the risks.",Risk-oriented
+2,"Daria",S22,China,"(V) Developing AI + Developing Governance 1.",Mixed
+2,"Daria",S23,France,"Observers particularly criticize the schizophrenia that may exist in the European AI strategy between the promotion of frugality objectives and the launch of AI giga-factory programmes.",Risk-oriented
+2,"Daria",S24,Germany,"They include principles for responsible stewardship of trustworthy AI and policy and cooperation recommendations.",Risk-oriented
+2,"Daria",S25,Italy,"The development of AI technologies has had, and will increasingly have in the near future, rapid rates that will open up opportunities and changes that need to be well-managed.",Mixed
+2,"Daria",S26,Japan,"(Toward Becoming “the most Al-friendly country in the world”) Japan has pursued Al strategy through promoting innovation while mitigating risks.",Mixed
+2,"Daria",S27,United Kingdom,"Prioritisation should consider the potential economic and social value of the data, as well as public trust, national security, privacy, ethics, and data protection considerations.",Mixed
+2,"Daria",S28,United States,"AI systems are becoming essential tools, profoundly shaping how Americans consume information, but these tools must also be trustworthy.",Mixed
+2,"Daria",S29,Canada,"We encourage all federal organizations to embrace AI responsibly to meet the expectations of all Canadians for secure and modern government operations in the digital age.",Mixed
+2,"Daria",S30,France,"The company’s AI-first approach, from infrastructure design to sustainability measures, will strengthen Europe’s AI capabilities while maintaining strict EU data sovereignty.",Innovation-oriented
+2,"Daria",S31,Canada,"It will also continue to engage all departments on action implementation to ensure horizontal alignment.",Unsure
+2,"Daria",S32,China,"national technical contract transaction volume The national R&D expenditure reached 1 , 5 4 4 b i l l i o n y u a n , accounting for 2 .",Unsure
+2,"Daria",S33,France," The public reports of the Court of Auditors are available online on the website of the Court and the regional and territorial chambers of accounts: www.ccomptes.fr.",Neutral
+2,"Daria",S34,Germany,"The data strategy will address the issues of data availability and -infrastructures.",Neutral
+2,"Daria",S35,Italy,"It is an opportune moment to reflect on oneself, to embrace change, and to shape the future with an awareness of our own distinctive identities and potentials.",Neutral
+2,"Daria",S36,Japan,"130 of 1995)) and the Priority Plan for the Formation of a Digital Society (under Article 39, paragraph (1) of the Basic Act on the Formation of a Digital Society (Act No.",Unsure
+2,"Daria",S37,United Kingdom,"My judgement is that experts, on balance, expect rapid progress to continue.",Innovation-oriented
+2,"Daria",S38,United States,"These agencies could then provide analysis of AI adoption, job creation, displacement, and wage effects.",Neutral
+2,"Daria",S39,Canada,"Although Canada is a global leader in AI research, demand for AI skills significantly outpaces supply.",Innovation-oriented
+2,"Daria",S40,China,"Improve the dynamic perception of space and sea integration and the level of domestic space intelligence planning, strengthen the resource elements and optimize the allocation.",Unsure

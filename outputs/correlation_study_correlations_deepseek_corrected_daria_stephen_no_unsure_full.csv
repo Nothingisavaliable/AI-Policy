@@ -1,0 +1,8 @@
+Hypothesis,X,Y,Expected Direction,N,Pearson r,Pearson p,Spearman rho,Spearman p,Directional Support
+H1: Vibrancy -> innovation framing,AI Vibrancy Score,Innovation Share,positive,8,-0.03,0.9429,0.476,0.2329,False
+H2: Lower vibrancy -> risk framing,AI Vibrancy Score,Risk Share,negative,8,0.407,0.3172,0.071,0.8665,False
+H3: IEF -> innovation framing,IEF Overall Score,Innovation Share,positive,8,-0.689,0.0589,-0.571,0.139,False
+H4: Risk framing -> lower IEF,Risk Share,IEF Overall Score,negative,8,0.534,0.1728,0.667,0.071,False
+Ratio robustness: Vibrancy -> innovation/risk balance,AI Vibrancy Score,Log Innovation to Risk Ratio,positive,8,-0.264,0.528,0.143,0.7358,False
+Ratio robustness: IEF -> innovation/risk balance,IEF Overall Score,Log Innovation to Risk Ratio,positive,8,-0.478,0.2312,-0.738,0.0366,False
+Background association: Vibrancy and IEF,AI Vibrancy Score,IEF Overall Score,positive,8,-0.001,0.9973,-0.071,0.8665,False
