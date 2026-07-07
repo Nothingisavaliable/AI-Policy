@@ -111,15 +111,45 @@ Negative regulatory framing may reflect broader ideological commitments away fro
 
 # Methodology
 
+## AI Vibrancy
+
+AI vibrancy is measured using the Stanford AI Index country-level AI Vibrancy scores for the G7 countries and China. The main country-level predictor is the **Total Score**, renamed in the analysis as `AI Vibrancy Score`. Component dimensions such as R&D, Responsible AI, Economy, Talent, Policy and Governance, Public Opinion, and Infrastructure are retained for descriptive analysis.
+
+## Economic Freedom
+
+Economic freedom is measured using the Heritage Foundation Index of Economic Freedom panel. The correlation study uses the latest available year in the local panel, currently **2026**, and uses `Overall Score` as `IEF Overall Score`.
+
 ## Text Analysis
 
-National AI strategy and regulatory documents from G7 countries, China, and the European Union will be collected and analyzed using Qwen sentence-level framing.
+National AI strategy and regulatory documents from G7 countries, China, and the European Union are analyzed using sentence-level AI regulatory framing. English documents are used directly. Chinese-heavy texts are translated into English with `facebook/nllb-200-distilled-600M` or analyzed through an existing English analysis corpus where available.
 
-The analysis estimates the relative emphasis placed on AI-friendly versus AI-cautious discourse. AI-friendly framing includes language about innovation, adoption, investment, productivity, competitiveness, regulatory flexibility, and reduced regulatory burdens. AI-cautious framing includes language about risk, safety, oversight, compliance, accountability, privacy, fairness, rights protection, and precaution.
+The current text-analysis workflow uses **DeepSeek R1 14B through Ollama** for local sentence classification. Each sentence is classified independently into one of five labels:
 
-China is treated as one country-level case and combines both the national AI strategy document and the newer State Council “AI+” action policy. Each country/entity receives confidence-weighted framing scores normalized per 1,000 words.
+| Label | Meaning |
+|---|---|
+| Innovation-oriented | Emphasizes innovation, investment, adoption, competitiveness, productivity, and flexible regulation |
+| Risk-oriented | Emphasizes risk, safety, accountability, privacy, fairness, human rights, and regulatory obligations |
+| Mixed | A single sentence contains both innovation and risk framing |
+| Neutral | Descriptive, administrative, or procedural sentences |
+| Unsure | Unclear residual category; excluded from the no-unsure human-gold calibration set |
 
-For consistency, framing analysis uses an English analysis corpus. Chinese-heavy text is translated into English with `facebook/nllb-200-distilled-600M`; English source documents are used directly.
+The model prompt includes the project codebook and human-annotated gold examples. The model returns structured JSON with a label, confidence score, and reason. Both the raw model label and the final corrected label are retained for auditing.
+
+## Human Calibration and Correction
+
+The LLM labeling workflow is calibrated with human expert annotations rather than treated as a fully automatic black box. A sample of 40 sentences was independently annotated by multiple human annotators. Annotator 1 showed lower annotation stability, so the final calibration workflow uses the Daria + Stephen consensus labels.
+
+Daria and Stephen agreed on 23 sentences. For the current `daria_stephen_no_unsure_full` run, human-gold `Unsure` labels are excluded, leaving **16 substantive gold labels** for few-shot examples, exact sentence overrides, and model evaluation. Raw DeepSeek accuracy on this usable gold set is **75%**; after exact human-gold overrides, corrected accuracy is **100%**. The full run applies **4 human overrides**.
+
+Correction logic:
+
+```text
+corrected_label =
+    human_gold_label, if the sentence is present in the usable human gold set
+    model_label, otherwise
+```
+
+Country/entity framing summaries are computed from corrected labels. Innovation-oriented sentences score `+1`, risk-oriented sentences score `-1`, and mixed, neutral, and unsure sentences score `0` for the net framing measure. The main aggregate variables are `Innovation Share`, `Risk Share`, `Mean Framing Score`, and the smoothed `Innovation-to-Risk Ratio`.
 
 ---
 
@@ -127,11 +157,15 @@ For consistency, framing analysis uses an English analysis corpus. Chinese-heavy
 
 Correlation analysis is conducted in `notebooks/Correlation Study/correlation_study.ipynb` to examine relationships between:
 
-- Economic Freedom scores and regulatory framing scores
-- Stanford AI Vibrancy scores and regulatory framing scores
-- Combined AI Vibrancy + Economic Freedom predictors and the innovation-to-risk framing ratio
+- Stanford AI Vibrancy scores and innovation-oriented framing
+- Stanford AI Vibrancy scores and risk-oriented framing
+- Economic Freedom scores and innovation-oriented framing
+- Risk-oriented framing and Economic Freedom scores
+- Combined AI Vibrancy + Economic Freedom predictors and the log innovation-to-risk framing ratio
 
-The core dependent variable is the **Innovation-to-Risk Framing Ratio**, calculated as the ratio of Qwen-classified AI-friendly framing to Qwen-classified AI-cautious framing. The notebook uses the Qwen framing output by default and stores a merged cross-country dataset, correlation table, regression models, mediation diagnostic, and visual summaries in `outputs/`.
+The current notebook uses the corrected DeepSeek framing output by default: `outputs/deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv`. The European Union is included in descriptive framing summaries but excluded from the G7 + China correlation sample because comparable AI Vibrancy and IEF country scores are not used for it in this study.
+
+Because the merged country-level sample has only eight observations, all correlation coefficients, regressions, and mediation diagnostics are interpreted as exploratory and directional rather than confirmatory.
 
 ---
 
@@ -221,33 +255,36 @@ To address the feedback, the project now explicitly reports standard descriptive
 
 The CSV versions are saved in `outputs/descriptive_statistics_ief.csv`, `outputs/descriptive_statistics_ai_vibrancy.csv`, and `outputs/descriptive_statistics_key_numeric_variables.csv`.
 
-## Qwen AI-Friendly vs. AI-Cautious Framing
+## DeepSeek Corrected Innovation vs. Risk Framing
 
-The Qwen sentence-level classifier labels each policy sentence as AI-friendly, AI-cautious, mixed, or neutral. AI-friendly sentences emphasize innovation, adoption, investment, productivity, competitiveness, regulatory flexibility, or faster deployment. AI-cautious sentences emphasize risk, safety, oversight, compliance, accountability, privacy, fairness, rights protection, or precaution. Mixed sentences contribute half of their confidence score to each side, and neutral sentences contribute zero.
+The corrected DeepSeek sentence-level classifier labels each policy sentence as innovation-oriented, risk-oriented, mixed, neutral, or unsure. Innovation-oriented sentences emphasize adoption, investment, productivity, competitiveness, regulatory flexibility, and deployment. Risk-oriented sentences emphasize safety, accountability, privacy, fairness, rights protection, regulatory obligations, and precaution.
 
-![Qwen AI-Friendly vs Cautious](outputs/qwen_ai_friendly_vs_cautious.svg)
+The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean framing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
 
-![Qwen Net AI-Friendly Framing](outputs/qwen_net_ai_friendly_framing.svg)
+![DeepSeek Corrected Country Framing Summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
 
-Outputs are saved in `outputs/qwen_ai_framing_summary.csv`, `outputs/qwen_ai_framing_sentence_labels.csv`, `outputs/qwen_g7_china_framing_table.csv`, and `outputs/qwen_ai_framing_overview.md`.
+Outputs are saved in `outputs/deepseek_ai_framing_sentence_labels_raw_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_sentence_labels_corrected_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_gold_metrics_daria_stephen_no_unsure_full.csv`, and `outputs/deepseek_ai_framing_gold_confusion_daria_stephen_no_unsure_full.csv`.
 
-These visualizations together provide the empirical anchor for the hypotheses (H1–H3): the variation in AI vibrancy, economic freedom, and regulatory framing across the analyzed jurisdictions is large enough to test whether broader political-economic and AI ecosystem conditions predict the framing of national AI strategies.
+These corrected outputs provide the empirical anchor for H1-H4 by translating sentence-level regulatory discourse into country/entity-level innovation and risk framing measures.
 
 ## Correlation Study — Vibrancy, Economic Freedom, and Framing
 
-The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index of Economic Freedom scores, and the Qwen framing results for the same G7 + China country set. The main framing variable is the log innovation-to-risk ratio, derived from Qwen AI-friendly framing per 1,000 words divided by Qwen AI-cautious framing per 1,000 words.
+The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index of Economic Freedom scores, and corrected DeepSeek framing results for the same G7 + China country set. The main hypothesis tests use `Innovation Share` and `Risk Share`; robustness checks use `Mean Framing Score` and the log smoothed innovation-to-risk ratio.
 
-![Correlation Study Scatter](outputs/correlation_study_scatter_qwen.png)
+![Correlation Study Scatter](outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png)
 
-![Correlation Study Matrix](outputs/correlation_study_matrix_qwen.png)
+![Correlation Study Matrix](outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png)
 
-**Initial exploratory results (TO BE CHANGED ACCORDING TO THE NEW HYPOTHESES)**:
-- H1 shows a weak negative relationship between AI Vibrancy and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.229`, `p = 0.5853`).
-- H2 shows a negative relationship between IEF score and the Qwen log innovation-to-risk framing ratio (`Pearson r = -0.461`, `p = 0.2504`), so the current G7 + China sample does not support the expected positive direction.
-- The combined model using AI Vibrancy and IEF explains more variation than AI Vibrancy alone (`R2 = 0.265` versus `R2 = 0.052`), but with only eight countries the results should be treated as exploratory rather than confirmatory.
-- The mediation diagnostic is included as a mechanism check, not a formal causal test, because the sample size is too small for strong inference.
+**Current exploratory results using corrected DeepSeek framing**:
+- H1 expects AI Vibrancy to be positively associated with `Innovation Share`, but the current Pearson correlation is near zero and slightly negative (`r = -0.030`, `p = 0.9429`). Directional support is not observed.
+- H2 expects lower AI Vibrancy to be associated with higher `Risk Share`, but the observed AI Vibrancy to Risk Share correlation is positive (`r = 0.407`, `p = 0.3172`). Directional support is not observed.
+- H3 expects higher IEF scores to be associated with higher `Innovation Share`, but the observed relationship is negative (`r = -0.689`, `p = 0.0589`). Directional support is not observed.
+- H4 expects `Risk Share` to be negatively associated with IEF, but the observed relationship is positive (`r = 0.534`, `p = 0.1728`). Directional support is not observed.
+- Robustness checks using the log innovation-to-risk ratio also do not support the expected positive relationships with AI Vibrancy (`r = -0.264`, `p = 0.5280`) or IEF (`r = -0.478`, `p = 0.2312`).
+- The combined model predicting log innovation-to-risk ratio from AI Vibrancy and IEF has `R2 = 0.298`, but with only eight observations it should be interpreted as a descriptive diagnostic.
+- The mediation diagnostic is retained as a mechanism check, not a formal causal test.
 
-Key outputs are saved in `outputs/correlation_study_dataset_qwen.csv`, `outputs/correlation_study_correlations_qwen.csv`, `outputs/correlation_study_regression_models_qwen.csv`, and `outputs/correlation_study_mediation_qwen.csv`.
+Key outputs are saved in `outputs/correlation_study_dataset_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_correlations_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_regression_models_deepseek_corrected_daria_stephen_no_unsure_full.csv`, and `outputs/correlation_study_mediation_deepseek_corrected_daria_stephen_no_unsure_full.csv`.
 
 ---
 
@@ -310,22 +347,24 @@ AI-Policy/
 │   │   └── ief_g7_china_analysis.ipynb
 │   └── Text Analysis/
 │       ├── national_ai_strategy_nllb_translation.ipynb
-│       ├── national_ai_strategy_text_analysis.ipynb
-│       └── qwen_ai_framing.ipynb
+│       ├── human_expert_framing_labels_analysis.ipynb
+│       └── LLM_based_text_framing_analysis.ipynb
 │
 ├── outputs/
 │   ├── stanford_AI_Vibrancy.png
 │   ├── stanford_AI_Vibrancy_component_radar.png
 │   ├── IEF_score.png
 │   ├── IEF_score_by_year.png
-│   ├── qwen_ai_framing_summary.csv
-│   ├── qwen_ai_framing_sentence_labels.csv
-│   ├── correlation_study_dataset_qwen.csv
-│   ├── correlation_study_correlations_qwen.csv
-│   ├── correlation_study_regression_models_qwen.csv
-│   ├── correlation_study_mediation_qwen.csv
-│   ├── correlation_study_scatter_qwen.png
-│   └── correlation_study_matrix_qwen.png
+│   ├── deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv
+│   ├── deepseek_ai_framing_sentence_labels_corrected_daria_stephen_no_unsure_full.csv
+│   ├── deepseek_ai_framing_gold_metrics_daria_stephen_no_unsure_full.csv
+│   ├── deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png
+│   ├── correlation_study_dataset_deepseek_corrected_daria_stephen_no_unsure_full.csv
+│   ├── correlation_study_correlations_deepseek_corrected_daria_stephen_no_unsure_full.csv
+│   ├── correlation_study_regression_models_deepseek_corrected_daria_stephen_no_unsure_full.csv
+│   ├── correlation_study_mediation_deepseek_corrected_daria_stephen_no_unsure_full.csv
+│   ├── correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png
+│   └── correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png
 │
 ├── README.md
 ├── README.pdf
