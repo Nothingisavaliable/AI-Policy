@@ -263,10 +263,10 @@ Representative corrected label examples:
 
 | Country/entity | Corrected label | Sentence excerpt |
 |---|---|---|
-| Canada | Innovation-oriented | "AI can unlock capabilities beyond human limits..." |
-| Canada | Risk-oriented | "data security and privacy... data is safeguarded..." |
-| European Union | Mixed | "ecosystem of trust... ecosystem of excellence..." |
-| France | Neutral | "Members include Ed Tech and universities..." |
+| Canada | Innovation-oriented | "AI can unlock capabilities beyond human limits, opening doors to new ways of working and operating." |
+| Canada | Risk-oriented | "For greater data security and privacy, CANChat ensures that all data is safeguarded and stored in Canada, and that prompts are not used to train its AI." |
+| European Union | Mixed | "122 The ‘ecosystem of trust’ focuses on measures to ensure that AI is developed in an ethical manner; the ‘ecosystem of excellence’ focuses on measures to promote responsible investment, innovation and implementation of AI." |
+| France | Neutral | "Members include Ed Tech and universities such as Rennes, Haute-Alsace, Paris-Est Créteil, Bordeaux Montaigne, Nîmes, Montpellier, and the National Conservatory of Arts and Crafts." |
 
 The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean fram三ing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
 
