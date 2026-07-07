@@ -226,42 +226,6 @@ Heritage Foundation Economic Freedom scores for the same eight countries, used a
 - China sits noticeably below the G7, providing a natural contrast for testing whether economic freedom levels relate to AI regulatory framing.
 - The yearly trend chart shows how economic freedom scores change over time, providing temporal context for the cross-sectional comparison.
 
-## Descriptive Statistics — Key Numeric Variables
-
-To address the feedback, the project now explicitly reports standard descriptive statistics for the main numeric variables. The tables below report count, mean, median, standard deviation, minimum, and maximum for the Heritage Index of Economic Freedom scores and Stanford AI Vibrancy metrics.
-
-**Index of Economic Freedom**
-
-| Variable | count | mean | median | stdev | min | max |
-| --- | --- | --- | --- | --- | --- | --- |
-| Overall Score | 256 | 68.48 | 70.3 | 8.49 | 48.0 | 81.2 |
-| Property Rights | 256 | 77.09 | 85.95 | 20.04 | 20.0 | 96.2 |
-| Government Integrity | 256 | 70.47 | 76.0 | 17.9 | 22.0 | 95.1 |
-| Judicial Effectiveness | 80 | 76.22 | 76.8 | 14.36 | 37.4 | 97.9 |
-| Tax Burden | 256 | 61.41 | 62.35 | 10.62 | 33.2 | 80.0 |
-| Government Spending | 256 | 43.14 | 43.95 | 22.77 | 0.0 | 95.9 |
-| Fiscal Health | 80 | 48.77 | 54.55 | 30.69 | 0.0 | 92.9 |
-| Business Freedom | 256 | 79.47 | 83.5 | 11.59 | 43.1 | 100.0 |
-| Labor Freedom | 176 | 67.27 | 68.05 | 14.97 | 39.9 | 98.5 |
-| Monetary Freedom | 256 | 81.03 | 81.5 | 5.96 | 61.5 | 94.3 |
-| Trade Freedom | 256 | 79.42 | 80.8 | 9.94 | 20.0 | 88.8 |
-| Investment Freedom | 256 | 66.19 | 70.0 | 18.3 | 20.0 | 90.0 |
-| Financial Freedom | 256 | 63.12 | 70.0 | 17.72 | 20.0 | 90.0 |
-
-**Stanford AI Vibrancy**
-
-| Variable | count | mean | median | stdev | min | max |
-| --- | --- | --- | --- | --- | --- | --- |
-| Total Score | 8 | 26.04 | 17.16 | 22.12 | 12.35 | 77.85 |
-| R&D | 8 | 2.99 | 0.9 | 4.08 | 0.41 | 9.61 |
-| Responsible AI | 8 | 3.26 | 1.3 | 4.77 | 0.49 | 14.29 |
-| Economy | 8 | 2.35 | 0.57 | 4.84 | 0.15 | 14.29 |
-| Talent | 8 | 4.94 | 4.63 | 1.46 | 3.35 | 7.72 |
-| Policy and Governance | 8 | 3.31 | 2.29 | 3.24 | 0.53 | 9.71 |
-| Public Opinion | 8 | 4.18 | 3.22 | 2.73 | 0.61 | 8.44 |
-| Infrastructure | 8 | 5.01 | 4.03 | 3.89 | 1.67 | 13.85 |
-
-The CSV versions are saved in `outputs/descriptive_statistics_ief.csv`, `outputs/descriptive_statistics_ai_vibrancy.csv`, and `outputs/descriptive_statistics_key_numeric_variables.csv`.
 
 ## DeepSeek Corrected Innovation vs. Risk Framing
 
