@@ -98,9 +98,13 @@ This project combines three types of evidence: country-level AI ecosystem indica
 1. **AI Vibrancy is highly uneven across the G7 + China sample.**  
    The United States is the clear AI Vibrancy leader (`77.85`), followed by China (`35.10`). The remaining G7 countries form a much tighter middle-to-lower cluster, ranging from the United Kingdom (`20.06`) to Germany (`12.35`). This uneven distribution matters because the United States has very high AI ecosystem capacity but does not show the most innovation-oriented AI policy rhetoric.
 
-   ![Stanford AI Vibrancy](outputs/stanford_AI_Vibrancy.png)
+   <p align="center">
+     <img src="outputs/stanford_AI_Vibrancy.png" alt="Stanford AI Vibrancy" width="680">
+   </p>
 
-   ![Stanford AI Vibrancy Component Radar](outputs/stanford_AI_Vibrancy_component_radar.png)
+   <p align="center">
+     <img src="outputs/stanford_AI_Vibrancy_component_radar.png" alt="Stanford AI Vibrancy Component Radar" width="640">
+   </p>
 
    | Rank | Country | AI Vibrancy Score |
    |---:|---|---:|
@@ -116,9 +120,13 @@ This project combines three types of evidence: country-level AI ecosystem indica
 2. **Economic Freedom separates China from the G7 more clearly than it separates G7 countries from each other.**  
    Canada (`75.6`), the United States (`72.8`), Germany (`71.7`), the United Kingdom (`70.4`), and Japan (`70.3`) score in a relatively high range on the 2026 IEF Overall Score. France (`64.6`) and Italy (`63.3`) are lower but still well above China (`48.3`). This makes China a useful contrast case for testing whether economic freedom is associated with AI regulatory framing.
 
-   ![Index of Economic Freedom](outputs/IEF_score.png)
+   <p align="center">
+     <img src="outputs/IEF_score.png" alt="Index of Economic Freedom" width="680">
+   </p>
 
-   ![Index of Economic Freedom by Year](outputs/IEF_score_by_year.png)
+   <p align="center">
+     <img src="outputs/IEF_score_by_year.png" alt="Index of Economic Freedom by Year" width="760">
+   </p>
 
    | Rank | Country | 2026 IEF Overall Score |
    |---:|---|---:|
@@ -134,7 +142,9 @@ This project combines three types of evidence: country-level AI ecosystem indica
 3. **The corrected framing model identifies meaningful variation across countries, but most countries are more innovation-oriented than risk-oriented.**  
    Across the full corrected framing run, the model labeled **3,730 sentences** across 9 countries/entities. China, France, and the United Kingdom have the highest mean framing scores, indicating strongly innovation-oriented policy language. Canada and the United States have the lowest mean framing scores among the analyzed cases, reflecting a more balanced or risk-conscious discourse.
 
-   ![Corrected DeepSeek framing summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
+   <p align="center">
+     <img src="outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png" alt="Corrected DeepSeek framing summary" width="760">
+   </p>
 
    | Country/entity | Total sentences | Innovation-oriented | Risk-oriented | Mean framing score | Innovation-to-risk ratio |
    |---|---:|---:|---:|---:|---:|
@@ -149,13 +159,21 @@ This project combines three types of evidence: country-level AI ecosystem indica
 
    The correlation figures below summarize the G7 + China hypothesis tests, the outlier-excluded sensitivity checks, and pairwise relationships among the merged quantitative variables.
 
-   ![Correlation study scatter plots](outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png)
+   <p align="center">
+     <img src="outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Correlation study scatter plots" width="820">
+   </p>
 
-   ![Outlier-excluded correlation study scatter plots](outputs/correlation_study_scatter_outlier_excluded_deepseek_corrected_daria_stephen_no_unsure_full.png)
+   <p align="center">
+     <img src="outputs/correlation_study_scatter_outlier_excluded_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Outlier-excluded correlation study scatter plots" width="820">
+   </p>
 
-   ![Correlation study matrix](outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png)
+   <p align="center">
+     <img src="outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Correlation study matrix" width="650">
+   </p>
 
-   ![Outlier sensitivity check](outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png)
+   <p align="center">
+     <img src="outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Outlier sensitivity check" width="720">
+   </p>
 
 4. **In the full sample, AI Vibrancy does not predict more innovation-oriented rhetoric.**  
    H1 expected countries with higher AI Vibrancy scores to show more innovation-oriented language. The observed Pearson correlation between AI Vibrancy and Innovation Share is almost zero and slightly negative (`r = -0.030`, `p = 0.9429`). This means the current G7 + China sample does **not** support H1.
