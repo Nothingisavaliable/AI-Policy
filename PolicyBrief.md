@@ -95,7 +95,43 @@ This project combines three types of evidence: country-level AI ecosystem indica
 - Removing the United States substantially changes the AI Vibrancy relationship: H1 becomes strongly positive and H2 flips into the expected direction. Removing China weakens H3 but does not rescue the economic freedom hypotheses.
 - The main interpretation is not that outliers should be removed, but that AI governance discourse reflects different national governance models, not only macro-level AI capacity or economic openness.
 
-1. **The corrected framing model identifies meaningful variation across countries, but most countries are more innovation-oriented than risk-oriented.**  
+1. **AI Vibrancy is highly uneven across the G7 + China sample.**  
+   The United States is the clear AI Vibrancy leader (`77.85`), followed by China (`35.10`). The remaining G7 countries form a much tighter middle-to-lower cluster, ranging from the United Kingdom (`20.06`) to Germany (`12.35`). This uneven distribution matters because the United States has very high AI ecosystem capacity but does not show the most innovation-oriented AI policy rhetoric.
+
+   ![Stanford AI Vibrancy](outputs/stanford_AI_Vibrancy.png)
+
+   ![Stanford AI Vibrancy Component Radar](outputs/stanford_AI_Vibrancy_component_radar.png)
+
+   | Rank | Country | AI Vibrancy Score |
+   |---:|---|---:|
+   | 1 | United States | 77.85 |
+   | 2 | China | 35.10 |
+   | 3 | United Kingdom | 20.06 |
+   | 4 | Japan | 17.70 |
+   | 5 | France | 16.62 |
+   | 6 | Canada | 15.46 |
+   | 7 | Italy | 13.18 |
+   | 8 | Germany | 12.35 |
+
+2. **Economic Freedom separates China from the G7 more clearly than it separates G7 countries from each other.**  
+   Canada (`75.6`), the United States (`72.8`), Germany (`71.7`), the United Kingdom (`70.4`), and Japan (`70.3`) score in a relatively high range on the 2026 IEF Overall Score. France (`64.6`) and Italy (`63.3`) are lower but still well above China (`48.3`). This makes China a useful contrast case for testing whether economic freedom is associated with AI regulatory framing.
+
+   ![Index of Economic Freedom](outputs/IEF_score.png)
+
+   ![Index of Economic Freedom by Year](outputs/IEF_score_by_year.png)
+
+   | Rank | Country | 2026 IEF Overall Score |
+   |---:|---|---:|
+   | 1 | Canada | 75.6 |
+   | 2 | United States | 72.8 |
+   | 3 | Germany | 71.7 |
+   | 4 | United Kingdom | 70.4 |
+   | 5 | Japan | 70.3 |
+   | 6 | France | 64.6 |
+   | 7 | Italy | 63.3 |
+   | 8 | China | 48.3 |
+
+3. **The corrected framing model identifies meaningful variation across countries, but most countries are more innovation-oriented than risk-oriented.**  
    Across the full corrected framing run, the model labeled **3,730 sentences** across 9 countries/entities. China, France, and the United Kingdom have the highest mean framing scores, indicating strongly innovation-oriented policy language. Canada and the United States have the lowest mean framing scores among the analyzed cases, reflecting a more balanced or risk-conscious discourse.
 
    ![Corrected DeepSeek framing summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
@@ -121,22 +157,22 @@ This project combines three types of evidence: country-level AI ecosystem indica
 
    ![Outlier sensitivity check](outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png)
 
-2. **In the full sample, AI Vibrancy does not predict more innovation-oriented rhetoric.**  
+4. **In the full sample, AI Vibrancy does not predict more innovation-oriented rhetoric.**  
    H1 expected countries with higher AI Vibrancy scores to show more innovation-oriented language. The observed Pearson correlation between AI Vibrancy and Innovation Share is almost zero and slightly negative (`r = -0.030`, `p = 0.9429`). This means the current G7 + China sample does **not** support H1.
 
-3. **In the full sample, lower AI Vibrancy does not predict more risk-oriented rhetoric.**  
+5. **In the full sample, lower AI Vibrancy does not predict more risk-oriented rhetoric.**  
    H2 expected lower AI Vibrancy to correspond to higher Risk Share. The observed relationship moves in the opposite direction: AI Vibrancy and Risk Share are positively correlated (`r = 0.407`, `p = 0.3172`). This does **not** support H2.
 
-4. **Economic freedom is not associated with more innovation-oriented framing in the expected direction.**  
+6. **Economic freedom is not associated with more innovation-oriented framing in the expected direction.**  
    H3 expected higher IEF scores to align with higher Innovation Share. Instead, the observed correlation is negative (`r = -0.689`, `p = 0.0589`). Although this is not treated as confirmatory evidence because `N = 8`, it clearly does **not** support the expected positive direction.
 
-5. **Risk-oriented framing is not associated with lower economic freedom in this sample.**  
+7. **Risk-oriented framing is not associated with lower economic freedom in this sample.**  
    H4 expected countries with more risk-oriented AI discourse to have lower IEF scores. The observed correlation between Risk Share and IEF is positive (`r = 0.534`, `p = 0.1728`), so H4 is **not supported**.
 
-6. **Robustness checks using the log innovation-to-risk ratio reach the same overall conclusion.**  
+8. **Robustness checks using the log innovation-to-risk ratio reach the same overall conclusion.**  
    The log innovation-to-risk ratio is negatively associated with both AI Vibrancy (`r = -0.264`, `p = 0.5280`) and IEF (`r = -0.478`, `p = 0.2312`). The combined OLS model using AI Vibrancy and IEF explains some variation descriptively (`R2 = 0.298`), but the sample is too small for strong inference.
 
-7. **Outlier sensitivity checks reveal two theoretically important cases: the United States and China.**  
+9. **Outlier sensitivity checks reveal two theoretically important cases: the United States and China.**  
    The United States is treated as a sensitivity case for H1/H2 because it is by far the highest-AI-vibrancy country but has comparatively risk-conscious policy framing. China is treated as a sensitivity case for H3/H4 because it has the lowest IEF score but one of the strongest innovation-oriented framing profiles. These exclusions are diagnostic, not replacements for the full-sample results.
 
    | Test | Full sample result | Outlier-excluded result | Interpretation |
