@@ -195,9 +195,13 @@ This framework explores whether AI ecosystem maturity influences regulatory rhet
 
 Cross-country comparison of AI vibrancy scores (Total Score and 7 sub-dimensions: R&D, Responsible AI, Economy, Talent, Policy and Governance, Public Opinion, Infrastructure).
 
-![Stanford AI Vibrancy](outputs/stanford_AI_Vibrancy.png)
+<p align="center">
+  <img src="outputs/stanford_AI_Vibrancy.png" alt="Stanford AI Vibrancy" width="700">
+</p>
 
-![Stanford AI Vibrancy Component Radar](outputs/stanford_AI_Vibrancy_component_radar.png)
+<p align="center">
+  <img src="outputs/stanford_AI_Vibrancy_component_radar.png" alt="Stanford AI Vibrancy Component Radar" width="650">
+</p>
 
 **Key observations**:
 - The United States leads overall (Total Score ≈ 77.85), driven primarily by Responsible AI, Economy, and Infrastructure.
@@ -209,9 +213,13 @@ Cross-country comparison of AI vibrancy scores (Total Score and 7 sub-dimensions
 
 Heritage Foundation Economic Freedom scores for the same eight countries, used as the political-economic context for the framing analysis.
 
-![Index of Economic Freedom](outputs/IEF_score.png)
+<p align="center">
+  <img src="outputs/IEF_score.png" alt="Index of Economic Freedom" width="700">
+</p>
 
-![Index of Economic Freedom by Year](outputs/IEF_score_by_year.png)
+<p align="center">
+  <img src="outputs/IEF_score_by_year.png" alt="Index of Economic Freedom by Year" width="780">
+</p>
 
 **Key observations**:
 - G7 economies generally cluster in the "Mostly Free" / "Moderately Free" range.
@@ -270,7 +278,9 @@ Representative corrected label examples:
 
 The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean framing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
 
-![DeepSeek Corrected Country Framing Summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
+<p align="center">
+  <img src="outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png" alt="DeepSeek Corrected Country Framing Summary" width="780">
+</p>
 
 Outputs are saved in `outputs/deepseek_ai_framing_sentence_labels_raw_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_sentence_labels_corrected_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_gold_metrics_daria_stephen_no_unsure_full.csv`, and `outputs/deepseek_ai_framing_gold_confusion_daria_stephen_no_unsure_full.csv`.
 
@@ -280,13 +290,21 @@ These corrected outputs provide the empirical anchor for H1-H4 by translating se
 
 The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index of Economic Freedom scores, and corrected DeepSeek framing results for the same G7 + China country set. The main hypothesis tests use `Innovation Share` and `Risk Share`; robustness checks use `Mean Framing Score` and the log smoothed innovation-to-risk ratio.
 
-![Correlation Study Scatter](outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png)
+<p align="center">
+  <img src="outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Correlation Study Scatter" width="900">
+</p>
 
-![Outlier-Excluded Correlation Study Scatter](outputs/correlation_study_scatter_outlier_excluded_deepseek_corrected_daria_stephen_no_unsure_full.png)
+<p align="center">
+  <img src="outputs/correlation_study_scatter_outlier_excluded_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Outlier-Excluded Correlation Study Scatter" width="900">
+</p>
 
-![Correlation Study Matrix](outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png)
+<p align="center">
+  <img src="outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Correlation Study Matrix" width="680">
+</p>
 
-![Outlier Sensitivity Check](outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png)
+<p align="center">
+  <img src="outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Outlier Sensitivity Check" width="760">
+</p>
 
 **Current exploratory results using corrected DeepSeek framing**:
 - H1 expects AI Vibrancy to be positively associated with `Innovation Share`, but the current Pearson correlation is near zero and slightly negative (`r = -0.030`, `p = 0.9429`). Directional support is not observed.
