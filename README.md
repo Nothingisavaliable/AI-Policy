@@ -290,6 +290,29 @@ Key outputs are saved in `outputs/correlation_study_dataset_deepseek_corrected_d
 
 ---
 
+# Discussion
+
+## Result Interpretations
+
+### AI Vibrancy (H1 & H2)
+
+While the full sample initially showed no support for our hypotheses, an outlier check reveals that the original theories hold true for the majority of the sample. When the United States is excluded, countries with higher AI vibrancy behave exactly as expected: they focus significantly more on innovation (r=0.737) and less on risk (r=−0.326).
+
+The fact that the full sample originally flipped is entirely due to the unique position of the US. Because its AI infrastructure is so highly developed, the US faces immediate real-world pressures—such as public scrutiny and lawsuits over privacy, intellectual property, and labor impacts. This forces the US to write highly cautious, problem-solving documents. Meanwhile, nations with lower AI indices are still in an earlier adoption phase, allowing them to use broader, innovation-enabling language to push for public acceptance.
+
+### Economic Freedom (H3 & H4)
+
+Initial hypotheses predicted that countries with higher economic freedom would feature more innovation-oriented rhetoric. However, our full analysis inverted this assumption and the unexpected trend remains even when China is removed from the dataset. This suggests the results are driven by a deeper structural difference in how governments approach market intervention.
+
+In countries with higher economic freedom scores (such as the US and Canada), the state primarily acts as a regulatory referee. Because they rely on the private sector to drive technological advancement, their national policies focus heavily on defining legal boundaries, protecting individual rights, and setting safety guardrails - resulting in more risk-oriented text. Conversely, in systems with lower economic freedom scores (ranging from European nations with more state-directed industrial policies to an authoritarian state like China) the government takes a more active role in managing economic growth. In these cases, national policies serve as top-down promotional blueprints designed to mandate development, rally funding, and maximize competitiveness, which keeps the language focused heavily on innovation.
+
+## Limitations - Sheena
+
+
+## Directions for Future Research
+
+---
+
 ## Folder Structure
 
 ```text
