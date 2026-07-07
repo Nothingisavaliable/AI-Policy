@@ -268,7 +268,7 @@ Representative corrected label examples:
 | European Union | Mixed | "122 The ‘ecosystem of trust’ focuses on measures to ensure that AI is developed in an ethical manner; the ‘ecosystem of excellence’ focuses on measures to promote responsible investment, innovation and implementation of AI." |
 | France | Neutral | "Members include Ed Tech and universities such as Rennes, Haute-Alsace, Paris-Est Créteil, Bordeaux Montaigne, Nîmes, Montpellier, and the National Conservatory of Arts and Crafts." |
 
-The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean fram三ing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
+The current corrected full run contains **3,730 sentences** across nine countries/entities, including the European Union for descriptive framing analysis. The strongest positive mean framing scores are France (`0.577`), the United Kingdom (`0.575`), and China (`0.598`). Canada (`0.088`) and the United States (`0.173`) show the lowest mean framing scores in the corrected summary.
 
 ![DeepSeek Corrected Country Framing Summary](outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png)
 
@@ -293,7 +293,14 @@ The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index 
 - The combined model predicting log innovation-to-risk ratio from AI Vibrancy and IEF has `R2 = 0.298`, but with only eight observations it should be interpreted as a descriptive diagnostic.
 - The mediation diagnostic is retained as a mechanism check, not a formal causal test.
 
-Key outputs are saved in `outputs/correlation_study_dataset_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_correlations_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_regression_models_deepseek_corrected_daria_stephen_no_unsure_full.csv`, and `outputs/correlation_study_mediation_deepseek_corrected_daria_stephen_no_unsure_full.csv`.
+**Outlier sensitivity rationale**:
+- The **United States** is evaluated as a sensitivity case for H1/H2 because it is by far the highest-AI-vibrancy country, yet its corrected framing is comparatively risk-conscious. It therefore has high leverage in tests linking AI ecosystem capacity to innovation- or risk-oriented rhetoric.
+- **China** is evaluated as a sensitivity case for H3/H4 because it has the lowest IEF score in the sample but one of the strongest innovation-oriented framing profiles. It represents a state-led innovation case that can strongly affect tests linking economic freedom to regulatory framing.
+- These exclusions are diagnostic rather than preferred specifications. The full G7 + China sample remains the main result; the outlier checks show how sensitive the correlations are to theoretically unusual cases.
+
+With the United States excluded, H1 changes from no relationship to a strong positive association between AI Vibrancy and Innovation Share (`r = 0.737`, `p = 0.0586`; Spearman `rho = 0.821`, `p = 0.0234`). H2 also flips into the expected negative direction, although weakly (`r = -0.326`, `p = 0.4757`). With China excluded, H3 remains negative but weaker (`r = -0.430`, `p = 0.3357`), and H4 remains opposite to expectation (`r = 0.687`, `p = 0.0880`).
+
+Key outputs are saved in `outputs/correlation_study_dataset_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_correlations_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_outlier_sensitivity_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_regression_models_deepseek_corrected_daria_stephen_no_unsure_full.csv`, and `outputs/correlation_study_mediation_deepseek_corrected_daria_stephen_no_unsure_full.csv`.
 
 ---
 

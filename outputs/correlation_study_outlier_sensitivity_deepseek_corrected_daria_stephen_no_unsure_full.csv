@@ -1,0 +1,5 @@
+Hypothesis,Excluded Country,X,Y,Expected Direction,Full N,Full Pearson r,Full Pearson p,Full Spearman rho,Full Spearman p,Full Directional Support,Sensitivity N,Sensitivity Pearson r,Sensitivity Pearson p,Sensitivity Spearman rho,Sensitivity Spearman p,Sensitivity Directional Support
+H1: Vibrancy -> innovation framing,United States,AI Vibrancy Score,Innovation Share,positive,8,-0.03,0.9429,0.476,0.2329,False,7,0.737,0.0586,0.821,0.0234,True
+H2: Lower vibrancy -> risk framing,United States,AI Vibrancy Score,Risk Share,negative,8,0.407,0.3172,0.071,0.8665,False,7,-0.326,0.4757,-0.393,0.3833,True
+H3: IEF -> innovation framing,China,IEF Overall Score,Innovation Share,positive,8,-0.689,0.0589,-0.571,0.139,False,7,-0.43,0.3357,-0.357,0.4316,False
+H4: Risk framing -> lower IEF,China,Risk Share,IEF Overall Score,negative,8,0.534,0.1728,0.667,0.071,False,7,0.687,0.088,0.714,0.0713,False
