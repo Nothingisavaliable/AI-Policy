@@ -319,33 +319,16 @@ In countries with higher economic freedom scores (such as the US and Canada), th
 AI-Policy/
 ├── data/                                      # Source data and processed intermediate datasets
 │   ├── AI vibrancy tool screen shot/          # Stanford AI Vibrancy source screenshots and cleaned country scores
-│   │   ├── ai_country_scores.csv              # Main AI Vibrancy country-level score table used in correlations
-│   │   ├── ai_country_scores_long.csv         # Long-format version for plotting and diagnostics
-│   │   └── *.png                              # Source screenshots retained for traceability
 │   ├── Human expert framing labels/           # Human annotation materials for calibrating LLM sentence labels
-│   │   ├── collected_data/                    # Raw collected human annotation files
-│   │   ├── data_colletion_tool/               # Annotation interface and gold-label codebook materials
-│   │   └── processed_data/                    # Daria + Stephen agreement sets and agreement summaries
 │   ├── Index of Economic Freedom/             # Raw Heritage Foundation IEF country files
-│   │   ├── G7+China All Data                  # Combined source file for the eight-country IEF panel
-│   │   └── country-level IEF files            # Individual country source files
 │   ├── number/                                # Numeric datasets used for AI development and economic analysis
-│   │   ├── g7_china_datasets.csv              # Stanford AI Index files containing enough G7 + China coverage
-│   │   ├── ief_g7_china_panel.csv             # Clean 1995-2026 IEF panel used in the correlation study
-│   │   ├── ai_dev_index_g7_china.csv          # Derived AI development index dataset
-│   │   └── PUBLIC DATA_ 2026 AI INDEX REPORT/ # Stanford AI Index public CSV source data
 │   └── pdf/
 │       └── AI Policy/                         # National AI strategy / AI policy document corpus
 │           ├── *_National_AI_Strategy*.pdf    # G7 + China source policy PDFs
 │           ├── EU_AI_Strategy.pdf             # EU benchmark policy document for descriptive framing analysis
 │           ├── 国务院关于深入实施“人工智能+”行动的意见.pdf
 │           ├── _extracted/                    # Extracted English text and document-level diagnostics
-│           │   ├── *_analysis_english.txt     # English analysis corpus by country/entity
-│           │   ├── document_sources.csv       # Mapping from text files to source documents
-│           │   └── document_stats.csv         # Word/sentence/document diagnostics
 │           └── _translated_nllb/              # NLLB translations for Chinese-heavy texts
-│               ├── China.txt
-│               └── translation_stats.csv
 │
 ├── notebooks/                                 # Reproducible analysis notebooks
 │   ├── AI Development/
@@ -374,35 +357,6 @@ AI-Policy/
 │   └── llm_framing.py                         # DeepSeek/Ollama prompt, parsing, correction, and summary logic
 │
 ├── outputs/                                   # Generated tables, figures, and report artifacts
-│   ├── stanford_AI_Vibrancy.png               # README figure: AI Vibrancy total score ranking
-│   ├── stanford_AI_Vibrancy_component_radar.png
-│   │                                          # README figure: AI Vibrancy component radar
-│   ├── IEF_score.png                          # README figure: latest IEF ranking
-│   ├── IEF_score_by_year.png                  # README figure: IEF score trajectories over time
-│   ├── deepseek_ai_framing_sentence_labels_raw_daria_stephen_no_unsure_full.csv
-│   │                                          # Raw DeepSeek sentence-level labels before human override
-│   ├── deepseek_ai_framing_sentence_labels_corrected_daria_stephen_no_unsure_full.csv
-│   │                                          # Final sentence labels after exact human-gold correction
-│   ├── deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv
-│   │                                          # Country/entity-level corrected framing summary
-│   ├── deepseek_ai_framing_gold_metrics_daria_stephen_no_unsure_full.csv
-│   │                                          # Human-gold evaluation metrics for raw and corrected labels
-│   ├── deepseek_ai_framing_gold_confusion_daria_stephen_no_unsure_full.csv
-│   │                                          # Raw model confusion table against usable human-gold labels
-│   ├── deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png
-│   │                                          # README figure: corrected label composition and mean framing score
-│   ├── correlation_study_dataset_deepseek_corrected_daria_stephen_no_unsure_full.csv
-│   │                                          # Merged G7 + China dataset for correlation analysis
-│   ├── correlation_study_correlations_deepseek_corrected_daria_stephen_no_unsure_full.csv
-│   │                                          # Pearson/Spearman H1-H4 correlation table
-│   ├── correlation_study_regression_models_deepseek_corrected_daria_stephen_no_unsure_full.csv
-│   │                                          # OLS model coefficients and model diagnostics
-│   ├── correlation_study_mediation_deepseek_corrected_daria_stephen_no_unsure_full.csv
-│   │                                          # Exploratory mediation diagnostic
-│   ├── correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png
-│   ├── correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png
-│   └── AI_policy_methodology_conceptual_framework.docx
-│                                              # Word methodology document generated from current workflow
 │
 ├── tests/                                     # Lightweight regression tests and legacy test scaffolding
 ├── PolicyBrief.md                             # Policy-facing written summary draft
