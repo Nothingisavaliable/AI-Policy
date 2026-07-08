@@ -9,52 +9,6 @@
 
 ---
 
-<!-- ## Research Question
-How could the future of AI evolve? Much of this depends on if it is viewed as an opportunity or a danger. One perspective that has not been explored is the relationship between economic freedom and how AI is viewed and discussed. In more economically free countries, is AI innovation encouraged in glowing terms for the sake of the economy? On the other hand, in less economically free countries,  is more cautious terminology utilized to encourage confidence in a watchful government? Our research seeks to answer this question: __what relationship, if any, exists between economic freedom and AI regulatory rhetoric?__
-
-
----
-
-## Data Sources
-
-
-| Source | Description | URL |
-|---|---|---|
-| Google Drive source folder | National AI strategy PDF documents used for text analysis | [AI Policy PDFs](https://drive.google.com/drive/folders/1CCiBmppafwtXLRVTpnryIY8Y9PLvxwvG) |
-| The Heritage Foundation | Economic Freedom Index scores and rankings across countries | [Economic Freedom Index](https://economicfreedom.heritage.org/pages/all-country-scores) |
-| Freedom House | Global indicators of political rights and civil liberties | [Freedom in the World](https://freedomhouse.org/report/freedom-world) |
-| V-Dem Institute | Democracy and institutional quality metrics | [V-Dem Dataset](https://www.v-dem.net/data/the-v-dem-dataset/) |
-| Comparative Agendas Project (CAP) | Legislative and policy agenda datasets related to technology and AI regulation | [Comparative Agendas Project](https://www.comparativeagendas.net/) |
-
----
-
-## Data Sources Details
-
-- The Google Drive source folder provides the national AI strategy PDFs used for text extraction and framing analysis.
-- The Heritage Foundation Index of Economic Freedom offers standardized measures of market openness and government intervention.
-- Freedom House and V-Dem help control for political systems, institutional quality, and civil liberties.
-- CAP provides legislative text and policy agenda information relevant to technology governance.
-
----
-
----
-## Methodology
-
-To investigate the relationship between economic freedom and AI regulatory rhetoric, this project will:
-
-- Collect AI-related policy documents from the Google Drive source folder and obtain economic freedom indicators from the Heritage Foundation Index of Economic Freedom.
-
-- Use OCR and natural language processing (NLP) techniques to extract and analyze AI policy rhetoric within G7 countries’ official policy documents.
-
-- Identify recurring themes, sentiment, and regulatory framing regarding artificial intelligence.
-
-- Compare differences in rhetoric across countries with varying levels of economic freedom.
-
-- Analyze the relationship between Economic Freedom Index scores and AI policy rhetoric using:
-  - Qualitative analysis (written interpretation, thematic analysis, and mind maps)
-  - Quantitative analysis (correlation analysis and statistical comparison)
-
---- -->
 
 
 ## Executive Summary:
@@ -266,7 +220,6 @@ The current corrected full run contains **3,730 sentences** across nine countrie
   <img src="outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png" alt="DeepSeek Corrected Country Framing Summary" width="780">
 </p>
 
-Outputs are saved in `outputs/deepseek_ai_framing_sentence_labels_raw_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_sentence_labels_corrected_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv`, `outputs/deepseek_ai_framing_gold_metrics_daria_stephen_no_unsure_full.csv`, and `outputs/deepseek_ai_framing_gold_confusion_daria_stephen_no_unsure_full.csv`.
 
 These corrected outputs provide the empirical anchor for H1-H4 by translating sentence-level regulatory discourse into country/entity-level innovation and risk framing measures.
 
