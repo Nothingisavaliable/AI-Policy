@@ -85,7 +85,7 @@ Human annotation is used to calibrate and audit the LLM labels. The authors esta
 
 ## AI Vibrancy
 
-AI vibrancy is measured using the Stanford AI Index country-level AI Vibrancy scores for the G7 countries and China. The main country-level predictor is the **Total Score**, renamed in the analysis as `AI Vibrancy Score`. Component dimensions such as R&D, Responsible AI, Economy, Talent, Policy and Governance, Public Opinion, and Infrastructure are retained for descriptive analysis.
+AI vibrancy is measured using the Stanford AI Index country-level AI Vibrancy scores for the G7 countries and China. The main country-level predictor is the **Total Score**, renamed in the analysis as `AI Vibrancy Score`. 
 
 ## Economic Freedom
 
