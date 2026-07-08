@@ -1,254 +1,55 @@
-# AI Policy Brief
+# White Paper: AI’s Relationship with Economic Freedom
 
----
+
+## Executive Summary:
+
+
+*This research finds no positive correlations between a nation’s AI policy discourse, its institutional environment, and its economic maturity. On the contrary, economically free countries are associated with more risk-oriented framing of AI risk governance, instead of innovation-friendly framing.* 
 
 ## Introduction
-**Contributors: Hayden and Stephen**
+   Following generative AI’s rapid emergence in 2022, global governance has split between prioritizing innovation and investment versus safety and regulatory oversight. This exploratory study examines the determinants of these divergent approaches, evaluating whether a nation's AI policy discourse is shaped by its institutional environment (Economic Freedom) and ecosystem maturity (AI Vibrancy).
 
-### Context
-- Review of existing research
-- Importance and relevance of the topic
-- Why this matters to stakeholders
+## Overview
 
-### Research Framework
-This brief examines the relationship between AI ecosystem vibrancy and economic policy environments, using:
-- **Stanford AI Vibrancy Index** – measures the health and dynamism of AI ecosystems
-- **Economic Freedom Scores** – indicators of regulatory openness and market-based policies
+   AI Vibrancy and Economic Freedom and serve as the independent variables in this analysis due to their reflection of two complementary dimensions of national AI ecosystems: overarching institutional orientation and technological capacity. First, AI Vibrancy represents the AI ecosystem present in each country. This variable reflects national progress in AI development, in areas including research output, talent, and capital.  First, Economic Freedom represents the institutional dimension. This represents whether a government inherently trusts market forces to guide innovation, likely resulting in regulatory frameworks acting as market referees, or whether it substitutes emphasizes state intervention, more likely correlating with restrictive, risk-averse policy postures. Meanwhile, our dependent variable is policy rhetoric, dividing into either innovation-oriented or risk-oriented rhetoric. All of these metrics are examined with quantitative methods, to ensure concrete, reproducible research.
 
-### Executive Summary
-- [Stephen to add 5 key bullet points here]
+## Research Question
 
----
+How do variations in economic freedom and AI vibrancy shape the dominant framing embedded in national discourse, and how do these relationships vary across G7 countries and China? 
 
-## Research Hypotheses
+## Hypotheses
 
-**H1:** Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-enabling rhetoric in their national policy documents.
-
-**H2:** Countries with less developed AI ecosystems are expected to have weaker industry stakeholders and risk-oriented policy agendas, encouraging governments to frame AI regulation in restrictive rather than innovation-focused terms.
-
-**H3:** Countries whose AI regulatory discourse is more positive and innovation-oriented will exhibit higher economic freedom scores.
-
-**H4:** Countries whose AI regulatory discourse is more negative and risk-oriented will exhibit lower economic freedom scores.
-
----
+H1: Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-oriented rhetoric in their national policy documents. 
+H2: Countries with lower Stanford AI Vibrancy scores will exhibit more risk-oriented rhetoric in their national policy documents. 
+H3: Countries whose AI regulatory discourse is more positive and innovation-oriented will exhibit higher economic freedom scores. 
+H4: Countries whose AI regulatory discourse is more negative and risk-oriented will exhibit lower economic freedom scores. 
 
 ## Methodology
-**Lead: Cheng**
+   
+   Using computational text analysis, this research evaluated national AI strategy documents from the G7 nations and China to quantify their reliance on innovation versus risk-oriented framing. These linguistic measures were then cross-checked against the Heritage Foundation Index of Economic Freedom and Stanford AI Vibrancy scores using correlation and regression analyses.
+	
+   Accordingly, we measured AI Vibrancy, Economic Freedom, and Rhetoric using concrete qualitative methods. First, AI Vibrancy, which was used to reflect the strength and maturity of each country’s AI ecosystem, was attained through the Stanford AI Index AI Vibrancy country scores stored in the project dataset. Second, Economic Freedom, the measure of state intervention, was measured with the Heritage Foundation Index of Economic Freedom. The analysis used the latest available index year in the project panel, which is 2026 in the current dataset. Third, in relation to Rhetoric, the authors conducted their own data analysis, treating AI regulatory discourse as a measurable policy signal. Policy documents from each of the G7 nations and China were chosen, with sentences assigned to one of five labels, reflecting degrees of innovation vs. risk-orientations.While the primary substantive contrast was tested between innovation-oriented and risk-oriented framing, the inclusion of mixed and neutral labels was done to prevent the model from forcing ambiguous or descriptive sentences into substantive categories.
+	
+   In relation to the workflow, DeepSeek through Ollama was utilized. The model classified each sentence independently, in order to reduce cross-sentence leakage, and make each label auditable at the sentence level. And, in order to enhance accuracy, human calibration was a central quality-control step, being designed to avoid blindly trusting LLM output. Human annotations were used both to guide the model through few-shot examples, and to correct exact matched sentences in the final output.
 
-### Data Sources
-This project combines three types of evidence: country-level AI ecosystem indicators, economic freedom indicators, and sentence-level AI policy discourse.
+## Key Findings
 
-1. **AI Vibrancy**  
-   AI ecosystem strength is measured using Stanford AI Index AI Vibrancy country scores for the G7 countries and China. The main variable is the overall **AI Vibrancy Score**, with component dimensions such as R&D, Responsible AI, Economy, Talent, Policy and Governance, Public Opinion, and Infrastructure retained for descriptive analysis.
+   Initial findings seemed to disprove all of this study’s hypotheses, indicating no association between rhetoric and AI Vibrancy, and showing that Economic Freedom actually had an unexpected, moderate inverse relationship with innovation framing. However, upon further study, this rejection of the hypotheses has additional nuance.
 
-2. **Economic Freedom**  
-   Economic freedom is measured using the Heritage Foundation Index of Economic Freedom. The analysis uses the latest year available in the project panel, **2026**, and focuses on the **IEF Overall Score**.
+   First, in relation to Hypotheses 1 and 2, which AI Vibrancy and Rhetoric, the results initially appeared to show no clear relationship. However, upon an outlier check, the United States was found to skew the data: excluding the U.S. showed a clear positive correlation between innovation-friendly rhetoric and AI Vibrancy, with the opposite true for risk-oriented. A possible explanation for the U.S. acting as an outlier is the rapid development of AI infrastructure: with public scrutiny and the threat of lawsuits encouraging the writing of more cautious policy language. Thus, Hypothesis 1 and 2 were supported with the exclusion of the United States.
+	
+   In relation to Hypothesis 3 and 4, for Economic Freedom and Rhetoric, our suppositions were not supported. Further, the opposite relationship appears to be true for innovation-oriented rhetoric: the more economically free a country, the more text it dedicates to risk-oriented rhetoric. This may be due to the role of governance in each country. For example, in countries with higher economic freedom scores, the government may act as a regulatory referee, allowing the private sector to innovate, and focusing its efforts on stipulating the “rules of the game.” Meanwhile, in countries with lower economic freedom scores, as the government is acting as the central innovative actor, it refrains from limiting its own actions, with policies acting as promotional, general blueprints. 
+In sum, this study indicates that while AI Vibrancy and Rhetoric may have a positive, correlative relationship, Economic Freedom and Rhetoric may have an inverted, negative relationship.
 
-3. **National AI Policy Texts**  
-   The text corpus includes national AI strategy and AI policy documents from the G7 countries and China. The European Union is also included in the descriptive framing analysis as an influential regulatory benchmark, but it is excluded from the correlation analysis because the main predictors are country-level AI Vibrancy and IEF scores.
+## Divergences & Strategic Nuance
 
-4. **Human Expert Labels**  
-   Human annotation is used to calibrate and audit the LLM labels. Daria and Stephen agreed on 23 sampled sentences. After excluding human-gold `Unsure` labels, the current workflow uses **16 substantive human gold labels** for few-shot prompting, exact-match correction, and evaluation.
+   Several nations deviated sharply from expectations. Most notably, China combined lower economic freedom with a world-leading AI ecosystem and the sample's highest concentration of innovation-oriented framing. These patterns suggest that a government's communication strategy may be driven less by its underlying economic institutions and more by dominant strategic objectives, such as industrial policy and national development priorities.
 
-### Analysis Techniques
-- **Sentence-Level Framing Analysis**  
-  The unit of analysis is the sentence. Each policy sentence is classified into one of five framing labels:
-  - **Innovation-oriented**: emphasizes innovation, adoption, investment, competitiveness, productivity, or flexible regulation.
-  - **Risk-oriented**: emphasizes risk, safety, accountability, privacy, fairness, human rights, or regulatory obligations.
-  - **Mixed**: contains both innovation and risk framing in the same sentence.
-  - **Neutral**: descriptive, administrative, or procedural.
-  - **Unsure**: unclear residual category.
+## Conclusion
 
-- **LLM Labeling and Human Correction**  
-  Sentence labels are generated locally using **DeepSeek R1 14B via Ollama**. The prompt includes the project codebook and human-annotated examples. The model returns structured JSON containing the label, confidence score, and reason. The workflow retains both raw model labels and corrected labels.
+   This study demonstrates the utility of pairing computational text analysis with comparative policy indicators. The findings suggest that future research into diverging global AI governance standards must move beyond traditional institutional metrics to explicitly incorporate geopolitical context, state capacity, and national security considerations.
 
-  Correction rule:
 
-  ```text
-  corrected_label =
-      human_gold_label, if the sentence is present in the usable human gold set
-      model_label, otherwise
-  ```
++Hayden will Add Limitations Here to 3 Pages
 
-  In the current run, raw DeepSeek accuracy on the usable human gold set is **75%**. After exact human-gold overrides, corrected accuracy is **100%**, with **4 human overrides** applied.
 
-- **Country-Level Framing Measures**  
-  Corrected sentence labels are aggregated by country. Innovation-oriented sentences receive `+1`, risk-oriented sentences receive `-1`, and mixed, neutral, and unsure sentences receive `0` in the net framing score. The main country-level measures are:
-  - **Innovation Share**
-  - **Risk Share**
-  - **Mean Framing Score**
-  - **Innovation-to-Risk Ratio**
-  - **Log Innovation-to-Risk Ratio**
-
-- **Correlation Analysis**  
-  The correlation study merges Stanford AI Vibrancy scores, 2026 IEF scores, and corrected DeepSeek framing measures for the G7 countries plus China. Because the country-level sample contains only **8 observations**, the analysis is exploratory. Pearson and Spearman correlations, OLS regressions, and an exploratory mediation diagnostic are interpreted as directional evidence rather than confirmatory causal estimates.
-
----
-
-## Results
-**Lead Contributors: Sheena, Daria, and Cheng**
-
-### Key Findings
-**Headline findings**
-- The full G7 + China sample does not support H1-H4: AI Vibrancy and Economic Freedom do not map cleanly onto innovation- or risk-oriented AI policy rhetoric.
-- Outlier sensitivity checks reveal two theoretically important cases: the United States is a high-vibrancy but risk-conscious case, while China is a low-IEF but strongly innovation-oriented case.
-- Removing the United States substantially changes the AI Vibrancy relationship: H1 becomes strongly positive and H2 flips into the expected direction. Removing China weakens H3 but does not rescue the economic freedom hypotheses.
-- The main interpretation is not that outliers should be removed, but that AI governance discourse reflects different national governance models, not only macro-level AI capacity or economic openness.
-
-1. **AI Vibrancy is highly uneven across the G7 + China sample.**  
-   The United States is the clear AI Vibrancy leader (`77.85`), followed by China (`35.10`). The remaining G7 countries form a much tighter middle-to-lower cluster, ranging from the United Kingdom (`20.06`) to Germany (`12.35`). This uneven distribution matters because the United States has very high AI ecosystem capacity but does not show the most innovation-oriented AI policy rhetoric.
-
-   <p align="center">
-     <img src="outputs/stanford_AI_Vibrancy.png" alt="Stanford AI Vibrancy" width="680">
-   </p>
-
-   <p align="center">
-     <img src="outputs/stanford_AI_Vibrancy_component_radar.png" alt="Stanford AI Vibrancy Component Radar" width="640">
-   </p>
-
-   | Rank | Country | AI Vibrancy Score |
-   |---:|---|---:|
-   | 1 | United States | 77.85 |
-   | 2 | China | 35.10 |
-   | 3 | United Kingdom | 20.06 |
-   | 4 | Japan | 17.70 |
-   | 5 | France | 16.62 |
-   | 6 | Canada | 15.46 |
-   | 7 | Italy | 13.18 |
-   | 8 | Germany | 12.35 |
-
-2. **Economic Freedom separates China from the G7 more clearly than it separates G7 countries from each other.**  
-   Canada (`75.6`), the United States (`72.8`), Germany (`71.7`), the United Kingdom (`70.4`), and Japan (`70.3`) score in a relatively high range on the 2026 IEF Overall Score. France (`64.6`) and Italy (`63.3`) are lower but still well above China (`48.3`). This makes China a useful contrast case for testing whether economic freedom is associated with AI regulatory framing.
-
-   <p align="center">
-     <img src="outputs/IEF_score.png" alt="Index of Economic Freedom" width="680">
-   </p>
-
-   <p align="center">
-     <img src="outputs/IEF_score_by_year.png" alt="Index of Economic Freedom by Year" width="760">
-   </p>
-
-   | Rank | Country | 2026 IEF Overall Score |
-   |---:|---|---:|
-   | 1 | Canada | 75.6 |
-   | 2 | United States | 72.8 |
-   | 3 | Germany | 71.7 |
-   | 4 | United Kingdom | 70.4 |
-   | 5 | Japan | 70.3 |
-   | 6 | France | 64.6 |
-   | 7 | Italy | 63.3 |
-   | 8 | China | 48.3 |
-
-3. **The corrected framing model identifies meaningful variation across countries, but most countries are more innovation-oriented than risk-oriented.**  
-   Across the full corrected framing run, the model labeled **3,730 sentences** across 9 countries/entities. China, France, and the United Kingdom have the highest mean framing scores, indicating strongly innovation-oriented policy language. Canada and the United States have the lowest mean framing scores among the analyzed cases, reflecting a more balanced or risk-conscious discourse.
-
-   <p align="center">
-     <img src="outputs/deepseek_ai_framing_country_summary_corrected_daria_stephen_no_unsure_full.png" alt="Corrected DeepSeek framing summary" width="760">
-   </p>
-
-   | Country/entity | Total sentences | Innovation-oriented | Risk-oriented | Mean framing score | Innovation-to-risk ratio |
-   |---|---:|---:|---:|---:|---:|
-   | China | 241 | 167 | 23 | 0.598 | 7.128 |
-   | France | 215 | 130 | 6 | 0.577 | 20.077 |
-   | United Kingdom | 372 | 233 | 19 | 0.575 | 11.974 |
-   | Japan | 176 | 96 | 35 | 0.347 | 2.718 |
-   | Germany | 462 | 215 | 79 | 0.294 | 2.711 |
-   | Italy | 440 | 190 | 60 | 0.295 | 3.149 |
-   | United States | 381 | 167 | 101 | 0.173 | 1.650 |
-   | Canada | 306 | 105 | 78 | 0.088 | 1.344 |
-
-   The correlation figures below summarize the G7 + China hypothesis tests, the outlier-excluded sensitivity checks, and pairwise relationships among the merged quantitative variables.
-
-   <p align="center">
-     <img src="outputs/correlation_study_scatter_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Correlation study scatter plots" width="820">
-   </p>
-
-   <p align="center">
-     <img src="outputs/correlation_study_scatter_outlier_excluded_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Outlier-excluded correlation study scatter plots" width="820">
-   </p>
-
-   <p align="center">
-     <img src="outputs/correlation_study_matrix_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Correlation study matrix" width="650">
-   </p>
-
-   <p align="center">
-     <img src="outputs/correlation_study_outlier_sensitivity_plot_deepseek_corrected_daria_stephen_no_unsure_full.png" alt="Outlier sensitivity check" width="720">
-   </p>
-
-4. **In the full sample, AI Vibrancy does not predict more innovation-oriented rhetoric.**  
-   H1 expected countries with higher AI Vibrancy scores to show more innovation-oriented language. The observed Pearson correlation between AI Vibrancy and Innovation Share is almost zero and slightly negative (`r = -0.030`, `p = 0.9429`). This means the current G7 + China sample does **not** support H1.
-
-5. **In the full sample, lower AI Vibrancy does not predict more risk-oriented rhetoric.**  
-   H2 expected lower AI Vibrancy to correspond to higher Risk Share. The observed relationship moves in the opposite direction: AI Vibrancy and Risk Share are positively correlated (`r = 0.407`, `p = 0.3172`). This does **not** support H2.
-
-6. **Economic freedom is not associated with more innovation-oriented framing in the expected direction.**  
-   H3 expected higher IEF scores to align with higher Innovation Share. Instead, the observed correlation is negative (`r = -0.689`, `p = 0.0589`). Although this is not treated as confirmatory evidence because `N = 8`, it clearly does **not** support the expected positive direction.
-
-7. **Risk-oriented framing is not associated with lower economic freedom in this sample.**  
-   H4 expected countries with more risk-oriented AI discourse to have lower IEF scores. The observed correlation between Risk Share and IEF is positive (`r = 0.534`, `p = 0.1728`), so H4 is **not supported**.
-
-8. **Robustness checks using the log innovation-to-risk ratio reach the same overall conclusion.**  
-   The log innovation-to-risk ratio is negatively associated with both AI Vibrancy (`r = -0.264`, `p = 0.5280`) and IEF (`r = -0.478`, `p = 0.2312`). The combined OLS model using AI Vibrancy and IEF explains some variation descriptively (`R2 = 0.298`), but the sample is too small for strong inference.
-
-9. **Outlier sensitivity checks reveal two theoretically important cases: the United States and China.**  
-   The United States is treated as a sensitivity case for H1/H2 because it is by far the highest-AI-vibrancy country but has comparatively risk-conscious policy framing. China is treated as a sensitivity case for H3/H4 because it has the lowest IEF score but one of the strongest innovation-oriented framing profiles. These exclusions are diagnostic, not replacements for the full-sample results.
-
-   | Test | Full sample result | Outlier-excluded result | Interpretation |
-   |---|---:|---:|---|
-   | H1: AI Vibrancy -> Innovation Share | `r = -0.030` | Excluding U.S.: `r = 0.737` | H1 becomes strongly positive once the high-vibrancy, risk-conscious U.S. case is removed |
-   | H2: AI Vibrancy -> Risk Share | `r = 0.407` | Excluding U.S.: `r = -0.326` | Direction flips to the expected negative relationship, but remains weak |
-   | H3: IEF -> Innovation Share | `r = -0.689` | Excluding China: `r = -0.430` | Negative relationship weakens but still does not support H3 |
-   | H4: Risk Share -> IEF | `r = 0.534` | Excluding China: `r = 0.687` | Relationship remains opposite to H4 and becomes stronger |
-
-   The outlier results suggest that the U.S. and China are not merely statistical noise. They represent substantively different AI governance models: the United States combines high AI capacity with risk-conscious discourse, while China combines low economic freedom with state-led innovation framing.
-
-### Hypothesis Summary
-
-| Hypothesis | Expected relationship | Result |
-|---|---|---|
-| H1 | Higher AI Vibrancy -> more innovation-oriented rhetoric | Not supported |
-| H2 | Lower AI Vibrancy -> more risk-oriented rhetoric | Not supported |
-| H3 | Higher Economic Freedom -> more innovation-oriented rhetoric | Not supported |
-| H4 | More risk-oriented rhetoric -> lower Economic Freedom | Not supported |
-
-Outlier sensitivity changes the interpretation of H1 most clearly: excluding the United States produces a strong positive AI Vibrancy-to-Innovation Share relationship. However, because this is a seven-country diagnostic after removing a theoretically unusual case, the full-sample result remains the main finding.
-
-### Interpretation of Results
-
-The current results suggest that national AI policy rhetoric is not simply a reflection of AI ecosystem strength or market-oriented economic policy. Countries with high AI Vibrancy, such as the United States, can still use relatively risk-conscious language. Countries with lower economic freedom, such as China, can still frame AI policy in strongly innovation-oriented terms. The outlier sensitivity checks sharpen this point: the U.S. and China are precisely the cases that complicate simple linear expectations.
-
-Substantively, this implies that AI policy discourse may be shaped by strategic state priorities, institutional governance traditions, geopolitical competition, and document purpose, rather than by economic freedom or AI ecosystem maturity alone.
-
-The most important policy takeaway is therefore negative but informative: **AI governance rhetoric should not be assumed to map neatly onto economic openness or AI development capacity.** Policymakers and analysts should examine the content and institutional context of AI policy documents directly rather than inferring regulatory orientation from macro-level indicators alone.
-
----
-
-## Discussion
-**Lead Contributors: Daria and Sheena**
-
-### Interpretation
-- What do these results reveal about AI policy landscapes?
-- Implications for understanding the vibrancy-policy relationship
-
-### Limitations
-- [Research constraints and caveats]
-- [Data limitations]
-- [Methodological considerations]
-
----
-
-## Conclusion & Future Directions
-**Lead: Stephen (with contributions from team)**
-
-### Key Takeaways
-- [Main findings summary]
-
-### Policy Implications
-- [What policymakers should consider]
-
-### Future Research Directions
-- [Open questions and next steps]
-
----
-
-*Document prepared by: Hayden, Stephen, Cheng, Sheena, and Daria*
