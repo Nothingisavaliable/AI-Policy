@@ -37,6 +37,7 @@ How could the future of AI evolve? Much of this depends on if it is viewed as an
 
 ---
 
+---
 ## Methodology
 
 To investigate the relationship between economic freedom and AI regulatory rhetoric, this project will:
@@ -106,6 +107,21 @@ Countries whose AI regulatory discourse is more negative and risk-oriented will 
 
 ### Rationale
 Negative regulatory framing may reflect broader ideological commitments away from market liberalism and economic openness, which are captured by economic freedom indicators.
+
+---
+## Data Sources
+
+| Source | Description | URL / Reference |
+| :--- | :--- | :--- |
+| **National AI Strategy Documents** | National AI strategy PDF documents used for text analysis. | *Collected from available public websites* |
+| **The Heritage Foundation** | Economic Freedom Index scores and rankings across countries. | [Economic Freedom Index](https://economicfreedom.heritage.org/pages/all-country-scores) |
+| **Stanford HAI** | AI Index reports measuring global AI vibrancy across research, development, and economy. | [Stanford AI Index](https://hai.stanford.edu/ai-index) |
+
+---
+
+### Human Expert Labels
+
+Human annotation is used to calibrate and audit the LLM labels. Experts (Daria and Stephen) established consensus and agreed on a random sample of 23 sentences extracted from the national strategy PDFs.
 
 ---
 
