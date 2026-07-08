@@ -133,7 +133,6 @@ Correlation analysis is conducted in `notebooks/Correlation Study/correlation_st
 - Stanford AI Vibrancy scores and risk-oriented framing
 - Economic Freedom scores and innovation-oriented framing
 - Risk-oriented framing and Economic Freedom scores
-- Combined AI Vibrancy + Economic Freedom predictors and the log innovation-to-risk framing ratio
 
 The current notebook uses the corrected DeepSeek framing output by default: `outputs/deepseek_ai_framing_summary_corrected_daria_stephen_no_unsure_full.csv`. The European Union is included in descriptive framing summaries but excluded from the G7 + China correlation sample because comparable AI Vibrancy and IEF country scores are not used for it in this study.
 
