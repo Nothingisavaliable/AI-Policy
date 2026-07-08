@@ -19,9 +19,9 @@
 
 ## Background
 
-Existing research has examined AI governance through various lenses; however, the relationship between economic freedom and AI-related policy discourse remains underexplored. This research seeks to address that gap by investigating whether a country’s level of economic freedom shapes how governments frame the development and regulation of AI within national strategy documents.
+## Background
 
-In particular, this study compares the G7 countries and China to analyze how different economic and political environments influence AI regulatory narratives, policy priorities, and governance orientations.
+As Generative AI emerged onto the global stage in 2022, increased productivity, reduction of unnecessary labor costs, and rosy impacts to GDP have been highlighted at the highest levels of governance (Calvino, Reijerink, and Samek 2025). increases Data leaks, ‘black-box’ decision making, and risks to privacy and mental health have motivated some governments to take action. Yet, the adoption of Generative AI tools has not been without its problems. Data leaks, ‘black-box’ decision making, and risks to privacy and mental health have motivated some governments to take action. Unfortunately, for democratic nations, this has meant fragmented and inconsistent regulatory measures (Schiff 2025), with divergence between low regulation countries such as the United States, and high regulation blocks such as the European Union. As the future of AI looks increasingly divergent, what are the factors that inform these divergences? This exploratory study examines the determinants of these divergent approaches, evaluating whether a nation's AI policy discourse is shaped by its institutional environment (Economic Freedom) and ecosystem maturity (AI Vibrancy). In particular, this study compares the G7 countries and China to analyze how different economic and political environments influence AI regulatory narratives, policy priorities, and governance orientations.
 
 ---
 
@@ -35,7 +35,7 @@ In particular, this study compares the G7 countries and China to analyze how dif
 
 ## H1 — AI Vibrancy and Innovation-Oriented Rhetoric
 
-Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-enabling rhetoric in their national policy documents.
+Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-oriented rhetoric in their national policy documents.
 
 ### Rationale
 Countries with more developed AI ecosystems are expected to have stronger industry stakeholders and innovation-oriented policy agendas, encouraging governments to frame AI regulation in enabling rather than restrictive terms.
@@ -44,7 +44,7 @@ Countries with more developed AI ecosystems are expected to have stronger indust
 
 ## H2 — AI Vibrancy and Risk-Oriented Rhetoric
 
-Countries with lower Stanford AI Vibrancy scores will exhibit more risk-enabling rhetoric in their national policy documents.
+Countries with lower Stanford AI Vibrancy scores will exhibit more risk-oriented rhetoric in their national policy documents.
 
 ### Rationale
 Countries with less developed AI ecosystems are expected to have weaker industry stakeholders and risk-oriented policy agendas, encouraging governments to frame AI regulation in restrictive rather than enabling terms.
@@ -79,7 +79,7 @@ Negative regulatory framing may reflect broader ideological commitments away fro
 
 ### Human Expert Labels
 
-Human annotation is used to calibrate and audit the LLM labels. Experts (Daria and Stephen) established consensus and agreed on a random sample of 23 sentences extracted from the national strategy PDFs.
+Human annotation is used to calibrate and audit the LLM labels. The authors established a consensus and agreed on a random sample of 23 sentences extracted from the national strategy PDFs.
 
 ---
 
@@ -111,7 +111,7 @@ The model prompt includes the project codebook and human-annotated gold examples
 
 ## Human Calibration and Correction
 
-The LLM labeling workflow is calibrated with human expert annotations rather than treated as a fully automatic black box. A sample of 40 sentences was independently annotated by multiple human annotators. Annotator 1 showed lower annotation stability, so the final calibration workflow uses the Daria + Stephen consensus labels.
+The LLM labeling workflow is calibrated with human expert annotations rather than treated as a fully automatic black box. A sample of 40 sentences was independently annotated by multiple human annotators. Annotator 1 showed lower annotation stability, so the final calibration workflow uses the Daria + Stephen (two of the authors of this research) consensus labels.
 
 Daria and Stephen agreed on 23 sentences. For the current `daria_stephen_no_unsure_full` run, human-gold `Unsure` labels are excluded, leaving **16 substantive gold labels** for few-shot examples, exact sentence overrides, and model evaluation. Raw DeepSeek accuracy on this usable gold set is **75%**; after exact human-gold overrides, corrected accuracy is **100%**. The full run applies **4 human overrides**.
 
