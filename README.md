@@ -349,6 +349,9 @@ AI-Policy/
 ## Academic Sources
 
     Calvino, Flavio, Jelmer Reijerink, and Lea Samek. 2025. The Effects of Generative AI on Productivity, Innovation and Entrepreneurship. OECD Artificial Intelligence Papers, No. 39. Paris: Organisation for Economic Co-operation and Development. https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/the-effects-of-generative-ai-on-productivity-innovation-and-entrepreneurship_da1d085d/b21df222-en.pdf. 
+    Fattorini, Loredana, Nestor Maslej, Raymond Perrault, Vanessa Parli, John Etchemendy, Yoav Shoham, and Katrina Ligett. 2024. The Global AI Vibrancy Tool. AI Index Project, Institute for Human-Centered AI, Stanford University. November 2024. https://hai-production.s3.amazonaws.com/files/global_ai_vibrancy_tool_paper_november2024.pdf. 
+    Mitchell, Matthew D. 2024. “Economic Freedom: What Is It? How Is It Measured? And How Does It Affect Our Lives?” Fraser Institute. September 19, 2024. https://www.fraserinstitute.org/studies/economic-freedom-what-is-it-how-is-it-measured-and-how-does-it-affect-our-lives. 
     Schiff, Daniel S. 2025. “Strategies for Harmonizing Fragmented AI Ethics Frameworks, Standards, and Regulations.” In the Handbook of Human-Centered Artificial Intelligence, edited by W. Xu. Singapore: Springer. https://doi.org/10.1007/978-981-97-8440-0_82-1. 
+
 
 ---
