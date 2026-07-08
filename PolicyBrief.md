@@ -40,7 +40,7 @@ How do variations in economic freedom and AI vibrancy shape the dominant framing
 	
    In relation to Hypothesis 3 and 4, for Economic Freedom and Rhetoric, our suppositions were not supported. Further, the opposite relationship appears to be true for innovation-oriented rhetoric: the more economically free a country, the more text it dedicates to risk-oriented rhetoric. This may be due to the role of governance in each country. For example, in countries with higher economic freedom scores, the government may act as a regulatory referee, allowing the private sector to innovate, and focusing its efforts on stipulating the “rules of the game.” Meanwhile, in countries with lower economic freedom scores, as the government is acting as the central innovative actor, it refrains from limiting its own actions, with policies acting as promotional, general blueprints. 
    
-	In sum, this study indicates that while AI Vibrancy and Rhetoric may have a positive, correlative relationship, Economic Freedom and Rhetoric may have an inverted, negative relationship.
+	All in all, this study indicates that while AI Vibrancy and Rhetoric may have a positive, correlative relationship, Economic Freedom and Rhetoric may have an inverted, negative relationship.
 
 ## Divergences & Strategic Nuance
 
