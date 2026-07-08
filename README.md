@@ -57,6 +57,11 @@ To investigate the relationship between economic freedom and AI regulatory rheto
 --- -->
 
 
+## Executive Summary:
+
+*This research finds no positive correlations between a nation’s AI policy discourse, its institutional environment, and its economic maturity. On the contrary, economically free countries are associated with more risk-oriented framing of AI risk governance, instead of innovation-friendly framing.*
+
+---
 
 ## Background
 
