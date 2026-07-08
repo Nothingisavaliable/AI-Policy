@@ -1,8 +1,8 @@
 # AI-Policy
 
 ## Team Members
-- Hayden Hubbard (@hatori27)
-- Wu Cheng (@Nothingisavaliable)
+- Hayden (@hatori27)
+- Cheng (@Nothingisavaliable)
 - Daria (@complicatic)
 - Sheena (@sheenapham1)
 - Stephen (@St-ep-hen)
