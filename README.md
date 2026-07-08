@@ -345,3 +345,10 @@ AI-Policy/
 `src/` holds shared helper code now imported directly from the flat `src` directory. The most important modules are `llm_framing.py` for local DeepSeek sentence classification and correction, `human_framing.py` for processing expert annotations, and `data_utils.py` / `common.py` for cross-notebook data handling.
 
 `outputs/` contains generated artifacts rather than hand-edited source data. The DeepSeek files preserve the raw model labels, corrected sentence labels, human-gold diagnostics, and country-level framing summaries. The correlation files preserve the exact merged dataset and statistical outputs used in the README.
+
+## Academic Sources
+
+    Calvino, Flavio, Jelmer Reijerink, and Lea Samek. 2025. The Effects of Generative AI on Productivity, Innovation and Entrepreneurship. OECD Artificial Intelligence Papers, No. 39. Paris: Organisation for Economic Co-operation and Development. https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/the-effects-of-generative-ai-on-productivity-innovation-and-entrepreneurship_da1d085d/b21df222-en.pdf. 
+    Schiff, Daniel S. 2025. “Strategies for Harmonizing Fragmented AI Ethics Frameworks, Standards, and Regulations.” In the Handbook of Human-Centered Artificial Intelligence, edited by W. Xu. Singapore: Springer. https://doi.org/10.1007/978-981-97-8440-0_82-1. 
+
+---
