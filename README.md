@@ -275,10 +275,11 @@ Initial hypotheses predicted that countries with higher economic freedom would f
 
 In countries with higher economic freedom scores (such as the US and Canada), the state primarily acts as a regulatory referee. Because they rely on the private sector to drive technological advancement, their national policies focus heavily on defining legal boundaries, protecting individual rights, and setting safety guardrails - resulting in more risk-oriented text. Conversely, in systems with lower economic freedom scores (ranging from European nations with more state-directed industrial policies to an authoritarian state like China) the government takes a more active role in managing economic growth. In these cases, national policies serve as top-down promotional blueprints designed to mandate development, rally funding, and maximize competitiveness, which keeps the language focused heavily on innovation.
 
-## Limitations - Sheena
+## Limitations
+The sample is only seven G7 countries, which makes results highly sensitive to outlier, removing the US alone flips the sign of the vibrancy finding. The design is correlational, not causal: framing could shape vibrancy (or vice versa), or both could stem from a confound like GDP or political system. The explanations offered for the US (lawsuits, scrutiny) and China (state-directed policy) are plausible but untested, since litigation and state involvement weren't directly measured. Several G7 members also share EU/G7 governance frameworks, so their documents aren't fully independent observations. Finally, "innovation" vs. "risk" coding involved interpretive judgment without inter-coder reliability checks, and index scores are single-year snapshots matched to documents spanning multiple years.
 
-
-## Directions for Future Research
+## Directions for future research
+Expand the sample to OECD or G20 countries to improve statistical power and test whether the US/China patterns are genuine outliers. Use a longitudinal design to track framing changes over time alongside shifting vibrancy/freedom scores, enabling causal inference. Another option could be to test the proposed mechanisms directly — litigation volume, public controversy, state industrial-policy activity — as explicit variables. Strengthen the text analysis with multiple coders or a validated classifier applied to original-language documents. Another option may be to move beyond the innovation-vs-risk binary to include the "capacity-building" frame G7 documents also use. 
 
 ---
 
