@@ -19,10 +19,10 @@ How do variations in economic freedom and AI vibrancy shape the dominant framing
 
 ## Hypotheses
 
-H1: Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-oriented rhetoric in their national policy documents. 
-H2: Countries with lower Stanford AI Vibrancy scores will exhibit more risk-oriented rhetoric in their national policy documents. 
-H3: Countries whose AI regulatory discourse is more positive and innovation-oriented will exhibit higher economic freedom scores. 
-H4: Countries whose AI regulatory discourse is more negative and risk-oriented will exhibit lower economic freedom scores. 
+- **H1**: Countries with higher Stanford AI Vibrancy scores will exhibit more innovation-oriented rhetoric in their national policy documents.
+- **H2**: Countries with lower Stanford AI Vibrancy scores will exhibit more risk-oriented rhetoric in their national policy documents.
+- **H3**: Countries whose AI regulatory discourse is more positive and innovation-oriented will exhibit higher economic freedom scores.
+- **H4**: Countries whose AI regulatory discourse is more negative and risk-oriented will exhibit lower economic freedom scores. 
 
 ## Methodology
    
@@ -39,7 +39,8 @@ H4: Countries whose AI regulatory discourse is more negative and risk-oriented w
    First, in relation to Hypotheses 1 and 2, which AI Vibrancy and Rhetoric, the results initially appeared to show no clear relationship. However, upon an outlier check, the United States was found to skew the data: excluding the U.S. showed a clear positive correlation between innovation-friendly rhetoric and AI Vibrancy, with the opposite true for risk-oriented. A possible explanation for the U.S. acting as an outlier is the rapid development of AI infrastructure: with public scrutiny and the threat of lawsuits encouraging the writing of more cautious policy language. Thus, Hypothesis 1 and 2 were supported with the exclusion of the United States.
 	
    In relation to Hypothesis 3 and 4, for Economic Freedom and Rhetoric, our suppositions were not supported. Further, the opposite relationship appears to be true for innovation-oriented rhetoric: the more economically free a country, the more text it dedicates to risk-oriented rhetoric. This may be due to the role of governance in each country. For example, in countries with higher economic freedom scores, the government may act as a regulatory referee, allowing the private sector to innovate, and focusing its efforts on stipulating the “rules of the game.” Meanwhile, in countries with lower economic freedom scores, as the government is acting as the central innovative actor, it refrains from limiting its own actions, with policies acting as promotional, general blueprints. 
-In sum, this study indicates that while AI Vibrancy and Rhetoric may have a positive, correlative relationship, Economic Freedom and Rhetoric may have an inverted, negative relationship.
+   
+	In sum, this study indicates that while AI Vibrancy and Rhetoric may have a positive, correlative relationship, Economic Freedom and Rhetoric may have an inverted, negative relationship.
 
 ## Divergences & Strategic Nuance
 
