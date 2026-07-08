@@ -306,7 +306,7 @@ The correlation study combines Stanford AI Vibrancy scores, 2026 Heritage Index 
 
 With the United States excluded, H1 changes from no relationship to a strong positive association between AI Vibrancy and Innovation Share (`r = 0.737`, `p = 0.0586`; Spearman `rho = 0.821`, `p = 0.0234`). H2 also flips into the expected negative direction, although weakly (`r = -0.326`, `p = 0.4757`). With China excluded, H3 remains negative but weaker (`r = -0.430`, `p = 0.3357`), and H4 remains opposite to expectation (`r = 0.687`, `p = 0.0880`).
 
-Key outputs are saved in `outputs/correlation_study_dataset_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_correlations_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_outlier_sensitivity_deepseek_corrected_daria_stephen_no_unsure_full.csv`, `outputs/correlation_study_regression_models_deepseek_corrected_daria_stephen_no_unsure_full.csv`, and `outputs/correlation_study_mediation_deepseek_corrected_daria_stephen_no_unsure_full.csv`.
+
 
 ---
 
