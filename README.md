@@ -19,8 +19,6 @@
 
 ## Background
 
-## Background
-
 As Generative AI emerged onto the global stage in 2022, increased productivity, reduction of unnecessary labor costs, and rosy impacts to GDP have been highlighted at the highest levels of governance (Calvino, Reijerink, and Samek 2025). increases Data leaks, ‘black-box’ decision making, and risks to privacy and mental health have motivated some governments to take action. Yet, the adoption of Generative AI tools has not been without its problems. Data leaks, ‘black-box’ decision making, and risks to privacy and mental health have motivated some governments to take action. Unfortunately, for democratic nations, this has meant fragmented and inconsistent regulatory measures (Schiff 2025), with divergence between low regulation countries such as the United States, and high regulation blocks such as the European Union. As the future of AI looks increasingly divergent, what are the factors that inform these divergences? This exploratory study examines the determinants of these divergent approaches, evaluating whether a nation's AI policy discourse is shaped by its institutional environment (Economic Freedom) and ecosystem maturity (AI Vibrancy). In particular, this study compares the G7 countries and China to analyze how different economic and political environments influence AI regulatory narratives, policy priorities, and governance orientations.
 
 ---
