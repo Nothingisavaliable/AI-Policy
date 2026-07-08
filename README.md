@@ -117,7 +117,6 @@ Negative regulatory framing may reflect broader ideological commitments away fro
 | **The Heritage Foundation** | Economic Freedom Index scores and rankings across countries. | [Economic Freedom Index](https://economicfreedom.heritage.org/pages/all-country-scores) |
 | **Stanford HAI** | AI Index reports measuring global AI vibrancy across research, development, and economy. | [Stanford AI Index](https://hai.stanford.edu/ai-index) |
 
----
 
 ### Human Expert Labels
 
