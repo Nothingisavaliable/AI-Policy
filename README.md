@@ -111,7 +111,7 @@ The model prompt includes the project codebook and human-annotated gold examples
 
 The LLM labeling workflow is calibrated with human expert annotations rather than treated as a fully automatic black box. A sample of 40 sentences was independently annotated by multiple human annotators. Annotator 1 showed lower annotation stability, so the final calibration workflow uses the Daria + Stephen (two of the authors of this research) consensus labels.
 
-Daria and Stephen agreed on 23 sentences. For the current `daria_stephen_no_unsure_full` run, human-gold `Unsure` labels are excluded, leaving **16 substantive gold labels** for few-shot examples, exact sentence overrides, and model evaluation. Raw DeepSeek accuracy on this usable gold set is **75%**; after exact human-gold overrides, corrected accuracy is **100%**. The full run applies **4 human overrides**.
+Daria and Stephen agreed on 23 sentences. For the current `daria_stephen_no_unsure_full` run, human-gold `Unsure` labels are excluded, leaving **16 substantive gold labels** for few-shot examples, exact sentence overrides, and model evaluation. Raw DeepSeek accuracy on this usable gold set is **75%**; **4 human overrides** were applied.
 
 Correction logic:
 
