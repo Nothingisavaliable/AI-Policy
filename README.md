@@ -14,7 +14,7 @@ Responsible for Background Research and Report Compilation
 Responsible for Discussion and Implications
 
 - Stephen Chankov (@St-ep-hen)
-Responsible for Background Research and parts of executive summary and intro, along with Hayden. 
+Responsible for Background Research and, along with Hayden, parts of Executive Summary and Background.
 
 
 ---
