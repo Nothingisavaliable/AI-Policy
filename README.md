@@ -13,8 +13,8 @@ Responsible for Background Research and Report Compilation
 - Sheena (@sheenapham1)
 Responsible for Discussion and Implications
 
-- Stephen (@St-ep-hen)
-Responsible for Background Research and Conclusions
+- Stephen Chankov (@St-ep-hen)
+Responsible for Background Research and parts of executive summary and intro, along with Hayden. 
 
 
 ---
