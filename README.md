@@ -1,7 +1,7 @@
 # AI-Policy
 
 ## Team Members & Contributions
-- Cheng (@Nothingisavaliable)
+- Cheng WU (@Nothingisavaliable)
 Responsible for Data Analytics and Methodology
 
 - Daria CHELYUKANOVA (@complicatic)
