@@ -1,0 +1,287 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+/Length 3500
+>>
+stream
+BT
+/F2 24 Tf
+50 750 Td
+(White Paper: AI's Relationship with Economic Freedom) Tj
+ET
+
+BT
+/F2 16 Tf
+50 720 Td
+(Executive Summary) Tj
+ET
+
+BT
+/F1 11 Tf
+50 700 Td
+(This research finds no positive correlations between a nation's AI policy discourse,) Tj
+ET
+
+BT
+/F1 11 Tf
+50 685 Td
+(its institutional environment, and its economic maturity. Economically free countries) Tj
+ET
+
+BT
+/F1 11 Tf
+50 670 Td
+(are associated with more risk-oriented AI policy rhetoric.) Tj
+ET
+
+BT
+/F2 16 Tf
+50 640 Td
+(Introduction) Tj
+ET
+
+BT
+/F1 11 Tf
+50 620 Td
+(Following generative AI's rapid emergence in 2022, global governance has split) Tj
+ET
+
+BT
+/F1 11 Tf
+50 605 Td
+(between prioritizing innovation and investment versus safety and regulatory oversight.) Tj
+ET
+
+BT
+/F1 11 Tf
+50 590 Td
+(This exploratory study examines the relationship between AI policy discourse and) Tj
+ET
+
+BT
+/F1 11 Tf
+50 575 Td
+(economic indicators across G7 nations and China.) Tj
+ET
+
+BT
+/F2 16 Tf
+50 545 Td
+(Research Question) Tj
+ET
+
+BT
+/F1 11 Tf
+50 525 Td
+(How do variations in economic freedom and AI vibrancy shape the dominant framing) Tj
+ET
+
+BT
+/F1 11 Tf
+50 510 Td
+(embedded in national discourse, and how do these relationships vary across G7) Tj
+ET
+
+BT
+/F1 11 Tf
+50 495 Td
+(countries and China?) Tj
+ET
+
+BT
+/F2 16 Tf
+50 465 Td
+(Hypotheses) Tj
+ET
+
+BT
+/F1 11 Tf
+50 445 Td
+(H1: Countries with higher Stanford AI Vibrancy scores will exhibit more) Tj
+ET
+
+BT
+/F1 11 Tf
+60 430 Td
+(innovation-oriented rhetoric in their national policy documents.) Tj
+ET
+
+BT
+/F1 11 Tf
+50 410 Td
+(H2: Countries with lower Stanford AI Vibrancy scores will exhibit more) Tj
+ET
+
+BT
+/F1 11 Tf
+60 395 Td
+(risk-oriented rhetoric in their national policy documents.) Tj
+ET
+
+BT
+/F1 11 Tf
+50 375 Td
+(H3: Countries whose AI regulatory discourse is more positive and innovation-) Tj
+ET
+
+BT
+/F1 11 Tf
+60 360 Td
+(oriented will exhibit higher economic freedom scores.) Tj
+ET
+
+BT
+/F1 11 Tf
+50 340 Td
+(H4: Countries whose AI regulatory discourse is more negative and risk-oriented) Tj
+ET
+
+BT
+/F1 11 Tf
+60 325 Td
+(will exhibit lower economic freedom scores.) Tj
+ET
+
+BT
+/F2 16 Tf
+50 295 Td
+(Methodology) Tj
+ET
+
+BT
+/F1 11 Tf
+50 275 Td
+(Using computational text analysis, this research evaluated national AI strategy) Tj
+ET
+
+BT
+/F1 11 Tf
+50 260 Td
+(documents from the G7 nations and China to quantify their reliance on innovation) Tj
+ET
+
+BT
+/F1 11 Tf
+50 245 Td
+(versus risk-oriented framing. AI Vibrancy, Economic Freedom, and Rhetoric were) Tj
+ET
+
+BT
+/F1 11 Tf
+50 230 Td
+(measured using concrete qualitative methods. DeepSeek through Ollama was utilized,) Tj
+ET
+
+BT
+/F1 11 Tf
+50 215 Td
+(classifying each sentence independently to reduce cross-sentence leakage and ensure) Tj
+ET
+
+BT
+/F1 11 Tf
+50 200 Td
+(each label is auditable at the sentence level.) Tj
+ET
+
+BT
+/F2 16 Tf
+50 170 Td
+(Key Findings) Tj
+ET
+
+BT
+/F1 11 Tf
+50 150 Td
+(Initial findings disproved all hypotheses, indicating no association between rhetoric) Tj
+ET
+
+BT
+/F1 11 Tf
+50 135 Td
+(and AI Vibrancy. Economic Freedom actually had an unexpected, moderate negative) Tj
+ET
+
+BT
+/F1 11 Tf
+50 120 Td
+(correlation with innovation-oriented rhetoric. This study indicates that while AI) Tj
+ET
+
+BT
+/F1 11 Tf
+50 105 Td
+(Vibrancy and Rhetoric may have a positive correlative relationship, Economic) Tj
+ET
+
+BT
+/F1 11 Tf
+50 90 Td
+(Freedom and Rhetoric appear to have an inverted, negative relationship.) Tj
+ET
+
+BT
+/F2 14 Tf
+50 50 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000000322 00000 n 
+0000000403 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3960
+%%EOF
