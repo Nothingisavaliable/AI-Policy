@@ -4,14 +4,14 @@
 - Cheng (@Nothingisavaliable)
 Responsible for Data Analytics and Methodology
 
-- Daria (@complicatic)
+- Daria CHELYUKANOVA (@complicatic)
 Responsible for Key Findings and Discussion
 
 - Hayden (@hatori27)
 Responsible for Background Research and Report Compilation
 
 - Sheena (@sheenapham1)
-Responsible for Key Findings and Discussion
+Responsible for Discussion and Implications
 
 - Stephen (@St-ep-hen)
 Responsible for Background Research and Conclusions
